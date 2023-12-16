@@ -1,0 +1,382 @@
+Warrior TP-300 Blueprint*	0	0	-1	1	Jita IV - Moon 4 - Сборочный комплекс Caldari Navy*	Склад	Дрон электронного противодействия*
+Warrior SW-300 Blueprint*	0	0	-1	1	Jita IV - Moon 4 - Сборочный комплекс Caldari Navy*	Склад	Дрон постановки стазис-сети*
+Warrior I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Боевой дрон*
+Warrior I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Боевой дрон*
+Warp Scrambler I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Варп-глушитель*
+Warp Disruptor I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Варп-глушитель*
+Warp Disrupt Probe Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Зонд-генератор варп-помех*
+Warp Core Stabilizer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Стабилизатор квантового ядра*
+Vespa I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Боевой дрон*
+Vespa I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Боевой дрон*
+Vespa I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Боевой дрон*
+Venture Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Фрегат*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Valkyrie I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Боевой дрон*
+Valkyrie I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Боевой дрон*
+Uranium Charge S Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Uranium Charge M Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Tungsten Charge S Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Tungsten Charge M Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Tracking Speed Script Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Прошивка для систем наводки орудий*
+Tracking Disruptor I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Помехопостановщики наводке орудий*
+Tormentor Blueprint*	10	12	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Thrasher Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Эсминец*
+Thorium Charge S Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Thorium Charge M Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Targeting Range Script Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Прошивка для активного усилителя*
+Target Painter I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Система подсветки целей*
+Survey Scanner I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Комплекс для оценки размеров залежей*
+Survey Probe Launcher I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Пусковая установка лунных зондов*
+Station Warehouse Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Station Warehouse Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Station Vault Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Station Vault Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Station Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+3 x Stasis Webifier I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Генератор стазис-поля*
+Stasis Webification Probe Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Заградительные импульсные зонды*
+Small Warp Core Optimizer I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — астронавигация*
+Small Warhead Rigor Catalyst I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — ракетное оружие*
+Small Warhead Flare Catalyst I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — ракетное оружие*
+Small Warhead Calefaction Catalyst I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — ракетное оружие*
+Small Trimark Armor Pump I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — броня*
+Small Transverse Bulkhead I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — броня*
+Small Tractor Beam I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гравизахват*
+Small Tractor Beam I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Гравизахват*
+Small Tracking Diagnostic Subroutines I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — системы электронного противодействия*
+Small Thermal Shield Reinforcer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small Thermal Armor Reinforcer I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — броня*
+Small Targeting Systems Stabilizer I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — системы электронного противодействия*
+Small Targeting System Subcontroller I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль для целеуказания*
+Small Stasis Drone Augmentor I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — дроны*
+Small Standard Container Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Грузовой контейнер*
+Small Standard Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Грузовой контейнер*
+Small Signal Focusing Kit I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль для сканирования*
+Small Signal Disruption Amplifier I Blueprint*	8	16	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — системы электронного противодействия*
+Small Shield Extender I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Расширитель щита*
+Small Shield Booster I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Установка накачки силового поля*
+Small Sentry Damage Augmentor I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — дроны*
+Small Semiconductor Memory Cell I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small Semiconductor Memory Cell I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small Semiconductor Memory Cell I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small Secure Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный грузовой контейнер*
+Small Secure Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный грузовой контейнер*
+Small Salvage Tackle I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль для переработки ресурсов*
+Small Rocket Fuel Cache Partition I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — ракетное оружие*
+Small Remote Repair Augmentor I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — броня*
+Small Projectile Metastasis Adjuster I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — баллистическое оружие*
+Small Projectile Locus Coordinator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — баллистическое оружие*
+Small Projectile Collision Accelerator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — баллистическое оружие*
+Small Projectile Burst Aerator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — баллистическое оружие*
+Small Projectile Ambit Extension I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — баллистическое оружие*
+Small Processor Overclocking Unit I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small Powergrid Subroutine Maximizer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small Polycarbon Engine Housing I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — астронавигация*
+Small Particle Dispersion Projector I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — системы электронного противодействия*
+Small Particle Dispersion Augmentor I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — системы электронного противодействия*
+Small Nanobot Accelerator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — броня*
+Small Memetic Algorithm Bank I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль для сканирования*
+Small Low Friction Nozzle Joints I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — астронавигация*
+Small Liquid Cooled Electronics I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small Kinetic Shield Reinforcer I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — щит*
+Small Kinetic Shield Reinforcer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small Kinetic Armor Reinforcer I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — броня*
+Small Ionic Field Projector I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль для целеуказания*
+Small Inverted Signal Field Projector I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — системы электронного противодействия*
+Small Hyperspatial Velocity Optimizer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — астронавигация*
+Small Hydraulic Bay Thrusters I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — ракетное оружие*
+Small Hybrid Metastasis Adjuster I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — гибридное оружие*
+Small Hybrid Locus Coordinator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — гибридное оружие*
+Small Hybrid Discharge Elutriation I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — гибридное оружие*
+Small Hybrid Collision Accelerator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — гибридное оружие*
+Small Hybrid Burst Aerator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — гибридное оружие*
+Small Hybrid Ambit Extension I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — гибридное оружие*
+Small Hull Repairer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Система ремонта корпуса*
+Small Higgs Anchor I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Якорный тюнинг-модуль*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль для сканирования*
+Small Freight Container Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Транспортный контейнер*
+Small Freight Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Транспортный контейнер*
+Small Explosive Shield Reinforcer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small Explosive Armor Reinforcer I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — броня*
+Small Engine Thermal Shielding I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — астронавигация*
+Small Energy Metastasis Adjuster I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — лазерное оружие*
+Small Energy Locus Coordinator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — лазерное оружие*
+Small Energy Discharge Elutriation I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — лазерное оружие*
+Small Energy Collision Accelerator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — лазерное оружие*
+Small Energy Burst Aerator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — лазерное оружие*
+Small Energy Ambit Extension I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — лазерное оружие*
+Small Emission Scope Sharpener I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль для сканирования*
+Small Egress Port Maximizer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small EM Shield Reinforcer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small EM Armor Reinforcer I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — броня*
+Small Dynamic Fuel Valve I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — астронавигация*
+Small Drone Speed Augmentor I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — дроны*
+Small Drone Scope Chip I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — дроны*
+Small Drone Repair Augmentor I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — дроны*
+Small Drone Mining Augmentor I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — дроны*
+Small Drone Durability Enhancer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — дроны*
+Small Drone Control Range Augmentor I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — дроны*
+Small Core Defense Operational Solidifier I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small Core Defense Field Purger I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small Core Defense Field Extender I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small Core Defense Charge Economizer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small Core Defense Capacitor Safeguard I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small Core Defense Capacitor Safeguard I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — щит*
+Small Command Processor I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small Cargohold Optimization I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — астронавигация*
+Small Capacitor Control Circuit I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small Capacitor Booster I Blueprint*	10	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Система подкачки конденсатора*
+Small Cap Battery I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Батарея конденсатора*
+Small Bay Loading Accelerator I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — ракетное оружие*
+Small Auxiliary Thrusters I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — астронавигация*
+Small Auxiliary Nano Pump I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — броня*
+Small Audit Log Secure Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Small Ancillary Current Router I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — энергосеть*
+Small Algid Hybrid Administrations Unit I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тюнинг-модуль — гибридное оружие*
+Small Algid Energy Administrations Unit I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Тюнинг-модуль — лазерное оружие*
+Slasher Blueprint*	10	14	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Signal Amplifier I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Усилитель сигнала*
+Ship Scanner I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Сканер кораблей*
+Ship Scanner I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Сканер кораблей*
+Shield Recharger I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Система подзарядки щита*
+Scourge Rocket Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета ближнего боя*
+Scourge Light Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Ракета малой мощности*
+Scourge Light Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета малой мощности*
+Scourge Heavy Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Ракета большой мощности*
+Scourge Heavy Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета большой мощности*
+Scourge Heavy Assault Missile Blueprint*	1	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Облегчённая ракета большой мощности*
+Scourge Heavy Assault Missile Blueprint*	1	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Облегчённая ракета большой мощности*
+Scourge Heavy Assault Missile Blueprint*	8	18	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Облегчённая ракета большой мощности*
+Scourge Auto-Targeting Light Missile I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Лёгкая ракета с авто-наведением*
+Scourge Auto-Targeting Light Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Лёгкая ракета с авто-наведением*
+Scourge Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тяжёлая ракета с авто-наведением*
+Scourge Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тяжёлая ракета с авто-наведением*
+Scourge Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Дальнобойная ракета с авто-наведением*
+Scan Resolution Script Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Прошивка для активного усилителя*
+Scan Rangefinding Array I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Пакет модернизации для систем сканирования*
+Scan Pinpointing Array I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Пакет модернизации для систем сканирования*
+Scan Acquisition Array I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Сокращение времени сканирования*
+Salvager I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Демонтажная установка*
+Salvage Drone I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Дрон-демонтажник*
+Rocket Launcher I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Пусковая установка ракет ближнего боя*
+Remote Sensor Dampener I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Передатчик помех системам обнаружения целей*
+Relic Analyzer I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Программно-аналитический комплекс*
+Reinforced Bulkheads I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Усиленная переборка*
+Reactor Control Unit I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Блок управления реактором*
+Reactor Control Unit I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Блок управления реактором*
+Rapid Light Missile Launcher I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Скорострельная ПУ ракет малой мощности*
+Punisher Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Фрегат*
+Power Diagnostic System I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Диагностическая система энергосети*
+Plutonium Charge S Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Plutonium Charge M Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Overdrive Injector System I Blueprint*	9	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Система форсирования силовой установки*
+Overdrive Injector System I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Система форсирования силовой установки*
+Overdrive Injector System I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Система форсирования силовой установки*
+Optimal Range Script Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Прошивка для систем наводки орудий*
+Omnidirectional Tracking Link I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Усилитель системы слежения дронов*
+Ogre I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Боевой дрон*
+Nova Rocket Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета ближнего боя*
+Nova Light Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Ракета малой мощности*
+Nova Light Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета малой мощности*
+Nova Heavy Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Ракета большой мощности*
+Nova Heavy Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета большой мощности*
+2 x Nova Heavy Assault Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Облегчённая ракета большой мощности*
+Nova Heavy Assault Missile Blueprint*	8	18	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Облегчённая ракета большой мощности*
+Nova Auto-Targeting Light Missile I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Лёгкая ракета с авто-наведением*
+Nova Auto-Targeting Light Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Лёгкая ракета с авто-наведением*
+Nova Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тяжёлая ракета с авто-наведением*
+Nova Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тяжёлая ракета с авто-наведением*
+Nova Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Дальнобойная ракета с авто-наведением*
+Nova Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Дальнобойная ракета с авто-наведением*
+Nova Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Дальнобойная ракета с авто-наведением*
+Nereus Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Перевозчик*
+Nanofiber Internal Structure I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Нановолоконная несущая конструкция*
+Nanite Repair Paste Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Nanite Repair Paste*
+Multispectrum Shield Hardener I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Система настройки щита*
+Mobile Depot Blueprint*	7	10	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Автономный пост снабжения*
+Mjolnir Rocket Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета ближнего боя*
+Mjolnir Light Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Ракета малой мощности*
+Mjolnir Light Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета малой мощности*
+Mjolnir Heavy Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	9	16	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Облегчённая ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Облегчённая ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Облегчённая ракета большой мощности*
+Mjolnir Cruise Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета дальнего боя*
+Mjolnir Cruise Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета дальнего боя*
+Mjolnir Auto-Targeting Light Missile I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Лёгкая ракета с авто-наведением*
+Mjolnir Auto-Targeting Light Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Лёгкая ракета с авто-наведением*
+Mjolnir Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тяжёлая ракета с авто-наведением*
+Mjolnir Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тяжёлая ракета с авто-наведением*
+Mjolnir Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Дальнобойная ракета с авто-наведением*
+Missile Range Script Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Прошивки вычислителей наведения ракет*
+Missile Precision Script Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Прошивки вычислителей наведения ракет*
+Minmatar Shuttle Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Личный катер*
+Mining Laser Upgrade I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Пакет модернизации экстракторов*
+Miner I Blueprint*	8	16	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Буровой лазер*
+Micro Auxiliary Power Core I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Вспомогательный реактор*
+Miasmos Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Перевозчик*
+Mercoxit Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора на меркоцит*
+Medium Warhead Rigor Catalyst I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — ракетное оружие*
+Medium Warhead Flare Catalyst I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — ракетное оружие*
+Medium Warhead Calefaction Catalyst I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — ракетное оружие*
+Medium Thermal Shield Reinforcer I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — щит*
+Medium Standard Container Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Грузовой контейнер*
+Medium Standard Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Грузовой контейнер*
+Medium Shield Extender I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Расширитель щита*
+Medium Secure Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный грузовой контейнер*
+Medium Rocket Fuel Cache Partition I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — ракетное оружие*
+Medium Kinetic Shield Reinforcer I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — щит*
+Medium Hydraulic Bay Thrusters I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — ракетное оружие*
+Medium Freight Container Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Транспортный контейнер*
+Medium Freight Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Транспортный контейнер*
+Medium Explosive Shield Reinforcer I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — щит*
+Medium EM Shield Reinforcer I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — щит*
+Medium Core Defense Operational Solidifier I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — щит*
+Medium Core Defense Field Purger I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — щит*
+Medium Core Defense Field Extender I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — щит*
+Medium Core Defense Charge Economizer I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — щит*
+Medium Core Defense Capacitor Safeguard I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — щит*
+Medium Cap Battery I Blueprint*	8	16	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Батарея конденсатора*
+Medium Cap Battery I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Батарея конденсатора*
+Medium Bay Loading Accelerator I Blueprint*	0	0	-1	0	New Caldari II (Matias) - Фабрика Kaalakiota Corporation*	Склад	Тюнинг-модуль — ракетное оружие*
+Medium Audit Log Secure Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Medium Armor Repairer I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Установка ремонта брони*
+Magnate Blueprint*	10	14	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Light Shield Maintenance Bot I Blueprint*	0	0	-1	1	Jita IV - Moon 4 - Сборочный комплекс Caldari Navy*	Склад	Ремонтный дрон*
+Light Hull Maintenance Bot I Blueprint*	0	0	-1	1	Jita IV - Moon 4 - Сборочный комплекс Caldari Navy*	Склад	Ремонтный дрон*
+Light Armor Maintenance Bot I Blueprint*	0	0	-1	1	Jita IV - Moon 4 - Сборочный комплекс Caldari Navy*	Склад	Ремонтный дрон*
+Lead Charge S Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Lead Charge M Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Large Standard Container Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Грузовой контейнер*
+Large Standard Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Грузовой контейнер*
+Large Secure Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный грузовой контейнер*
+Large Higgs Anchor I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Якорный тюнинг-модуль*
+Large Freight Container Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Транспортный контейнер*
+Large Freight Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Транспортный контейнер*
+Large Audit Log Secure Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Kryos Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Перевозчик*
+Iron Charge S Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Iron Charge M Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Iridium Charge M Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Inquisitor Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Infiltrator I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Боевой дрон*
+Infiltrator I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Боевой дрон*
+Inferno Rocket Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета ближнего боя*
+Inferno Light Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Ракета малой мощности*
+Inferno Light Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета малой мощности*
+Inferno Heavy Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Ракета большой мощности*
+Inferno Heavy Missile Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ракета большой мощности*
+2 x Inferno Heavy Assault Missile Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Облегчённая ракета большой мощности*
+Inferno Heavy Assault Missile Blueprint*	9	18	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Облегчённая ракета большой мощности*
+Inferno Auto-Targeting Light Missile I Blueprint*	1	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Лёгкая ракета с авто-наведением*
+Inferno Auto-Targeting Light Missile I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Лёгкая ракета с авто-наведением*
+Inferno Auto-Targeting Light Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Лёгкая ракета с авто-наведением*
+Inferno Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тяжёлая ракета с авто-наведением*
+Inferno Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тяжёлая ракета с авто-наведением*
+Inferno Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Тяжёлая ракета с авто-наведением*
+Inferno Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Дальнобойная ракета с авто-наведением*
+Inertial Stabilizers I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Инерционный стабилизатор*
+Inertial Stabilizers I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Инерционный стабилизатор*
+Incursus Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Imicus Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Ice Mining Laser I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Буровой лазер*
+Ice Harvester Upgrade I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Пакет модернизации экстракторов*
+Huge Secure Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный грузовой контейнер*
+Huge Freight Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Транспортный контейнер*
+Hornet I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Боевой дрон*
+Hornet I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Боевой дрон*
+Hornet EC-300 Blueprint*	0	0	-1	1	Jita IV - Moon 4 - Сборочный комплекс Caldari Navy*	Склад	Дрон электронного противодействия*
+Hobgoblin SD-300 Blueprint*	0	0	-1	1	Jita IV - Moon 4 - Сборочный комплекс Caldari Navy*	Склад	Дрон электронного противодействия*
+Hobgoblin I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Боевой дрон*
+Hobgoblin I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Боевой дрон*
+Heron Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Heron Blueprint*	10	14	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Hammerhead I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Боевой дрон*
+Hammerhead I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Боевой дрон*
+Guidance Disruptor I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Помехопостановщики наводке орудий*
+Giant Secure Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Защищенный грузовой контейнер*
+Giant Freight Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Транспортный контейнер*
+Gallente Shuttle Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Личный катер*
+Expanded Probe Launcher I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Пусковая установка разведзондов*
+Expanded Cargohold I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Расширение грузового отсека*
+Executioner Blueprint*	10	16	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Epithal Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Перевозчик*
+Enormous Freight Container Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Транспортный контейнер*
+ECCM Script Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Прошивка для активного усилителя*
+Drone Damage Amplifier I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Усилители боевой эффективности дронов*
+Defender Missile I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Противоракеты*
+Deep Core Mining Laser I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Буровой лазер*
+Data Analyzer I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Программно-аналитический комплекс*
+Damage Control I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Модуль боевой живучести*
+Damage Control I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Модуль боевой живучести*
+Crucifier Blueprint*	10	18	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Фрегат*
+Cormorant Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Эсминец*
+Core Scanner Probe I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Разведывательный зонд*
+Core Scanner Probe I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Разведывательный зонд*
+Core Probe Launcher I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Пусковая установка разведзондов*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Combat Scanner Probe I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Разведывательный зонд*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Кристалл настройки экстрактора*
+Coercer Blueprint*	10	18	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Эсминец*
+Co-Processor I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Модуль апгрейда процессора*
+2 x Civilian Mining Drone Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Буровой дрон*
+25 x Civilian Data Analyzer Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Программно-аналитический комплекс*
+Catalyst Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Эсминец*
+Cargo Scanner I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Комплекс для досмотра грузов*
+Capacitor Power Relay I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Модуль передачи мощности на конденсатор*
+Capacitor Flux Coil I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Ускоритель подзарядки конденсатора*
+Cap Booster 800 Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 800 Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 75 Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 75 Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 50 Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 400 Blueprint*	1	16	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 400 Blueprint*	8	18	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 25 Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 200 Blueprint*	8	18	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 200 Blueprint*	8	18	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 200 Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 200 Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 150 Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 150 Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 100 Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 100 Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 100 Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Заряд системы пополнения накопителя*
+Caldari Shuttle Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Личный катер*
+Burst Jammer I Blueprint*	8	16	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Генератор импульсных помех*
+Bantam Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Фрегат*
+Auto Targeting System I Blueprint*	9	18	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Автоматическая система целеуказания*
+Atron Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Фрегат*
+Assault Damage Control I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Модуль боевой живучести*
+Antimatter Charge S Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Antimatter Charge M Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Гибридные заряды*
+Amarr Shuttle Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Личный катер*
+Algos Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Эсминец*
+Acolyte TD-300 Blueprint*	0	0	-1	1	Jita IV - Moon 4 - Сборочный комплекс Caldari Navy*	Склад	Дрон электронного противодействия*
+Acolyte I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Боевой дрон*
+Acolyte I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Боевой дрон*
+5MN Microwarpdrive I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Движительные модули*
+50MN Microwarpdrive I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Движительные модули*
+50MN Microwarpdrive I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Движительные модули*
+1MN Afterburner I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Движительные модули*
+1MN Afterburner I Blueprint*	1	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Движительные модули*
+1MN Afterburner I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Движительные модули*
+10MN Afterburner I Blueprint*	0	0	-1	20	Y8K-5B - RC Industrial -R	Bp O not(10, 20)	Движительные модули*
+10MN Afterburner I Blueprint*	10	20	-1	20	Y8K-5B - RC Industrial -R	Bp O (10, 20)	Движительные модули*
