@@ -115,18 +115,18 @@ def gen_remKeys(X):
 
 def mine(s):
     #experimental
-    remOn =         False # On/Off
+    s.remOn =       False # On/Off
 
     s.remXL =       False # XL/Capital
     s.remStandup =  True  # Standup
     s.remCivilian = True  # Civilian
-    
+
     keys = gen_remKeys(s)
 
     BpList = get_AllBpList()
     MyBpList = get_MyBpList()
     temp = gen_BayBpList(BpList, MyBpList)
-    if remOn:
+    if s.remOn:
         temp = clearXBp(temp, keys)
     temp = removeEmptyBpList(temp)
     out_BayBpList(temp)
