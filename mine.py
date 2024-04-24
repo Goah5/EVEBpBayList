@@ -105,7 +105,7 @@ def clearXBp(BpList: list[str], keys: set[str]) -> list[str]:
     return outBpList
 
 
-def gen_remKeys(setting):
+def gen_remKeys(setting) -> set[str]:
     keys = set()
     if setting.remXL:
         keys.add(" XL ")
@@ -126,12 +126,11 @@ def mine(settings):
     settings.remStandup = True    # Standup
     settings.remCivilian = True    # Civilian
 
-    keys = gen_remKeys(settings)
-
     BpList = get_AllBpList()
     MyBpList = get_MyBpList()
     temp = gen_BayBpList(BpList, MyBpList)
     if settings.remOn:
+        keys = gen_remKeys(settings)
         temp = clearXBp(temp, keys)
     temp = removeEmptyBpList(temp)
     out_BayBpList(temp)
