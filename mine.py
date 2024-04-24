@@ -38,37 +38,43 @@ def out_BayBpList(BpList: list):
 	return None
 
 
-def clearBpList_logic(BpList: list[str], id) -> list[str]:
+def clearBpList_logic(BpList: list[str], id,deep = 1,startDeep = 0) -> list[str]:
 	empty = None
-
+	print(1)
 	if BpList[id] == BpList[-1]:
 		empty = True
 		return empty
 
 	for ij, i in enumerate(BpList[id+1:]):
-		bpIdlen = len(BpList[id][:BpList[id].index(" ")])
+		bpIdlen = startDeep# len(BpList[id][:BpList[id].index(" ")])
 		ilen = len(i[:i.index(" ")])
-		# ic(BpList[id], i, bpLlen, ilen)
 		if i.startswith("+"):
-			if ilen == bpIdlen:  # ++ ++
+			if ilen == startDeep:  # ++ ++
 				empty = True
+				ic(id,BpList[id], i, bpIdlen, ilen,deep,startDeep)
 				break
-			elif ilen-1 == bpIdlen:  # ПодПопка + ++
-				empty = clearBpList_logic(BpList, id+ij+1)
-				break
-			elif ilen < bpIdlen:  # ++ +
-				empty = True
+			elif ilen-1 == deep:  # ПодПопка + ++
+				deep += 1
+				
+			elif ilen < deep:  # ++ +
+				deep -= 1
 
 		elif i.startswith("-"):
-			if ilen == bpIdlen:  # ++ --
+			if ilen == startDeep:  # ++ --
 				empty = False
+				ic(id,BpList[id], i, bpIdlen, ilen,deep,startDeep)
 				break
-			elif ilen > bpIdlen:  # ++ ---
-				empty = True
+			elif ilen > startDeep:  # ++ ---
+				empty = False
+				ic(id,BpList[id], i, bpIdlen, ilen,deep,startDeep)
 				break
-			elif ilen < bpIdlen:  # ++ -
-				empty = True
-				break
+			elif ilen < deep:  # ++ -
+				if startDeep < ilen:
+					empty = False
+					ic(id,BpList[id], i, bpIdlen, ilen,deep,startDeep)
+					break
+				
+		ic(id,BpList[id], i, bpIdlen, ilen,deep,startDeep)
 	
 	return empty
 
@@ -80,7 +86,7 @@ def removeEmptyBpList(BpList: list[str]) -> list[str]:
 		empty = False
 
 		if i.startswith("+"):
-			empty = clearBpList_logic(BpList, id)
+			empty = clearBpList_logic(BpList, id, deep := len(BpList[id][:BpList[id].index(" ")]), deep)
 
 		if empty:
 			# print(i,j,outBpList[i])
@@ -141,6 +147,6 @@ class S:
 		self.remStandup = False
 		self.remCivilian = False
 
-# ic.disable()
+ic.disable()
 if __name__ == "__main__":
 	mine(S())
