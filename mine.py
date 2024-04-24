@@ -40,7 +40,7 @@ def out_BayBpList(BpList: list):
 
 def clearBpList_logic(BpList: list[str], id,deep = 1,startDeep = 0) -> list[str]:
 	empty = None
-	print(1)
+	
 	if BpList[id] == BpList[-1]:
 		empty = True
 		return empty
@@ -58,23 +58,17 @@ def clearBpList_logic(BpList: list[str], id,deep = 1,startDeep = 0) -> list[str]
 				
 			elif ilen < deep:  # ++ +
 				deep -= 1
-
 		elif i.startswith("-"):
 			if ilen == startDeep:  # ++ --
 				empty = False
-				ic(id,BpList[id], i, bpIdlen, ilen,deep,startDeep)
 				break
 			elif ilen > startDeep:  # ++ ---
 				empty = False
-				ic(id,BpList[id], i, bpIdlen, ilen,deep,startDeep)
 				break
 			elif ilen < deep:  # ++ -
 				if startDeep < ilen:
 					empty = False
-					ic(id,BpList[id], i, bpIdlen, ilen,deep,startDeep)
 					break
-				
-		ic(id,BpList[id], i, bpIdlen, ilen,deep,startDeep)
 	
 	return empty
 
