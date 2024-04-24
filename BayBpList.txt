@@ -163,8 +163,6 @@
 ---- Nuclear M Blueprint
 ---- Proton M Blueprint
 ---- Titanium Sabot M Blueprint
-+++ Боеприпасы для систем обороны сооружений
---- Standup Flak Round Blueprint
 +++ Бомбы
 --- Concussion Bomb Blueprint
 --- Electron Bomb Blueprint
@@ -172,9 +170,6 @@
 --- Scorch Bomb Blueprint
 --- Shrapnel Bomb Blueprint
 --- Void Bomb Blueprint
-+++ Бомбы сооружений с системами наведения
---- Standup Heavy Guided Bomb Blueprint
---- Standup Light Guided Bomb Blueprint
 +++ Буровые кристаллы
 ++++ Буровые кристаллы для добычи руды с астероидов
 ---- Abyssal Asteroid Mining Crystal Type A I Blueprint
@@ -271,13 +266,6 @@
 ---- Radio M Blueprint
 ---- Standard M Blueprint
 +++ Ракеты
-++++ Ракеты сооружений против КБТ
----- Standup Super-heavy Torpedo Blueprint
----- Standup XL Cruise Missile Blueprint
-++++ Ракеты сооружений против кораблей стандартного тоннажа
----- Standup Cruise Missile Blueprint
----- Standup Heavy Missile Blueprint
----- Standup Light Missile Blueprint
 ++++ Сверхбольшие дальнобойные ракеты
 ---- Inferno XL Cruise Missile Blueprint
 ---- Mjolnir XL Cruise Missile Blueprint
@@ -303,11 +291,6 @@
 --- Shield Explosive Resistance Script Blueprint
 --- Shield Kinetic Resistance Script Blueprint
 --- Shield Thermal Resistance Script Blueprint
---- Standup Focused Warp Scrambling Script Blueprint
---- Standup Gravimetric ECM Script Blueprint
---- Standup Ladar ECM Script Blueprint
---- Standup Magnetometric ECM Script Blueprint
---- Standup Radar ECM Script Blueprint
 --- Targeting Range Dampening Script Blueprint
 --- Tracking Speed Disruption Script Blueprint
 ++ Дроны
@@ -339,10 +322,6 @@
 ---- Dromi I Blueprint
 ---- Scarab I Blueprint
 ---- Siren I Blueprint
----- Standup Cenobite I Blueprint
----- Standup Dromi I Blueprint
----- Standup Scarab I Blueprint
----- Standup Siren I Blueprint
 ++++ Лёгкие истребители
 ---- Dragonfly I Blueprint
 ---- Einherji I Blueprint
@@ -351,14 +330,6 @@
 ---- Gram I Blueprint
 ---- Locust I Blueprint
 ---- Satyr I Blueprint
----- Standup Dragonfly I Blueprint
----- Standup Einherji I Blueprint
----- Standup Equite I Blueprint
----- Standup Firbolg I Blueprint
----- Standup Gram I Blueprint
----- Standup Locust I Blueprint
----- Standup Satyr I Blueprint
----- Standup Templar I Blueprint
 ---- Templar I Blueprint
 ++++ Тяжёлые истребители
 ---- Ametat I Blueprint
@@ -367,14 +338,6 @@
 ---- Gungnir I Blueprint
 ---- Malleus I Blueprint
 ---- Mantis I Blueprint
----- Standup Ametat I Blueprint
----- Standup Antaeus I Blueprint
----- Standup Cyclops I Blueprint
----- Standup Gungnir I Blueprint
----- Standup Malleus I Blueprint
----- Standup Mantis I Blueprint
----- Standup Termite I Blueprint
----- Standup Tyrfing I Blueprint
 ---- Termite I Blueprint
 ---- Tyrfing I Blueprint
 +++ Ремонтные дроны
@@ -869,93 +832,6 @@
 ---- Capital Kinetic Shield Reinforcer I Blueprint
 ---- Capital Thermal Shield Reinforcer I Blueprint
 ++ Модификации сооружений
-+++ Боевые модификаторы
---- Standup L-Set Bomb Aimer I Blueprint
---- Standup L-Set Energy Neutralizer Feedback Control I Blueprint
---- Standup L-Set EW Command System I Blueprint
---- Standup L-Set Missile Flight Processor I Blueprint
---- Standup L-Set Point Defense Battery Control I Blueprint
---- Standup L-Set Target Acquisition Array I Blueprint
---- Standup M-Set Electronic Warfare Economy I Blueprint
---- Standup M-Set Electronic Warfare Projection I Blueprint
---- Standup M-Set Energy Neutralizer Economy I Blueprint
---- Standup M-Set Energy Neutralizer Projection I Blueprint
---- Standup M-Set Enhanced Targeting System I Blueprint
---- Standup M-Set Missile Precision I Blueprint
---- Standup M-Set Missile Projection I Blueprint
---- Standup M-Set Structure Target Multiplexing I Blueprint
---- Standup XL-Set EW and Emissions Co-ordinator I Blueprint
---- Standup XL-Set Extinction Level Weapons Suite I Blueprint
---- Standup XL-Set Missile Fire Control Computer I Blueprint
-+++ Модификаторы производства
---- Standup L-Set Advanced Component Manufacturing Efficiency I Blueprint
---- Standup L-Set Advanced Large Ship Manufacturing Efficiency I Blueprint
---- Standup L-Set Advanced Medium Ship Manufacturing Efficiency I Blueprint
---- Standup L-Set Advanced Small Ship Manufacturing Efficiency I Blueprint
---- Standup L-Set Ammunition Manufacturing Efficiency I Blueprint
---- Standup L-Set Basic Capital Component Manufacturing Efficiency I Blueprint
---- Standup L-Set Basic Large Ship Manufacturing Efficiency I Blueprint
---- Standup L-Set Basic Medium Ship Manufacturing Efficiency I Blueprint
---- Standup L-Set Basic Small Ship Manufacturing Efficiency I Blueprint
---- Standup L-Set Blueprint Copy Optimization I Blueprint
---- Standup L-Set Capital Ship Manufacturing Efficiency I Blueprint
---- Standup L-Set Drone and Fighter Manufacturing Efficiency I Blueprint
---- Standup L-Set Equipment Manufacturing Efficiency I Blueprint
---- Standup L-Set Invention Optimization I Blueprint
---- Standup L-Set ME Research Optimization I Blueprint
---- Standup L-Set Structure Manufacturing Efficiency I Blueprint
---- Standup L-Set TE Research Optimization I Blueprint
---- Standup M-Set Advanced Component Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Advanced Component Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Advanced Large Ship Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Advanced Large Ship Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Advanced Medium Ship Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Advanced Medium Ship Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Advanced Small Ship Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Advanced Small Ship Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Ammunition Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Ammunition Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Basic Capital Component Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Basic Capital Component Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Basic Large Ship Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Basic Large Ship Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Basic Medium Ship Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Basic Medium Ship Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Basic Small Ship Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Basic Small Ship Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Blueprint Copy Cost Optimization I Blueprint
---- Standup M-Set Drone and Fighter Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Drone and Fighter Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Equipment Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Equipment Manufacturing Time Efficiency I Blueprint
---- Standup M-Set Invention Accelerator I Blueprint
---- Standup M-Set Invention Cost Optimization I Blueprint
---- Standup M-Set ME Research Accelerator I Blueprint
---- Standup M-Set ME Research Cost Optimization I Blueprint
---- Standup M-Set Structure Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Structure Manufacturing Time Efficiency I Blueprint
---- Standup M-Set TE Research Accelerator I Blueprint
---- Standup M-Set TE Research Cost Optimization I Blueprint
---- Standup XL-Set Equipment and Consumable Manufacturing Efficiency I Blueprint
---- Standup XL-Set Laboratory Optimization I Blueprint
---- Standup XL-Set Ship Manufacturing Efficiency I Blueprint
---- Standup XL-Set Structure and Component Manufacturing Efficiency I Blueprint
-+++ Надстройки для сооружений — переработка ресурсов
---- Standup L-Set Moon Drilling Proficiency I Blueprint
---- Standup L-Set Reactor Efficiency I Blueprint
---- Standup L-Set Reprocessing Monitor I Blueprint
---- Standup M-Set Asteroid Ore Grading Processor I Blueprint
---- Standup M-Set Biochemical Reactor Material Efficiency I Blueprint
---- Standup M-Set Biochemical Reactor Time Efficiency I Blueprint
---- Standup M-Set Composite Reactor Material Efficiency I Blueprint
---- Standup M-Set Composite Reactor Time Efficiency I Blueprint
---- Standup M-Set Hybrid Reactor Material Efficiency I Blueprint
---- Standup M-Set Hybrid Reactor Time Efficiency I Blueprint
---- Standup M-Set Ice Grading Processor I Blueprint
---- Standup M-Set Moon Drilling Efficiency I Blueprint
---- Standup M-Set Moon Drilling Stability I Blueprint
---- Standup M-Set Moon Ore Grading Processor I Blueprint
---- Standup XL-Set Reprocessing Monitor I Blueprint
 ++ Оборудование кораблей
 +++ Двигательные установки
 ++++ Генераторы разгонного поля
@@ -1272,7 +1148,6 @@
 ---- Capital C-5L Compact Shield Booster Blueprint
 ---- Capital Clarity Ward Enduring Shield Booster Blueprint
 ---- Capital Shield Booster I Blueprint
----- Civilian Shield Booster Blueprint
 ---- X-Large Shield Booster I Blueprint
 +++ Элементы корпуса и брони
 ++++ Бронеплиты
@@ -1307,7 +1182,6 @@
 ---- Capital ACM Compact Armor Repairer Blueprint
 ---- Capital Armor Repairer I Blueprint
 ---- Capital I-a Enduring Armor Repairer Blueprint
----- Civilian Armor Repairer Blueprint
 ++++ Установки дистанционного ремонта брони
 ---- Capital Coaxial Compact Remote Armor Repairer Blueprint
 ---- Capital I-ax Enduring Remote Armor Repairer Blueprint
@@ -1329,78 +1203,12 @@
 ---- Medium Hull Repairer I Blueprint
 ++ Оборудование сооружений
 +++ Вооружение
-++++ Бомбомёты с системами наведения
----- Standup Guided Bomb Launcher I Blueprint
-++++ Орудия Судного дня
----- Standup Arcing Vorton Projector I Blueprint
 ++++ Пусковые установки
-+++++ ПУ сооружений против КБТ
------ Standup Anticapital Missile Launcher I Blueprint
-+++++ ПУ сооружений против кораблей стандартного тоннажа
------ Standup Multirole Missile Launcher I Blueprint
 ++++ Улучшения систем вооружения
-+++++ Корректоры траекторий ракет
------ Standup Missile Guidance Enhancer I Blueprint
-+++++ Приборы контроля траектории
------ Standup Ballistic Control System I Blueprint
 +++ Инженерное оборудование
-++++ Дистанционные нейтрализаторы заряда
----- Dark Blood Standup Heavy Energy Neutralizer Blueprint
----- Standup Heavy Energy Neutralizer I Blueprint
----- Standup XL Energy Neutralizer I Blueprint
-++++ Накопительные батареи
----- Standup Cap Battery I Blueprint
-++++ Силовые реле накопителя
----- Standup Capacitor Power Relay I Blueprint
-++++ Системы точечной обороны
----- Standup Point Defense Battery I Blueprint
-++++ Системы управления реактором
----- Standup Reactor Control Unit I Blueprint
-++++ Усилители брони
----- Standup Layered Armor Plating I Blueprint
 +++ Системы РЭБ
-++++ Варп-глушители
----- Standup Focused Warp Disruptor I Blueprint
-++++ Модули глушения захвата целей
----- Dread Guristas Standup Variable Spectrum ECM Blueprint
----- Standup Variable Spectrum ECM I Blueprint
-++++ Модули подавления захвата целей
----- Standup Remote Sensor Dampener I Blueprint
-++++ Подавители оружия
----- Standup Weapon Disruptor I Blueprint
-++++ Проекторы объёмных помех на базе сооружений
----- Standup ECM Jammer Burst Projector Blueprint
----- Standup Energy Neutralization Burst Projector Blueprint
----- Standup Sensor Dampening Burst Projector Blueprint
----- Standup Stasis Webification Burst Projector Blueprint
----- Standup Target Illumination Burst Projector Blueprint
----- Standup Warp Disruption Burst Projector Blueprint
----- Standup Weapon Disruption Burst Projector Blueprint
-++++ Системы подсветки целей
----- Standup Target Painter I Blueprint
-++++ Стазис-индукторы
----- Standup Stasis Webifier I Blueprint
 +++ Служебные модули
-++++ Служебные модули переработки ресурсов
----- Standup Biochemical Reactor I Blueprint
----- Standup Composite Reactor I Blueprint
----- Standup Hybrid Reactor I Blueprint
----- Standup Moon Drill I Blueprint
----- Standup Reprocessing Facility I Blueprint
-++++ Служебные модули промышленных комплексов
----- Standup Capital Shipyard I Blueprint
----- Standup Invention Lab I Blueprint
----- Standup Manufacturing Plant I Blueprint
----- Standup Research Lab I Blueprint
----- Standup Supercapital Shipyard I Blueprint
-++++ Служебные модули цитадели
----- Standup Cloning Center I Blueprint
----- Standup Market Hub I Blueprint
 +++ Улучшения сенсоров и электронных систем
-++++ Улучшения ЦПУ
----- Standup Co-Processor Array I Blueprint
-++++ Усилители сигнала
----- Standup Signal Amplifier I Blueprint
 ++ Промышленные комплектующие
 +++ Компоненты
 ++++ Компоненты защиты

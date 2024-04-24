@@ -37,46 +37,49 @@ def out_BayBpList(BpList: list):
 
     return None
 
-def clearBpList_logic(BpList: list[str],id) -> list[str]:
-    empty = True
+
+def clearBpList_logic(BpList: list[str], id) -> list[str]:
+    empty = None
+
     if BpList[id] == BpList[-1]:
+        empty = True
         return empty
+
     for i in BpList[id+1:]:
         bpLlen = len(BpList[id][:BpList[id].index(" ")])
         ilen = len(i[:i.index(" ")])
-        ic(BpList[id], i, bpLlen, ilen)
+        # ic(BpList[id], i, bpLlen, ilen)
         if i.startswith("+"):
-            if ilen == bpLlen: # ++ ++
+            if ilen == bpLlen:  # ++ ++
                 empty = True
                 break
-            elif ilen-1 == bpLlen: #ПодПопка + ++
+            elif ilen-1 == bpLlen:  # ПодПопка + ++
                 empty = False
                 break
-        
+
         elif i.startswith("-"):
-            if ilen == bpLlen: # ++ --
+            if ilen == bpLlen:  # ++ --
                 empty = False
                 break
-            elif ilen > bpLlen: # ++ ---
+            elif ilen > bpLlen:  # ++ ---
                 empty = True
                 break
-            elif ilen < bpLlen: # ++ -
+            elif ilen < bpLlen:  # ++ -
                 empty = True
                 break
 
     return empty
 
 
-
-def clearBpList(BpList: list[str]) -> list[str]:
+def removeEmptyBpList(BpList: list[str]) -> list[str]:
     outBpList = BpList.copy()
 
-    for id, j in enumerate(BpList):
+    for id, i in enumerate(BpList):
         empty = False
 
-        if j.startswith("+"):
-            empty = clearBpList_logic(BpList, id)                       
-        
+        if i.startswith("+"):
+            empty = clearBpList_logic(BpList, id)
+
         if empty:
             # print(i,j,outBpList[i])
             outBpList[id] = ""
@@ -84,15 +87,56 @@ def clearBpList(BpList: list[str]) -> list[str]:
     return outBpList
 
 
-# def clearBpList(BpList: list[str]) -> list[str]:
+def clearXBp(BpList: list[str], keys: set[str]) -> list[str]:
+    if not keys:
+        return BpList
+    
+    outBpList = BpList.copy()
+    for id, i in enumerate(BpList):
+        for j in keys:
+            if j in i:
+                outBpList[id] = ""
+    for id, s in enumerate(outBpList[::-1]):
+        if s == "":
+            outBpList.remove(s)
 
-def mine():
+    return outBpList
+
+def gen_remKeys(X):
+    keys = set()
+    if X.remXL:
+        keys.add(" XL ")
+        keys.add("Capital ")
+    if X.remStandup:
+        keys.add("Standup ")
+    if X.remCivilian:
+        keys.add("Civilian ")
+    return keys
+
+def mine(s):
+    #experimental
+    remOn =         False # On/Off
+
+    s.remXL =       False # XL/Capital
+    s.remStandup =  True  # Standup
+    s.remCivilian = True  # Civilian
+    
+    keys = gen_remKeys(s)
+
     BpList = get_AllBpList()
     MyBpList = get_MyBpList()
     temp = gen_BayBpList(BpList, MyBpList)
-    temp = clearBpList(temp)
+    if remOn:
+        temp = clearXBp(temp, keys)
+    temp = removeEmptyBpList(temp)
     out_BayBpList(temp)
+
+class S:
+    def __init__(self):
+        self.remXL = False
+        self.remStandup = False
+        self.remCivilian = False
 
 # ic.disable()
 if __name__ == "__main__":
-    mine()
+    mine(S())
