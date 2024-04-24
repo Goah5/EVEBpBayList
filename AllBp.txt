@@ -1301,7 +1301,7 @@
 --- Standup M-Set Advanced Small Ship Manufacturing Material Efficiency I Blueprint
 --- Standup M-Set Advanced Small Ship Manufacturing Time Efficiency I Blueprint
 --- Standup M-Set Ammunition Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Ammunition Manufacturing Time Efficiency I Blueprint
+--- Standup M-Set Ammunition Manufacturing Time Efficiency I Blueprint
 --- Standup M-Set Basic Capital Component Manufacturing Material Efficiency I Blueprint
 --- Standup M-Set Basic Capital Component Manufacturing Time Efficiency I Blueprint
 --- Standup M-Set Basic Large Ship Manufacturing Material Efficiency I Blueprint
@@ -1583,7 +1583,6 @@
 ----- Quad Light Beam Laser I Blueprint
 ----- Veles Heavy Entropic Disintegrator Blueprint
 ++++ Орудия Судного дня
----- 'Atgeir' Explosive Disruptive Lance Blueprint
 ---- 'Aurora Ominae' Thermal Doomsday Blueprint
 ---- 'Azmaru' Electromagnetic Disruptive Lance Blueprint
 ---- 'Cold Wind' Kinetic Reaper Blueprint
@@ -1597,8 +1596,6 @@
 ---- 'Judgment' Electromagnetic Doomsday Blueprint
 ---- 'Oblivion' Kinetic Doomsday Blueprint
 ---- 'Phalarica' Thermal Lance Blueprint
----- 'Sarissa' Thermal Disruptive Lance Blueprint
----- 'Steel Yari' Kinetic Disruptive Lance Blueprint
 ---- Amarr Phenomena Generator Blueprint
 ---- Bosonic Field Generator Blueprint
 ---- Caldari Phenomena Generator Blueprint
@@ -1606,6 +1603,9 @@
 ---- Gravitational Transportation Field Oscillator Blueprint
 ---- Minmatar Phenomena Generator Blueprint
 ---- Pulse Activated Nexus Invulnerability Core Blueprint
+---- ‘Atgeir’ Explosive Disruptive Lance Blueprint
+---- ‘Sarissa’ Thermal Disruptive Lance Blueprint
+---- ‘Steel Yari’ Kinetic Disruptive Lance Blueprint
 ++++ Пусковые установки
 ---- Arbalest Compact Rapid Torpedo Launcher Blueprint
 ---- Arbalest Compact XL Cruise Missile Launcher Blueprint

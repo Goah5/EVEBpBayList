@@ -107,17 +107,28 @@
 --- Athanor Blueprint
 --- Tatara Blueprint
 +++ Полевые блоки
+++++ Грузовые контейнеры
+++++ Маяк анализа
+---- CONCORD Rogue Analysis Beacon Blueprint
+++++ Мобильные приводные маяки
 ---- Covert Mobile Cynosural Beacon Blueprint
 ---- Mobile Cynosural Beacon Blueprint
 ++++ Полевые варп-заградители
+---- Mobile Large Warp Disruptor I Blueprint
 ---- Mobile Medium Warp Disruptor I Blueprint
+---- Mobile Small Warp Disruptor I Blueprint
 ++++ Полевые глушители приводных маяков
 ---- Mobile Cynosural Inhibitor Blueprint
 ++++ Полевые глушители разведсистем
 ---- Mobile Scan Inhibitor Blueprint
+++++ Полевые депо оснащения
+---- Mobile Depot Blueprint
 ++++ Полевые обсерватории
+---- Mobile Observatory Blueprint
 ++++ Полевые разгонные блоки
+---- Mobile Micro Jump Unit Blueprint
 ++++ Полевые сборщики трофеев
+---- Mobile Tractor Unit Blueprint
 +++ Промышленные комплексы
 --- Azbel Blueprint
 --- Raitaru Blueprint
@@ -140,12 +151,9 @@
 ++++ Малые
 ---- Carbonized Lead S Blueprint
 ---- Depleted Uranium S Blueprint
----- EMP S Blueprint
 ---- Fusion S Blueprint
 ---- Nuclear S Blueprint
 ---- Phased Plasma S Blueprint
----- Proton S Blueprint
----- Titanium Sabot S Blueprint
 ++++ Сверхбольшие
 ---- Carbonized Lead XL Blueprint
 ---- Depleted Uranium XL Blueprint
@@ -185,7 +193,6 @@
 ---- Coherent Asteroid Mining Crystal Type C I Blueprint
 ---- Complex Asteroid Mining Crystal Type B I Blueprint
 ---- Complex Asteroid Mining Crystal Type C I Blueprint
----- Mercoxit Asteroid Mining Crystal Type B I Blueprint
 ---- Mercoxit Asteroid Mining Crystal Type C I Blueprint
 ---- Simple Asteroid Mining Crystal Type B I Blueprint
 ---- Simple Asteroid Mining Crystal Type C I Blueprint
@@ -217,21 +224,29 @@
 ---- Thorium Charge L Blueprint
 ---- Tungsten Charge L Blueprint
 ---- Uranium Charge L Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Antimatter Charge XL Blueprint
+---- Iridium Charge XL Blueprint
 ---- Iron Charge XL Blueprint
 ---- Lead Charge XL Blueprint
+---- Plutonium Charge XL Blueprint
 ---- Thorium Charge XL Blueprint
 ---- Tungsten Charge XL Blueprint
+---- Uranium Charge XL Blueprint
+++++ Средние
 +++ Заряды импульсных оптимизаторов
 ++++ Брони
 ---- Armor Energizing Charge Blueprint
+---- Armor Reinforcement Charge Blueprint
 ---- Rapid Repair Charge Blueprint
 ++++ Добычи
 ---- Mining Equipment Preservation Charge Blueprint
+---- Mining Laser Field Enhancement Charge Blueprint
 ---- Mining Laser Optimization Charge Blueprint
 ++++ Маневрирования
 ---- Evasive Maneuvers Charge Blueprint
+---- Interdiction Maneuvers Charge Blueprint
 ---- Rapid Deployment Charge Blueprint
 ++++ РЭБ
 ---- Electronic Hardening Charge Blueprint
@@ -242,25 +257,22 @@
 ---- Shield Extension Charge Blueprint
 ---- Shield Harmonizing Charge Blueprint
 +++ Заряды пополнения накопителя
---- Cap Booster 3200 Blueprint
 +++ Зонды
+++++ Зонды варп-заграждения
 ++++ Зонды луноразведки
 ---- Discovery Survey Probe I Blueprint
 ---- Gaze Survey Probe I Blueprint
 ---- Quest Survey Probe I Blueprint
+++++ Разведзонды
++++ Кристаллы для лазеров
 ++++ Большие
 ---- Gamma L Blueprint
 ---- Infrared L Blueprint
 ---- Microwave L Blueprint
+---- Multifrequency L Blueprint
+---- Radio L Blueprint
 ---- Standard L Blueprint
----- Ultraviolet L Blueprint
----- Xray L Blueprint
 ++++ Малые
----- Microwave S Blueprint
----- Multifrequency S Blueprint
----- Radio S Blueprint
----- Standard S Blueprint
----- Xray S Blueprint
 ++++ Сверхбольшие
 ---- Gamma XL Blueprint
 ---- Infrared XL Blueprint
@@ -277,33 +289,48 @@
 ---- Multifrequency M Blueprint
 ---- Radio M Blueprint
 ---- Standard M Blueprint
----- Ultraviolet M Blueprint
----- Xray M Blueprint
 +++ Ракеты
 ++++ Дальнобойные ракеты
 ---- Inferno Cruise Missile Blueprint
 ---- Nova Cruise Missile Blueprint
 ---- Scourge Cruise Missile Blueprint
+++++ Лёгкие ракеты
+++++ Лёгкие штурмовые ракеты
+++++ Противоракеты
+++++ Ракеты с автономным наведением
 ++++ Ракеты сооружений против КБТ
 ---- Standup Super-heavy Torpedo Blueprint
 ---- Standup XL Cruise Missile Blueprint
 ++++ Ракеты сооружений против кораблей стандартного тоннажа
 ---- Standup Cruise Missile Blueprint
 ---- Standup Heavy Missile Blueprint
+---- Standup Light Missile Blueprint
+++++ Сверхбольшие дальнобойные ракеты
+---- Inferno XL Cruise Missile Blueprint
+---- Mjolnir XL Cruise Missile Blueprint
 ---- Nova XL Cruise Missile Blueprint
 ---- Scourge XL Cruise Missile Blueprint
 ++++ Сверхбольшие торпеды
 ---- Inferno XL Torpedo Blueprint
 ---- Mjolnir XL Torpedo Blueprint
 ---- Nova XL Torpedo Blueprint
----- Nova Torpedo Blueprint
----- Scourge Torpedo Blueprint
+---- Scourge XL Torpedo Blueprint
+++++ Торпеды
+++++ Тяжёлые ракеты
++++ Ремонтная нанопаста
 +++ Скрипты
 --- Armor EM Resistance Script Blueprint
 --- Armor Explosive Resistance Script Blueprint
 --- Armor Kinetic Resistance Script Blueprint
+--- Armor Thermal Resistance Script Blueprint
+--- Focused Warp Disruption Script Blueprint
+--- Focused Warp Scrambling Script Blueprint
+--- Missile Precision Disruption Script Blueprint
 --- Missile Range Disruption Script Blueprint
 --- Optimal Range Disruption Script Blueprint
+--- Scan Resolution Dampening Script Blueprint
+--- Shield EM Resistance Script Blueprint
+--- Shield Explosive Resistance Script Blueprint
 --- Shield Kinetic Resistance Script Blueprint
 --- Shield Thermal Resistance Script Blueprint
 --- Standup Focused Warp Scrambling Script Blueprint
@@ -314,16 +341,15 @@
 --- Targeting Range Dampening Script Blueprint
 --- Tracking Speed Disruption Script Blueprint
 ++ Дроны
++++ Боевые дроны
+++++ Лёгкие боевые дроны
+++++ Средние боевые дроны
+---- 'Subverted' JVN-UC49 Blueprint
 ---- Aralez Blueprint
 ++++ Стационарные боевые дроны
----- Bouncer I Blueprint
----- Curator I Blueprint
----- Garde I Blueprint
----- Warden I Blueprint
-++++ Тяжёлые боевые дроны
----- Berserker I Blueprint
----- Praetor I Blueprint
----- Wasp I Blueprint
++++ Буровые дроны
+--- Ice Harvesting Drone I Blueprint
++++ Вспомогательные дроны
 --- Acolyte EV-300 Blueprint
 --- Infiltrator EV-600 Blueprint
 --- Praetor EV-900 Blueprint
@@ -335,7 +361,7 @@
 --- Ogre SD-900 Blueprint
 --- Praetor TD-900 Blueprint
 --- Valkyrie SW-600 Blueprint
---- Vespa EC-600 Blueprint
+--- Valkyrie TP-600 Blueprint
 --- Wasp EC-900 Blueprint
 +++ Дроны-демонтажники
 --- 'Dunk' Salvage Drone Blueprint
@@ -348,6 +374,7 @@
 ---- Standup Cenobite I Blueprint
 ---- Standup Dromi I Blueprint
 ---- Standup Scarab I Blueprint
+---- Standup Siren I Blueprint
 ++++ Лёгкие истребители
 ---- Dragonfly I Blueprint
 ---- Einherji I Blueprint
@@ -392,9 +419,6 @@
 ++ Корабли
 +++ Буровые корабли
 ++++ ОРЭ
----- Covetor Blueprint
----- Procurer Blueprint
----- Retriever Blueprint
 +++ Вспомогательные КБТ
 ++++ Амаррские
 ---- Apostle Blueprint
@@ -449,6 +473,10 @@
 ++++ Минматарские
 ---- Sabre Blueprint
 +++ Катера
+++++ Амаррские
+++++ Галлентские
+++++ Калдарские
+++++ Минматарские
 +++ Корабли автономного развёртывания
 ++++ Амаррские
 ---- Aeon Blueprint
@@ -463,6 +491,10 @@
 ---- Hel Blueprint
 ---- Nidhoggur Blueprint
 +++ Корабли управления
+++++ Амаррские
+---- Absolution Blueprint
+---- Damnation Blueprint
+++++ Галлентские
 ---- Astarte Blueprint
 ---- Eos Blueprint
 ++++ Калдарские
@@ -475,22 +507,24 @@
 ++++ Амаррские
 ---- Arbitrator Blueprint
 ---- Augoror Blueprint
----- Maller Blueprint
----- Omen Blueprint
----- Vexor Blueprint
+++++ Галлентские
+---- Celestis Blueprint
+---- Exequror Blueprint
 ++++ Калдарские
 ---- Blackbird Blueprint
----- Caracal Blueprint
 ---- Moa Blueprint
 ---- Osprey Blueprint
 ++++ Минматарские
 ---- Bellicose Blueprint
 ---- Rupture Blueprint
 ---- Scythe Blueprint
----- Stabber Blueprint
 +++ Крейсеры обеспечения
 ++++ Амаррские
 ---- Guardian Blueprint
+++++ Галлентские
+---- Oneiros Blueprint
+++++ Калдарские
+---- Basilisk Blueprint
 ++++ Минматарские
 ---- Scimitar Blueprint
 +++ Линейные крейсеры
@@ -520,7 +554,6 @@
 ---- Hyperion Blueprint
 ---- Megathron Blueprint
 ++++ Калдарские
----- Raven Blueprint
 ---- Rokh Blueprint
 ---- Scorpion Blueprint
 ++++ Минматарские
@@ -532,16 +565,11 @@
 ---- Bestower Blueprint
 ---- Sigil Blueprint
 ++++ Галлентские
----- Iteron Mark V Blueprint
 ++++ Калдарские
----- Badger Blueprint
----- Tayra Blueprint
 ++++ Минматарские
 ---- Hoarder Blueprint
 ---- Mammoth Blueprint
----- Wreathe Blueprint
 ++++ ОРЭ
----- Noctis Blueprint
 +++ Перехватчики
 ++++ Амаррские
 ---- Crusader Blueprint
@@ -614,26 +642,21 @@
 +++ Флагманы буровых флотилий
 ++++ ОРЭ
 ---- Orca Blueprint
----- Porpoise Blueprint
 +++ Фрегаты
+++++ Амаррские
 ++++ Галлентские
 ---- Maulus Blueprint
 ---- Navitas Blueprint
----- Tristan Blueprint
 ++++ Калдарские
----- Condor Blueprint
----- Griffin Blueprint
----- Kestrel Blueprint
----- Merlin Blueprint
 ++++ Минматарские
----- Breacher Blueprint
 ---- Burst Blueprint
 ---- Probe Blueprint
----- Rifter Blueprint
 ---- Vigil Blueprint
+++++ ОРЭ
 +++ Фрейтеры
 ++++ Амаррские
 ---- Providence Blueprint
+++++ Галлентские
 ---- Obelisk Blueprint
 ++++ Калдарские
 ---- Charon Blueprint
@@ -644,16 +667,20 @@
 +++ Эсминцы
 ++++ Амаррские
 ---- Dragoon Blueprint
+++++ Галлентские
 ++++ Калдарские
----- Corax Blueprint
+---- Cormorant Blueprint
 ++++ Минматарские
 ---- Talwar Blueprint
 ++ Модификации кораблей
++++ Модификаторы баллистического вооружения
 ++++ Большие
 ---- Large Projectile Ambit Extension I Blueprint
 ---- Large Projectile Burst Aerator I Blueprint
+---- Large Projectile Collision Accelerator I Blueprint
 ---- Large Projectile Locus Coordinator I Blueprint
 ---- Large Projectile Metastasis Adjuster I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Projectile Ambit Extension I Blueprint
 ---- Capital Projectile Burst Aerator I Blueprint
@@ -662,17 +689,22 @@
 ---- Capital Projectile Metastasis Adjuster I Blueprint
 ++++ Средние
 ---- Medium Projectile Ambit Extension I Blueprint
+---- Medium Projectile Burst Aerator I Blueprint
 ---- Medium Projectile Collision Accelerator I Blueprint
 ---- Medium Projectile Locus Coordinator I Blueprint
 ---- Medium Projectile Metastasis Adjuster I Blueprint
 +++ Модификаторы брони
 ++++ Большие
+---- Large Auxiliary Nano Pump I Blueprint
 ---- Large EM Armor Reinforcer I Blueprint
 ---- Large Explosive Armor Reinforcer I Blueprint
 ---- Large Kinetic Armor Reinforcer I Blueprint
+---- Large Nanobot Accelerator I Blueprint
 ---- Large Remote Repair Augmentor I Blueprint
 ---- Large Thermal Armor Reinforcer I Blueprint
+---- Large Transverse Bulkhead I Blueprint
 ---- Large Trimark Armor Pump I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Auxiliary Nano Pump I Blueprint
 ---- Capital EM Armor Reinforcer I Blueprint
@@ -680,25 +712,30 @@
 ---- Capital Kinetic Armor Reinforcer I Blueprint
 ---- Capital Nanobot Accelerator I Blueprint
 ---- Capital Remote Repair Augmentor I Blueprint
+---- Capital Thermal Armor Reinforcer I Blueprint
 ---- Capital Transverse Bulkhead I Blueprint
 ---- Capital Trimark Armor Pump I Blueprint
 ++++ Средние
----- Medium Auxiliary Nano Pump I Blueprint
 ---- Medium EM Armor Reinforcer I Blueprint
+---- Medium Explosive Armor Reinforcer I Blueprint
 ---- Medium Kinetic Armor Reinforcer I Blueprint
 ---- Medium Nanobot Accelerator I Blueprint
 ---- Medium Remote Repair Augmentor I Blueprint
 ---- Medium Thermal Armor Reinforcer I Blueprint
 ---- Medium Transverse Bulkhead I Blueprint
 ---- Medium Trimark Armor Pump I Blueprint
++++ Модификаторы гибридного вооружения
 ++++ Большие
+---- Large Algid Hybrid Administrations Unit I Blueprint
 ---- Large Hybrid Ambit Extension I Blueprint
 ---- Large Hybrid Burst Aerator I Blueprint
 ---- Large Hybrid Collision Accelerator I Blueprint
 ---- Large Hybrid Discharge Elutriation I Blueprint
 ---- Large Hybrid Locus Coordinator I Blueprint
 ---- Large Hybrid Metastasis Adjuster I Blueprint
+++++ Малые
 ++++ Сверхбольшие
+---- Capital Algid Hybrid Administrations Unit I Blueprint
 ---- Capital Hybrid Ambit Extension I Blueprint
 ---- Capital Hybrid Burst Aerator I Blueprint
 ---- Capital Hybrid Collision Accelerator I Blueprint
@@ -711,15 +748,18 @@
 ---- Medium Hybrid Burst Aerator I Blueprint
 ---- Medium Hybrid Collision Accelerator I Blueprint
 ---- Medium Hybrid Discharge Elutriation I Blueprint
+---- Medium Hybrid Locus Coordinator I Blueprint
 ---- Medium Hybrid Metastasis Adjuster I Blueprint
++++ Модификаторы двигательных систем
 ++++ Большие
 ---- Large Auxiliary Thrusters I Blueprint
----- Large Cargohold Optimization I Blueprint
 ---- Large Dynamic Fuel Valve I Blueprint
 ---- Large Engine Thermal Shielding I Blueprint
 ---- Large Hyperspatial Velocity Optimizer I Blueprint
+---- Large Low Friction Nozzle Joints I Blueprint
 ---- Large Polycarbon Engine Housing I Blueprint
 ---- Large Warp Core Optimizer I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Auxiliary Thrusters I Blueprint
 ---- Capital Cargohold Optimization I Blueprint
@@ -732,21 +772,22 @@
 ---- Capital Warp Core Optimizer I Blueprint
 ++++ Средние
 ---- Medium Auxiliary Thrusters I Blueprint
----- Medium Cargohold Optimization I Blueprint
 ---- Medium Dynamic Fuel Valve I Blueprint
+---- Medium Engine Thermal Shielding I Blueprint
 ---- Medium Higgs Anchor I Blueprint
----- Medium Hyperspatial Velocity Optimizer I Blueprint
----- Medium Low Friction Nozzle Joints I Blueprint
 ---- Medium Polycarbon Engine Housing I Blueprint
 ---- Medium Warp Core Optimizer I Blueprint
 +++ Модификаторы дронов
+++++ Большие
 ---- Large Drone Control Range Augmentor I Blueprint
 ---- Large Drone Durability Enhancer I Blueprint
+---- Large Drone Mining Augmentor I Blueprint
 ---- Large Drone Repair Augmentor I Blueprint
 ---- Large Drone Scope Chip I Blueprint
 ---- Large Drone Speed Augmentor I Blueprint
 ---- Large Sentry Damage Augmentor I Blueprint
 ---- Large Stasis Drone Augmentor I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Drone Control Range Augmentor I Blueprint
 ---- Capital Drone Durability Enhancer I Blueprint
@@ -757,19 +798,17 @@
 ---- Capital Sentry Damage Augmentor I Blueprint
 ---- Capital Stasis Drone Augmentor I Blueprint
 ++++ Средние
----- Medium Drone Control Range Augmentor I Blueprint
----- Medium Drone Durability Enhancer I Blueprint
----- Medium Drone Mining Augmentor I Blueprint
----- Medium Drone Repair Augmentor I Blueprint
----- Medium Drone Scope Chip I Blueprint
----- Medium Drone Speed Augmentor I Blueprint
+---- Medium Sentry Damage Augmentor I Blueprint
 ---- Medium Stasis Drone Augmentor I Blueprint
 +++ Модификаторы захвата целей
+++++ Большие
 ---- Large Ionic Field Projector I Blueprint
 ---- Large Targeting System Subcontroller I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Ionic Field Projector I Blueprint
 ---- Capital Targeting System Subcontroller I Blueprint
+++++ Средние
 ---- Medium Ionic Field Projector I Blueprint
 ---- Medium Targeting System Subcontroller I Blueprint
 +++ Модификаторы инженерных систем
@@ -782,6 +821,7 @@
 ---- Large Powergrid Subroutine Maximizer I Blueprint
 ---- Large Processor Overclocking Unit I Blueprint
 ---- Large Semiconductor Memory Cell I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Ancillary Current Router I Blueprint
 ---- Capital Capacitor Control Circuit I Blueprint
@@ -789,14 +829,14 @@
 ---- Capital Egress Port Maximizer I Blueprint
 ---- Capital Liquid Cooled Electronics I Blueprint
 ---- Capital Powergrid Subroutine Maximizer I Blueprint
+---- Capital Processor Overclocking Unit I Blueprint
 ---- Capital Semiconductor Memory Cell I Blueprint
 ++++ Средние
----- Medium Capacitor Control Circuit I Blueprint
 ---- Medium Command Processor I Blueprint
 ---- Medium Egress Port Maximizer I Blueprint
+---- Medium Liquid Cooled Electronics I Blueprint
 ---- Medium Powergrid Subroutine Maximizer I Blueprint
 ---- Medium Processor Overclocking Unit I Blueprint
----- Medium Semiconductor Memory Cell I Blueprint
 +++ Модификаторы лазерного вооружения
 ++++ Большие
 ---- Large Algid Energy Administrations Unit I Blueprint
@@ -806,6 +846,8 @@
 ---- Large Energy Discharge Elutriation I Blueprint
 ---- Large Energy Locus Coordinator I Blueprint
 ---- Large Energy Metastasis Adjuster I Blueprint
+++++ Малые
+++++ Сверхбольшие
 ---- Capital Algid Energy Administrations Unit I Blueprint
 ---- Capital Energy Ambit Extension I Blueprint
 ---- Capital Energy Burst Aerator I Blueprint
@@ -816,31 +858,30 @@
 ++++ Средние
 ---- Medium Algid Energy Administrations Unit I Blueprint
 ---- Medium Energy Ambit Extension I Blueprint
+---- Medium Energy Burst Aerator I Blueprint
 ---- Medium Energy Collision Accelerator I Blueprint
 ---- Medium Energy Discharge Elutriation I Blueprint
 ---- Medium Energy Locus Coordinator I Blueprint
+---- Medium Energy Metastasis Adjuster I Blueprint
 +++ Модификаторы переработки
 ++++ Большие
----- Large Salvage Tackle I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Salvage Tackle I Blueprint
 ++++ Средние
----- Medium Ice Harvester Accelerator I Blueprint
----- Medium Mercoxit Mining Crystal Optimization I Blueprint
----- Medium Salvage Tackle I Blueprint
 +++ Модификаторы разведсистем
 ++++ Большие
 ---- Large Emission Scope Sharpener I Blueprint
+---- Large Gravity Capacitor Upgrade I Blueprint
+---- Large Memetic Algorithm Bank I Blueprint
 ---- Large Signal Focusing Kit I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Emission Scope Sharpener I Blueprint
 ---- Capital Gravity Capacitor Upgrade I Blueprint
 ---- Capital Memetic Algorithm Bank I Blueprint
 ---- Capital Signal Focusing Kit I Blueprint
 ++++ Средние
----- Medium Emission Scope Sharpener I Blueprint
----- Medium Gravity Capacitor Upgrade I Blueprint
----- Medium Memetic Algorithm Bank I Blueprint
 +++ Модификаторы ракетного вооружения
 ++++ Большие
 ---- Large Bay Loading Accelerator I Blueprint
@@ -848,6 +889,8 @@
 ---- Large Rocket Fuel Cache Partition I Blueprint
 ---- Large Warhead Calefaction Catalyst I Blueprint
 ---- Large Warhead Flare Catalyst I Blueprint
+---- Large Warhead Rigor Catalyst I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Bay Loading Accelerator I Blueprint
 ---- Capital Hydraulic Bay Thrusters I Blueprint
@@ -855,11 +898,16 @@
 ---- Capital Warhead Calefaction Catalyst I Blueprint
 ---- Capital Warhead Flare Catalyst I Blueprint
 ---- Capital Warhead Rigor Catalyst I Blueprint
+++++ Средние
 +++ Модификаторы РЭБ
 ++++ Большие
+---- Large Inverted Signal Field Projector I Blueprint
+---- Large Particle Dispersion Augmentor I Blueprint
 ---- Large Particle Dispersion Projector I Blueprint
+---- Large Signal Disruption Amplifier I Blueprint
 ---- Large Targeting Systems Stabilizer I Blueprint
 ---- Large Tracking Diagnostic Subroutines I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Inverted Signal Field Projector I Blueprint
 ---- Capital Particle Dispersion Augmentor I Blueprint
@@ -875,6 +923,8 @@
 ---- Medium Targeting Systems Stabilizer I Blueprint
 ---- Medium Tracking Diagnostic Subroutines I Blueprint
 +++ Модификаторы щитов
+++++ Большие
+---- Large Core Defense Capacitor Safeguard I Blueprint
 ---- Large Core Defense Charge Economizer I Blueprint
 ---- Large Core Defense Field Extender I Blueprint
 ---- Large Core Defense Field Purger I Blueprint
@@ -882,12 +932,17 @@
 ---- Large EM Shield Reinforcer I Blueprint
 ---- Large Explosive Shield Reinforcer I Blueprint
 ---- Large Kinetic Shield Reinforcer I Blueprint
+---- Large Thermal Shield Reinforcer I Blueprint
+++++ Малые
 ++++ Сверхбольшие
 ---- Capital Core Defense Capacitor Safeguard I Blueprint
+---- Capital Core Defense Charge Economizer I Blueprint
 ---- Capital Core Defense Field Extender I Blueprint
 ---- Capital Core Defense Field Purger I Blueprint
+---- Capital Core Defense Operational Solidifier I Blueprint
 ---- Capital EM Shield Reinforcer I Blueprint
 ---- Capital Explosive Shield Reinforcer I Blueprint
+---- Capital Kinetic Shield Reinforcer I Blueprint
 ---- Capital Thermal Shield Reinforcer I Blueprint
 ++ Модификации сооружений
 +++ Боевые модификаторы
@@ -903,6 +958,8 @@
 --- Standup M-Set Energy Neutralizer Projection I Blueprint
 --- Standup M-Set Enhanced Targeting System I Blueprint
 --- Standup M-Set Missile Precision I Blueprint
+--- Standup M-Set Missile Projection I Blueprint
+--- Standup M-Set Structure Target Multiplexing I Blueprint
 --- Standup XL-Set EW and Emissions Co-ordinator I Blueprint
 --- Standup XL-Set Extinction Level Weapons Suite I Blueprint
 --- Standup XL-Set Missile Fire Control Computer I Blueprint
@@ -910,14 +967,19 @@
 --- Standup L-Set Advanced Component Manufacturing Efficiency I Blueprint
 --- Standup L-Set Advanced Large Ship Manufacturing Efficiency I Blueprint
 --- Standup L-Set Advanced Medium Ship Manufacturing Efficiency I Blueprint
+--- Standup L-Set Advanced Small Ship Manufacturing Efficiency I Blueprint
+--- Standup L-Set Ammunition Manufacturing Efficiency I Blueprint
 --- Standup L-Set Basic Capital Component Manufacturing Efficiency I Blueprint
 --- Standup L-Set Basic Large Ship Manufacturing Efficiency I Blueprint
 --- Standup L-Set Basic Medium Ship Manufacturing Efficiency I Blueprint
 --- Standup L-Set Basic Small Ship Manufacturing Efficiency I Blueprint
 --- Standup L-Set Blueprint Copy Optimization I Blueprint
+--- Standup L-Set Capital Ship Manufacturing Efficiency I Blueprint
 --- Standup L-Set Drone and Fighter Manufacturing Efficiency I Blueprint
 --- Standup L-Set Equipment Manufacturing Efficiency I Blueprint
+--- Standup L-Set Invention Optimization I Blueprint
 --- Standup L-Set ME Research Optimization I Blueprint
+--- Standup L-Set Structure Manufacturing Efficiency I Blueprint
 --- Standup L-Set TE Research Optimization I Blueprint
 --- Standup M-Set Advanced Component Manufacturing Material Efficiency I Blueprint
 --- Standup M-Set Advanced Component Manufacturing Time Efficiency I Blueprint
@@ -928,11 +990,12 @@
 --- Standup M-Set Advanced Small Ship Manufacturing Material Efficiency I Blueprint
 --- Standup M-Set Advanced Small Ship Manufacturing Time Efficiency I Blueprint
 --- Standup M-Set Ammunition Manufacturing Material Efficiency I Blueprint
---- Standup M-Set Ammunition Manufacturing Time Efficiency I Blueprint
+--- Standup M-Set Ammunition Manufacturing Time Efficiency I Blueprint
 --- Standup M-Set Basic Capital Component Manufacturing Material Efficiency I Blueprint
 --- Standup M-Set Basic Capital Component Manufacturing Time Efficiency I Blueprint
 --- Standup M-Set Basic Large Ship Manufacturing Material Efficiency I Blueprint
 --- Standup M-Set Basic Large Ship Manufacturing Time Efficiency I Blueprint
+--- Standup M-Set Basic Medium Ship Manufacturing Material Efficiency I Blueprint
 --- Standup M-Set Basic Medium Ship Manufacturing Time Efficiency I Blueprint
 --- Standup M-Set Basic Small Ship Manufacturing Material Efficiency I Blueprint
 --- Standup M-Set Basic Small Ship Manufacturing Time Efficiency I Blueprint
@@ -940,6 +1003,8 @@
 --- Standup M-Set Blueprint Copy Cost Optimization I Blueprint
 --- Standup M-Set Drone and Fighter Manufacturing Material Efficiency I Blueprint
 --- Standup M-Set Drone and Fighter Manufacturing Time Efficiency I Blueprint
+--- Standup M-Set Equipment Manufacturing Material Efficiency I Blueprint
+--- Standup M-Set Equipment Manufacturing Time Efficiency I Blueprint
 --- Standup M-Set Invention Accelerator I Blueprint
 --- Standup M-Set Invention Cost Optimization I Blueprint
 --- Standup M-Set ME Research Accelerator I Blueprint
@@ -948,7 +1013,9 @@
 --- Standup M-Set Structure Manufacturing Time Efficiency I Blueprint
 --- Standup M-Set TE Research Accelerator I Blueprint
 --- Standup M-Set TE Research Cost Optimization I Blueprint
+--- Standup XL-Set Equipment and Consumable Manufacturing Efficiency I Blueprint
 --- Standup XL-Set Laboratory Optimization I Blueprint
+--- Standup XL-Set Ship Manufacturing Efficiency I Blueprint
 --- Standup XL-Set Structure and Component Manufacturing Efficiency I Blueprint
 +++ Надстройки для сооружений — переработка ресурсов
 --- Standup L-Set Moon Drilling Proficiency I Blueprint
@@ -973,23 +1040,21 @@
 ++++ Микроварп-ускорители
 ---- 50000MN Cold-Gas Enduring Microwarpdrive Blueprint
 ---- 50000MN Microwarpdrive I Blueprint
+---- 50000MN Quad LiF Restrained Microwarpdrive Blueprint
 ---- 50000MN Y-T8 Compact Microwarpdrive Blueprint
 ---- 500MN Microwarpdrive I Blueprint
 ++++ Улучшения двигательных установок
 ---- Compact Interdiction Nullifier Blueprint
 ---- Enduring Interdiction Nullifier Blueprint
----- Interdiction Nullifier I Blueprint
 ---- Interdiction Nullifier II Blueprint
 ++++ Форсажные ускорители
 ---- 10000MN Afterburner I Blueprint
 ---- 10000MN Monopropellant Enduring Afterburner Blueprint
+---- 10000MN Y-S8 Compact Afterburner Blueprint
 ---- 100MN Afterburner I Blueprint
 +++ Добывающее оборудование
 ++++ Буровые лазеры
----- Gas Cloud Harvester I Blueprint
----- Gas Cloud Scoop I Blueprint
----- Ice Harvester I Blueprint
----- Strip Miner I Blueprint
+++++ Демонтажные модули
 ++++ Оптимизация бурового оборудования
 ---- Frostline 'Omnivore' Harvester Upgrade Blueprint
 +++ Импульсные излучатели
@@ -1002,34 +1067,35 @@
 --- Medium Plasma Smartbomb I Blueprint
 --- Medium Proton Smartbomb I Blueprint
 --- Small EMP Smartbomb I Blueprint
---- Small Graviton Smartbomb I Blueprint
 --- Small Plasma Smartbomb I Blueprint
 --- Small Proton Smartbomb I Blueprint
 +++ Инженерное оборудование
+++++ Вспомогательные реакторы
 ++++ Дистанционные нейтрализаторы заряда
 ---- Capital Energy Neutralizer I Blueprint
 ---- Capital Gremlin Compact Energy Neutralizer Blueprint
 ---- Capital Infectious Scoped Energy Neutralizer Blueprint
 ---- Heavy Energy Neutralizer I Blueprint
 ---- Medium Energy Neutralizer I Blueprint
----- Small Energy Neutralizer I Blueprint
 ++++ Дополнительные батареи накопителя
 ---- Capital Cap Battery I Blueprint
 ---- Capital Compact Pb-Acid Cap Battery Blueprint
 ---- Large Cap Battery I Blueprint
+++++ Силовые петли накопителя
+++++ Силовые реле накопителя
+++++ Системы диагностики энергоснабжения
 ++++ Системы пассивной подзарядки накопителя
----- Cap Recharger I Blueprint
 ++++ Системы подачи зарядов накопителя
 ---- Capital Capacitor Booster I Blueprint
 ---- Capital F-RX Compact Capacitor Booster Blueprint
 ---- Heavy Capacitor Booster I Blueprint
----- Medium Capacitor Booster I Blueprint
+++++ Системы управления реактором
 ++++ Установки дистанционного энергоснабжения
 ---- Capital Inductive Compact Remote Capacitor Transmitter Blueprint
+---- Capital Radiative Scoped Remote Capacitor Transmitter Blueprint
 ---- Capital Remote Capacitor Transmitter I Blueprint
 ---- Large Remote Capacitor Transmitter I Blueprint
 ---- Medium Remote Capacitor Transmitter I Blueprint
----- Small Remote Capacitor Transmitter I Blueprint
 ++++ Устройства паразитной подзарядки
 ---- Capital Energy Nosferatu I Blueprint
 ---- Capital Ghoul Compact Energy Nosferatu Blueprint
@@ -1042,6 +1108,7 @@
 --- Clone Vat Bay I Blueprint
 --- Covert Cynosural Field Generator I Blueprint
 --- Covert Jump Portal Generator I Blueprint
+--- Cynosural Field Generator I Blueprint
 --- Industrial Cynosural Field Generator Blueprint
 --- Industrial Jump Portal Generator I Blueprint
 --- Information Command Burst I Blueprint
@@ -1053,15 +1120,16 @@
 +++ Орудийные и пусковые установки
 ++++ Баллистические орудия
 +++++ Большие
+----- 1200mm Artillery Cannon I Blueprint
+----- 1400mm Howitzer Artillery I Blueprint
+----- 800mm Repeating Cannon I Blueprint
 ----- Dual 425mm AutoCannon I Blueprint
 ----- Dual 650mm Repeating Cannon I Blueprint
 +++++ Малые
------ 125mm Gatling AutoCannon I Blueprint
------ 150mm Light AutoCannon I Blueprint
------ 200mm AutoCannon I Blueprint
 ----- 250mm Light Artillery Cannon I Blueprint
 +++++ Сверхбольшие
 ----- Ample Gallium Quad 800mm Repeating Cannon Blueprint
+----- Carbide Compact Quad 3500mm Siege Artillery Blueprint
 ----- Carbine Compact Hexa 2500mm Repeating Cannon Blueprint
 ----- Compact Carbine Quad 800mm Repeating Cannon Blueprint
 ----- Gallium Ample Hexa 2500mm Repeating Cannon Blueprint
@@ -1078,6 +1146,7 @@
 +++++ Средние
 ----- 220mm Vulcan AutoCannon I Blueprint
 ----- 425mm AutoCannon I Blueprint
+----- 650mm Artillery Cannon I Blueprint
 ----- 720mm Howitzer Artillery I Blueprint
 ----- Dual 180mm AutoCannon I Blueprint
 ++++ Бомбомёты
@@ -1089,15 +1158,17 @@
 ----- Dual 250mm Railgun I Blueprint
 ----- Electron Blaster Cannon I Blueprint
 ----- Ion Blaster Cannon I Blueprint
+----- Neutron Blaster Cannon I Blueprint
++++++ Малые
 ----- 150mm Railgun I Blueprint
------ 75mm Gatling Rail I Blueprint
------ Light Electron Blaster I Blueprint
 ----- Light Ion Blaster I Blueprint
 ----- Light Neutron Blaster I Blueprint
 +++++ Сверхбольшие
 ----- Anode Scoped Ion Siege Blaster Blueprint
+----- Anode Scoped Triple Neutron Blaster Cannon Blueprint
 ----- Carbide Compact Dual 1000mm Railgun Blueprint
 ----- Compressed Enduring Dual 1000mm Railgun Blueprint
+----- Dual 1000mm Railgun I Blueprint
 ----- Ion Siege Blaster I Blueprint
 ----- Limited Precise Ion Siege Blaster Blueprint
 ----- Limited Precise Triple Neutron Blaster Cannon Blueprint
@@ -1114,6 +1185,7 @@
 ----- Dual 150mm Railgun I Blueprint
 ----- Heavy Electron Blaster I Blueprint
 ----- Heavy Ion Blaster I Blueprint
+----- Heavy Neutron Blaster I Blueprint
 ++++ Лазерные орудия
 +++++ Большие
 ----- Dual Heavy Beam Laser I Blueprint
@@ -1121,17 +1193,14 @@
 ----- Mega Beam Laser I Blueprint
 ----- Mega Pulse Laser I Blueprint
 ----- Supratidal Compact Entropic Disintegrator Blueprint
------ Supratidal Entropic Disintegrator I Blueprint
------ Supratidal Scoped Entropic Disintegrator Blueprint
 ----- Tachyon Beam Laser I Blueprint
 ----- Veles Supratidal Entropic Disintegrator Blueprint
------ Gatling Pulse Laser I Blueprint
------ Light Compact Entropic Disintegrator Blueprint
------ Light Entropic Disintegrator I Blueprint
------ Light Scoped Entropic Disintegrator Blueprint
------ Small Focused Beam Laser I Blueprint
++++++ Малые
+----- Dual Light Beam Laser I Blueprint
+----- Dual Light Pulse Laser I Blueprint
 ----- Small Focused Pulse Laser I Blueprint
 ----- Veles Light Entropic Disintegrator Blueprint
++++++ Сверхбольшие
 ----- Afocal Precise Dual Giga Beam Laser Blueprint
 ----- Afocal Precise Dual Giga Pulse Laser Blueprint
 ----- Afocal Precise Quad Mega Pulse Laser Blueprint
@@ -1154,11 +1223,9 @@
 ----- Heavy Compact Entropic Disintegrator Blueprint
 ----- Heavy Entropic Disintegrator I Blueprint
 ----- Heavy Pulse Laser I Blueprint
------ Heavy Scoped Entropic Disintegrator Blueprint
 ----- Quad Light Beam Laser I Blueprint
 ----- Veles Heavy Entropic Disintegrator Blueprint
 ++++ Орудия Судного дня
----- 'Atgeir' Explosive Disruptive Lance Blueprint
 ---- 'Aurora Ominae' Thermal Doomsday Blueprint
 ---- 'Azmaru' Electromagnetic Disruptive Lance Blueprint
 ---- 'Cold Wind' Kinetic Reaper Blueprint
@@ -1172,8 +1239,6 @@
 ---- 'Judgment' Electromagnetic Doomsday Blueprint
 ---- 'Oblivion' Kinetic Doomsday Blueprint
 ---- 'Phalarica' Thermal Lance Blueprint
----- 'Sarissa' Thermal Disruptive Lance Blueprint
----- 'Steel Yari' Kinetic Disruptive Lance Blueprint
 ---- Amarr Phenomena Generator Blueprint
 ---- Bosonic Field Generator Blueprint
 ---- Caldari Phenomena Generator Blueprint
@@ -1181,45 +1246,39 @@
 ---- Gravitational Transportation Field Oscillator Blueprint
 ---- Minmatar Phenomena Generator Blueprint
 ---- Pulse Activated Nexus Invulnerability Core Blueprint
+---- ‘Atgeir’ Explosive Disruptive Lance Blueprint
+---- ‘Sarissa’ Thermal Disruptive Lance Blueprint
+---- ‘Steel Yari’ Kinetic Disruptive Lance Blueprint
 ++++ Пусковые установки
 ---- Arbalest Compact Rapid Torpedo Launcher Blueprint
 ---- Arbalest Compact XL Cruise Missile Launcher Blueprint
 ---- Arbalest Compact XL Torpedo Launcher Blueprint
----- Cruise Missile Launcher I Blueprint
 ---- Defender Launcher I Blueprint
----- Heavy Assault Missile Launcher I Blueprint
----- Heavy Missile Launcher I Blueprint
----- Light Missile Launcher I Blueprint
----- Rapid Heavy Missile Launcher I Blueprint
 ---- Rapid Torpedo Launcher I Blueprint
 ---- TE-2100 Ample Rapid Torpedo Launcher Blueprint
 ---- TE-2100 Ample XL Cruise Missile Launcher Blueprint
 ---- TE-2100 Ample XL Torpedo Launcher Blueprint
----- Torpedo Launcher I Blueprint
 ---- XL Cruise Missile Launcher I Blueprint
 ---- XL Torpedo Launcher I Blueprint
 ++++ Улучшения систем вооружения
----- Ballistic Control System I Blueprint
 ---- Bastion Module I Blueprint
 ---- Capital Industrial Core I Blueprint
 ---- Consortium Vorton Tuning System Blueprint
----- Entropic Radiation Sink I Blueprint
----- Gyrostabilizer I Blueprint
----- Heat Sink I Blueprint
 ---- Kasiha's Modified Vorton Tuning System Blueprint
 ---- Large Industrial Core I Blueprint
----- Magnetic Field Stabilizer I Blueprint
 ---- Medium Industrial Core I Blueprint
----- Missile Guidance Computer I Blueprint
----- Missile Guidance Enhancer I Blueprint
 ---- ML-EKP 'Polybolos' Ballistic Control System Blueprint
 ---- Remote Tracking Computer I Blueprint
 ---- Siege Module I Blueprint
 ---- Tracking Computer I Blueprint
----- Tracking Enhancer I Blueprint
 ---- Triage Module I Blueprint
 ---- Veles Entropic Radiation Sink Blueprint
 +++ Поисковое оборудование
+++++ Анализаторы
+++++ Бортовые разведсистемы
+++++ Пусковые установки лунных зондов
+++++ Пусковые установки разведзондов
+++++ Улучшения разведсистем
 ++++ Энтоз-передатчики
 ---- Entosis Link I Blueprint
 +++ Системы РЭБ
@@ -1231,12 +1290,13 @@
 ---- Heavy Faint Epsilon Scoped Warp Scrambler Blueprint
 ---- Heavy Initiated Compact Warp Scrambler Blueprint
 ---- Heavy J5b Enduring Warp Scrambler Blueprint
----- Warp Scrambler I Blueprint
+---- Heavy Warp Scrambler I Blueprint
 ++++ Варп-подавители
 ---- Heavy Faint Scoped Warp Disruptor Blueprint
 ---- Heavy Fleeting Compact Warp Disruptor Blueprint
 ---- Heavy J5 Enduring Warp Disruptor Blueprint
----- Warp Disruptor I Blueprint
+---- Heavy Warp Disruptor I Blueprint
+++++ Импульсные глушители захвата целей
 ++++ Модули глушения захвата целей
 ---- Gravimetric ECM I Blueprint
 ---- Ladar ECM I Blueprint
@@ -1244,6 +1304,8 @@
 ---- Multispectral ECM I Blueprint
 ---- Radar ECM I Blueprint
 ---- Signal Distortion Amplifier I Blueprint
+++++ Модули подавления захвата целей
+++++ Подавители оружия
 ++++ Проекторы объёмных помех
 ---- ECM Jammer Burst Projector Blueprint
 ---- Energy Neutralization Burst Projector Blueprint
@@ -1254,19 +1316,24 @@
 ---- Weapon Disruption Burst Projector Blueprint
 ++++ ПУ зондов варп-заграждения
 ---- Interdiction Sphere Launcher I Blueprint
+++++ Системы подсветки целей
+++++ Стазис-индукторы
 +++ Улучшения сенсоров и электронных систем
 ++++ Активные усилители систем захвата целей
 ---- Networked Sensor Array Blueprint
----- Sensor Booster I Blueprint
 ++++ Гравизахваты
 ---- Capital Tractor Beam I Blueprint
 ++++ Передатчики для систем захвата целей
 ---- Remote Sensor Booster I Blueprint
---- Drone Link Augmentor I Blueprint
---- Drone Navigation Computer I Blueprint
+++++ Системы автоматического захвата целей
+++++ Системы маскировки
+---- Prototype Cloaking Device I Blueprint
+++++ Системы скрытого захвата целей
+---- Passive Targeter I Blueprint
+++++ Улучшения ЦПУ
++++ Улучшения систем управления дронами
 --- Fighter Support Unit I Blueprint
 --- Hermes Compact Fighter Support Unit Blueprint
---- Omnidirectional Tracking Enhancer I Blueprint
 +++ Чертежи компрессора
 --- Capital Asteroid Ore Compressor I Blueprint
 --- Capital Gas Compressor I Blueprint
@@ -1279,6 +1346,7 @@
 --- Large Mercoxit Compressor I Blueprint
 --- Large Moon Ore Compressor I Blueprint
 --- Medium Asteroid Ore Compressor I Blueprint
+--- Medium Gas Compressor I Blueprint
 +++ Щиты
 ++++ Активные модуляторы щитов
 ---- Capital Flex Shield Hardener I Blueprint
@@ -1286,16 +1354,18 @@
 ---- Explosive Shield Hardener I Blueprint
 ---- Kinetic Shield Hardener I Blueprint
 ---- Thermal Shield Hardener I Blueprint
+++++ Дополнительные источники щитов
+---- Capital Azeotropic Restrained Shield Extender Blueprint
 ---- Capital F-S9 Regolith Compact Shield Extender Blueprint
 ---- Capital Shield Extender I Blueprint
----- Large Shield Extender I Blueprint
 ++++ Пассивные модуляторы щитов
 ---- EM Shield Amplifier I Blueprint
 ---- Explosive Shield Amplifier I Blueprint
 ---- Kinetic Shield Amplifier I Blueprint
 ---- Thermal Shield Amplifier I Blueprint
+++++ Регенераторы щитов
 ++++ Силовые петли щитов
----- Shield Flux Coil I Blueprint
+++++ Силовые реле щитов
 ++++ Установки дистанционной накачки щитов
 ---- Capital Asymmetric Enduring Remote Shield Booster Blueprint
 ---- Capital Murky Compact Remote Shield Booster Blueprint
@@ -1304,6 +1374,12 @@
 ---- Large Remote Shield Booster I Blueprint
 ---- Medium Remote Shield Booster I Blueprint
 ---- Small Remote Shield Booster I Blueprint
+++++ Установки накачки щитов
+---- Capital C-5L Compact Shield Booster Blueprint
+---- Capital Clarity Ward Enduring Shield Booster Blueprint
+---- Capital Shield Booster I Blueprint
+---- Civilian Shield Booster Blueprint
+---- Large Shield Booster I Blueprint
 ---- X-Large Shield Booster I Blueprint
 +++ Элементы корпуса и брони
 ++++ Бронеплиты
@@ -1321,6 +1397,7 @@
 ---- Kinetic Energized Membrane I Blueprint
 ---- Layered Energized Membrane I Blueprint
 ---- Multispectrum Energized Membrane I Blueprint
+---- Thermal Energized Membrane I Blueprint
 ++++ Модули боевой живучести
 ---- Capital Emergency Hull Energizer I Blueprint
 ---- Capital Implacable Compact Emergency Hull Energizer Blueprint
@@ -1328,24 +1405,30 @@
 ++++ Модули укрепления брони
 ---- Capital Flex Armor Hardener I Blueprint
 ---- EM Armor Hardener I Blueprint
+---- Explosive Armor Hardener I Blueprint
+---- Kinetic Armor Hardener I Blueprint
 ---- Thermal Armor Hardener I Blueprint
 ++++ Модулятор массы
 ---- Zero-Point Mass Entangler Blueprint
+++++ Оптимизация корпуса
 ++++ Покрытия брони
----- EM Coating I Blueprint
----- Explosive Coating I Blueprint
----- Kinetic Coating I Blueprint
----- Layered Coating I Blueprint
----- Thermal Coating I Blueprint
 ++++ Системы ремонта брони
+---- Capital ACM Compact Armor Repairer Blueprint
+---- Capital Armor Repairer I Blueprint
 ---- Capital I-a Enduring Armor Repairer Blueprint
 ---- Civilian Armor Repairer Blueprint
----- Large Armor Repairer I Blueprint
----- Small Armor Repairer I Blueprint
 ++++ Установки дистанционного ремонта брони
 ---- Capital Coaxial Compact Remote Armor Repairer Blueprint
 ---- Capital I-ax Enduring Remote Armor Repairer Blueprint
 ---- Capital Remote Armor Repairer I Blueprint
+---- Capital Solace Scoped Remote Armor Repairer Blueprint
+---- Large Remote Armor Repairer I Blueprint
+---- Medium Remote Armor Repairer I Blueprint
+---- Small Remote Armor Repairer I Blueprint
+++++ Установки дистанционного ремонта корпуса
+---- Capital Remote Hull Repairer I Blueprint
+---- Large Remote Hull Repairer I Blueprint
+---- Medium Remote Hull Repairer I Blueprint
 ---- Small Remote Hull Repairer I Blueprint
 ++++ Установки ремонта корпуса
 ---- Capital Hull Repairer I Blueprint
@@ -1363,6 +1446,7 @@
 +++++ ПУ сооружений против КБТ
 ----- Standup Anticapital Missile Launcher I Blueprint
 +++++ ПУ сооружений против кораблей стандартного тоннажа
+----- Standup Multirole Missile Launcher I Blueprint
 ++++ Улучшения систем вооружения
 +++++ Корректоры траекторий ракет
 ----- Standup Missile Guidance Enhancer I Blueprint
@@ -1370,16 +1454,30 @@
 ----- Standup Ballistic Control System I Blueprint
 +++ Инженерное оборудование
 ++++ Дистанционные нейтрализаторы заряда
+---- Dark Blood Standup Heavy Energy Neutralizer Blueprint
+---- Standup Heavy Energy Neutralizer I Blueprint
 ---- Standup XL Energy Neutralizer I Blueprint
 ++++ Накопительные батареи
 ---- Standup Cap Battery I Blueprint
+++++ Силовые реле накопителя
+---- Standup Capacitor Power Relay I Blueprint
+++++ Системы точечной обороны
 ---- Standup Point Defense Battery I Blueprint
+++++ Системы управления реактором
+---- Standup Reactor Control Unit I Blueprint
 ++++ Усилители брони
 ---- Standup Layered Armor Plating I Blueprint
 +++ Системы РЭБ
+++++ Варп-глушители
+---- Standup Focused Warp Disruptor I Blueprint
 ++++ Модули глушения захвата целей
+---- Dread Guristas Standup Variable Spectrum ECM Blueprint
 ---- Standup Variable Spectrum ECM I Blueprint
+++++ Модули подавления захвата целей
+---- Standup Remote Sensor Dampener I Blueprint
 ++++ Подавители оружия
+---- Standup Weapon Disruptor I Blueprint
+++++ Проекторы объёмных помех на базе сооружений
 ---- Standup ECM Jammer Burst Projector Blueprint
 ---- Standup Energy Neutralization Burst Projector Blueprint
 ---- Standup Sensor Dampening Burst Projector Blueprint
@@ -1387,11 +1485,18 @@
 ---- Standup Target Illumination Burst Projector Blueprint
 ---- Standup Warp Disruption Burst Projector Blueprint
 ---- Standup Weapon Disruption Burst Projector Blueprint
+++++ Системы подсветки целей
+---- Standup Target Painter I Blueprint
+++++ Стазис-индукторы
+---- Standup Stasis Webifier I Blueprint
 +++ Служебные модули
+++++ Служебные модули переработки ресурсов
 ---- Standup Biochemical Reactor I Blueprint
 ---- Standup Composite Reactor I Blueprint
 ---- Standup Hybrid Reactor I Blueprint
 ---- Standup Moon Drill I Blueprint
+---- Standup Reprocessing Facility I Blueprint
+++++ Служебные модули промышленных комплексов
 ---- Standup Capital Shipyard I Blueprint
 ---- Standup Invention Lab I Blueprint
 ---- Standup Manufacturing Plant I Blueprint
@@ -1403,32 +1508,36 @@
 +++ Улучшения сенсоров и электронных систем
 ++++ Улучшения ЦПУ
 ---- Standup Co-Processor Array I Blueprint
+++++ Усилители сигнала
+---- Standup Signal Amplifier I Blueprint
 ++ Промышленные комплектующие
 +++ Компоненты
 ++++ Компоненты защиты
----- Auto-Integrity Preservation Seal Blueprint
 ---- Core Temperature Regulator Blueprint
 ---- Genetic Lock Preserver Blueprint
 ---- Genetic Mutation Inhibitor Blueprint
 ---- Genetic Safeguard Filter Blueprint
 ---- Genetic Structure Repairer Blueprint
----- Life Support Backup Unit Blueprint
 ---- Neurolink Enhancer Reservoir Blueprint
 ---- Programmable Purification Membrane Blueprint
 ++++ Компоненты КБТ
 ---- Capital Armor Plates Blueprint
 ---- Capital Capacitor Battery Blueprint
----- Capital Cargo Bay Blueprint
 ---- Capital Clone Vat Bay Blueprint
 ---- Capital Computer System Blueprint
----- Capital Construction Parts Blueprint
 ---- Capital Core Temperature Regulator Blueprint
+---- Capital Corporate Hangar Bay Blueprint
+---- Capital Doomsday Weapon Mount Blueprint
 ---- Capital Drone Bay Blueprint
+---- Capital Jump Bridge Array Blueprint
 ---- Capital Jump Drive Blueprint
 ---- Capital Launcher Hardpoint Blueprint
 ---- Capital Power Generator Blueprint
+---- Capital Propulsion Engine Blueprint
 ---- Capital Sensor Cluster Blueprint
+---- Capital Shield Emitter Blueprint
 ---- Capital Ship Maintenance Bay Blueprint
+---- Capital Siege Array Blueprint
 ---- Capital Turret Hardpoint Blueprint
 ---- Enhanced Neurolink Protection Cell Blueprint
 ---- Neurolink Protection Cell Blueprint
@@ -1439,6 +1548,8 @@
 ---- Fulleroferrocene Power Conduits Blueprint
 ---- Metallofullerene Plating Blueprint
 ---- Nanowire Composites Blueprint
+---- Neurovisual Output Analyzer Blueprint
+---- Optimized Nano-Engines Blueprint
 ---- Reconfigured Subspace Calibrator Blueprint
 ---- Reinforced Metallofullerene Alloys Blueprint
 ---- Self-Assembling Nanolattice Blueprint
@@ -1458,48 +1569,35 @@
 ---- Structure Hangar Array Blueprint
 ---- Structure Laboratory Blueprint
 ---- Structure Market Network Blueprint
+---- Structure Medical Center Blueprint
 ---- Structure Mission Network Blueprint
 ---- Structure Office Center Blueprint
 ---- Structure Repair Facility Blueprint
 ---- Structure Reprocessing Plant Blueprint
 ---- Structure Storage Bay Blueprint
 ++++ Сборочные системы
----- R.A.M.- Ammunition Tech Blueprint
----- R.A.M.- Armor/Hull Tech Blueprint
----- R.A.M.- Electronics Blueprint
----- R.A.M.- Energy Tech Blueprint
----- R.A.M.- Robotics Blueprint
----- R.A.M.- Shield Tech Blueprint
----- R.A.M.- Starship Tech Blueprint
----- R.A.M.- Weapon Tech Blueprint
 ++++ Топливные блоки
----- Helium Fuel Block Blueprint
----- Hydrogen Fuel Block Blueprint
----- Nitrogen Fuel Block Blueprint
 ---- Oxygen Fuel Block Blueprint
 ++++ Усовершенствованные компоненты
------ EM Pulse Generator Blueprint
------ Laser Focusing Crystals Blueprint
++++++ Амаррские
+----- Antimatter Reactor Unit Blueprint
+----- Fusion Thruster Blueprint
 ----- Linear Shield Emitter Blueprint
 ----- Nanoelectrical Microprocessor Blueprint
+----- Radar Sensor Cluster Blueprint
 ----- Tesseract Capacitor Unit Blueprint
 ----- Tungsten Carbide Armor Plate Blueprint
------ U-C Trigger Neurolink Conduit Blueprint
++++++ Галлентские
 ----- Crystalline Carbonide Armor Plate Blueprint
 ----- Fusion Reactor Unit Blueprint
 ----- Ion Thruster Blueprint
 ----- Magnetometric Sensor Cluster Blueprint
 ----- Oscillator Capacitor Unit Blueprint
------ Particle Accelerator Unit Blueprint
------ Photon Microprocessor Blueprint
------ Plasma Pulse Generator Blueprint
 ----- Pulse Shield Emitter Blueprint
------ S-R Trigger Neurolink Conduit Blueprint
------ Graviton Pulse Generator Blueprint
++++++ Калдарские
+----- Gravimetric Sensor Cluster Blueprint
 ----- Graviton Reactor Unit Blueprint
 ----- Magpulse Thruster Blueprint
------ Quantum Microprocessor Blueprint
------ R-O Trigger Neurolink Conduit Blueprint
 ----- Scalar Capacitor Unit Blueprint
 ----- Superconductor Rails Blueprint
 ----- Sustained Shield Emitter Blueprint
@@ -1511,7 +1609,6 @@
 ----- G-O Trigger Neurolink Conduit Blueprint
 ----- Ladar Sensor Cluster Blueprint
 ----- Nanomechanical Microprocessor Blueprint
------ Nuclear Pulse Generator Blueprint
 ----- Nuclear Reactor Unit Blueprint
 ----- Plasma Thruster Blueprint
 ++++ Усовершенствованные компоненты КБТ
@@ -1534,14 +1631,18 @@
 ----- Capital Oscillator Capacitor Unit Blueprint
 ----- Capital Particle Accelerator Unit Blueprint
 ----- Capital Photon Microprocessor Blueprint
+----- Capital Plasma Pulse Generator Blueprint
 ----- Capital Pulse Shield Emitter Blueprint
 ----- Magnetometric-FTL Interlink Communicator Blueprint
++++++ Калдарские
 ----- Capital Gravimetric Sensor Cluster Blueprint
 ----- Capital Graviton Pulse Generator Blueprint
 ----- Capital Graviton Reactor Unit Blueprint
+----- Capital Magpulse Thruster Blueprint
 ----- Capital Quantum Microprocessor Blueprint
 ----- Capital Scalar Capacitor Unit Blueprint
 ----- Capital Superconductor Rails Blueprint
+----- Capital Sustained Shield Emitter Blueprint
 ----- Capital Titanium Diborite Armor Plate Blueprint
 ----- Gravimetric-FTL Interlink Communicator Blueprint
 +++++ Минматарские
@@ -1552,6 +1653,8 @@
 ----- Capital Nanomechanical Microprocessor Blueprint
 ----- Capital Nuclear Pulse Generator Blueprint
 ----- Capital Nuclear Reactor Unit Blueprint
+----- Capital Plasma Thruster Blueprint
+----- Capital Thermonuclear Trigger Unit Blueprint
 ----- Ladar-FTL Interlink Communicator Blueprint
 +++ Материалы
 ++++ Базы данных
@@ -1571,6 +1674,7 @@
 +++ Формулы биохимических реакций
 --- Improved Blue Pill Booster Reaction Formula
 --- Improved Crash Booster Reaction Formula
+--- Improved Drop Booster Reaction Formula
 --- Improved Exile Booster Reaction Formula
 --- Improved Frentix Booster Reaction Formula
 --- Improved Mindflood Booster Reaction Formula
@@ -1614,7 +1718,6 @@
 --- Ferrofluid Reaction Formula
 --- Ferrogel Reaction Formula
 --- Fluxed Condensates Reaction Formula
---- Fulleride Reaction Formula
 --- Hexite Reaction Formula
 --- Hyperflurite Reaction Formula
 --- Hypersynaptic Fibers Reaction Formula
@@ -1625,7 +1728,6 @@
 --- Phenolic Composites Reaction Formula
 --- Photonic Metamaterials Reaction Formula
 --- Plasmonic Metamaterials Reaction Formula
---- Platinum Technite Reaction Formula
 --- Pressurized Oxidizers Reaction Formula
 --- Promethium Mercurite Reaction Formula
 --- Prometium Reaction Formula
