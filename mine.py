@@ -1,4 +1,5 @@
 from icecream import *
+from icecream import ic
 
 
 def get_AllBpList() -> list:
@@ -13,7 +14,6 @@ def get_MyBpList() -> set:
     MyBpList = set(l[0:l.index("*")] for l in MyBpList)
     l = []
     for s in MyBpList:
-        print(s)
         if s[s.index(" "):s.index(" ")+3] == " x ":
             l.append(s[s.index(" ")+3:])
         else:
@@ -22,7 +22,7 @@ def get_MyBpList() -> set:
 
 
 def gen_BayBpList(BpList: list, MyBpList: set) -> list:
-    ic(BpList, MyBpList)
+    # ic(BpList, MyBpList)
     for i in MyBpList:
         for j in BpList:
             if i == j[j.index(' ')+1:-1]:
@@ -36,9 +36,36 @@ def out_BayBpList(BpList: list):
             f.write(i)
     return None
 
-def rec_clearBpList(BpList: list[str],id) -> list[str]:
-    outBpList = BpList.copy()
-    
+def clearBpList_logic(BpList: list[str],id) -> list[str]:
+    empty = None
+    # ic(id,BpList[id],BpList[id+1],BpList[id-1])
+    for i in BpList[id+1:]:
+        bpLlen = len(BpList[id][:BpList[id].index(" ")])
+        ilen = len(i[:i.index(" ")])
+        if i.startswith("+"):
+            # ic(i, BpList[id])
+            if ilen == bpLlen: # ++ ++
+                empty = True
+                break
+            elif ilen-1 == bpLlen: #ПопПопка + ++
+                empty = False
+                break
+        elif i.startswith("-"):
+            if ilen == bpLlen: # ++ --
+                empty = False
+                break
+            elif ilen > bpLlen: # ++ ---
+                empty = True
+                break
+            elif ilen < bpLlen: # ++ -
+                empty = True
+                break
+
+        
+
+                
+    return empty
+
 
 
 def clearBpList(BpList: list[str]) -> list[str]:
@@ -46,40 +73,12 @@ def clearBpList(BpList: list[str]) -> list[str]:
     outBpList = BpList.copy()
 
     for id, j in enumerate(BpList[:-1]):
+        empty = False
         if j.startswith("+"):
-            empty = None
-            deep = len(j[:j.index(' ')])
-            start_deep = int(deep)
-            for k in BpList[id+1:]:
-                
-                if k.startswith("-"):
-                    if k[:k.index(' ')] == "-"*deep:
-                        # print(1,k[:k.index(' ')], "-"*deep)
-                        empty = False
-                        ic(id, j, k, deep, empty)
-                        break
-                    if len(k[:k.index(' ')]) < deep:
-                        # print(2,k[:k.index(' ')],deep)
-                        empty = True
-                        ic(id, j, k, deep, empty)
-                        break
-
-                elif k.startswith("+"):
-                    if len(k[:k.index(' ')]) > deep:
-                        deep += 1
-                        ic(id, j, k, deep, empty)
+            empty = clearBpList_logic(BpList, id)
+            # ic(id, j, empty)
                         
-                    elif len(k[:k.index(' ')]) == start_deep:
-                        # print(3, k[:k.index(' ')], start_deep)
-                        ic(id, j, k, deep, empty)
-                        break
-                    elif len(k[:k.index(' ')]) < deep:
-                        deep += -1
-                        ic(id, j, k, deep, empty)
-                        
-        if start_deep > deep:
-            print("deep")
-            empty = True
+        
         if empty:
             # print(i,j,outBpList[i])
             outBpList[id] = ""
