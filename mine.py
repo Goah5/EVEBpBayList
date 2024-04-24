@@ -26,7 +26,7 @@ def gen_BayBpList(BpList: list, MyBpList: set) -> list:
         for j in BpList:
             if i == j[j.index(' ')+1:-1]:
                 BpList.remove(j)
-                
+
     return BpList
 
 
@@ -38,12 +38,13 @@ def out_BayBpList(BpList: list):
     return None
 
 def clearBpList_logic(BpList: list[str],id) -> list[str]:
-    empty = None
-
+    empty = True
+    if BpList[id] == BpList[-1]:
+        return empty
     for i in BpList[id+1:]:
         bpLlen = len(BpList[id][:BpList[id].index(" ")])
         ilen = len(i[:i.index(" ")])
-
+        ic(BpList[id], i, bpLlen, ilen)
         if i.startswith("+"):
             if ilen == bpLlen: # ++ ++
                 empty = True
@@ -70,7 +71,7 @@ def clearBpList_logic(BpList: list[str],id) -> list[str]:
 def clearBpList(BpList: list[str]) -> list[str]:
     outBpList = BpList.copy()
 
-    for id, j in enumerate(BpList[:-1]):
+    for id, j in enumerate(BpList):
         empty = False
 
         if j.startswith("+"):
@@ -92,6 +93,6 @@ def mine():
     temp = clearBpList(temp)
     out_BayBpList(temp)
 
-ic.disable()
+# ic.disable()
 if __name__ == "__main__":
     mine()

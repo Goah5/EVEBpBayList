@@ -1,23 +1,208 @@
+'Augmented' Mining Drone Blueprint*	0	0	34	Склад	Буровой дрон*
+'Distributor' Guidance Disruptor Blueprint*	0	0	3	Bp Copy Faction	Помехопостановщики наводке орудий*
+'Harness' Medium Capacitor Booster I Blueprint*	0	0	3	Bp Copy Faction	Система подкачки конденсатора*
+'Heist' Radar ECM Blueprint*	0	0	3	Bp Copy Faction	Генератор помех системам сопровождения целей*
+'Integrated' Acolyte Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Acolyte Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Acolyte Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Berserker Blueprint*	0	0	60	Bp Copy Faction	Боевой дрон*
+'Integrated' Hammerhead Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Hammerhead Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Hammerhead Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Hammerhead Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Hammerhead Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Hornet Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Integrated' Hornet Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	50	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	50	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Valkyrie Blueprint*	0	0	60	Bp Copy Faction	Боевой дрон*
+'Integrated' Vespa Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Integrated' Vespa Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Integrated' Vespa Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Integrated' Vespa Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Integrated' Vespa Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	50	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	50	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	120	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Warrior Blueprint*	0	0	60	Bp* Drones	Боевой дрон*
+'Integrated' Wasp Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Integrated' Wasp Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Integrated' Wasp Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+'Natura' Warp Core Stabilizer I Blueprint*	0	0	3	Bp Copy Faction	Стабилизатор квантового ядра*
+'Pickpocket' EM Energized Membrane Blueprint*	0	0	3	Bp Copy Faction	Подзаряжающаяся мембрана брони*
+'Prospector' EM Shield Amplifier Blueprint*	0	0	3	Bp Copy Faction	Энергонезависимые модуляторы сопротивляемости полей*
+'Underhand' Neutron Blaster Cannon I Blueprint*	0	0	3	Bp Copy Faction	Гибридное орудие*
 10MN Afterburner I Blueprint*	10	20	-1	Bp O (10, 20)	Движительные модули*
 10MN Afterburner I Blueprint*	1	2	-1	Bp O not(10, 20)	Движительные модули*
+125mm Gatling AutoCannon I Blueprint*	0	0	1	Bp C upgradable	Баллистическое орудие*
+125mm Gatling AutoCannon I Blueprint*	9	18	4	Bp C upgradable	Баллистическое орудие*
 1MN Afterburner I Blueprint*	10	20	-1	Bp O (10, 20)	Движительные модули*
 1MN Afterburner I Blueprint*	1	2	-1	Bp O not(10, 20)	Движительные модули*
 1MN Afterburner I Blueprint*	10	20	-1	Bp O (10, 20)	Движительные модули*
+1MN Afterburner I Blueprint*	0	0	2	Bp C upgradable	Движительные модули*
+1MN Afterburner I Blueprint*	0	0	2	Bp C upgradable	Движительные модули*
+1MN Afterburner II Blueprint*	3	2	13	Bp Copy T2	Движительные модули*
+200mm AutoCannon I Blueprint*	0	0	1	Bp C upgradable	Баллистическое орудие*
+280mm Howitzer Artillery I Blueprint*	9	18	4	Bp C upgradable	Баллистическое орудие*
 50MN Microwarpdrive I Blueprint*	10	20	-1	Bp O (10, 20)	Движительные модули*
 50MN Microwarpdrive I Blueprint*	1	2	-1	Bp O not(10, 20)	Движительные модули*
 5MN Microwarpdrive I Blueprint*	10	20	-1	Bp O (10, 20)	Движительные модули*
 Acolyte I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Acolyte I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Acolyte TD-300 Blueprint*	10	20	-1	Bp* Drones	Дрон электронного противодействия*
+Acolyte TD-300 Blueprint*	10	20	600	Bp* Drones	Дрон электронного противодействия*
+Algos Blueprint*	0	0	16	Bp C upgradable	Эсминец*
 Algos Blueprint*	10	20	-1	Bp O (10, 20)	Эсминец*
+Algos Blueprint*	10	20	1	Bp C upgradable	Эсминец*
 Amarr Shuttle Blueprint*	10	20	-1	Bp O (10, 20)	Личный катер*
 Antimatter Charge M Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
 Antimatter Charge S Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	64	Bp C upgradable	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
 Assault Damage Control I Blueprint*	10	20	-1	Bp O (10, 20)	Модуль боевой живучести*
+Astero Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Astero Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Astero Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Astero Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Astero Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Astero Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Atron Blueprint*	0	0	1	Bp C upgradable	Фрегат*
 Atron Blueprint*	10	20	-1	Bp O (10, 20)	Фрегат*
+Atron Blueprint*	8	16	1	Bp C upgradable	Фрегат*
+Atron Blueprint*	8	16	1	Bp C upgradable	Фрегат*
 Auto Targeting System I Blueprint*	10	20	-1	Bp O (10, 20)	Автоматическая система целеуказания*
+Auto-Integrity Preservation Seal Blueprint*	10	14	200	Bp C not(upgradable)	Производственные компоненты*
+Badger Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Badger Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Badger Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Badger Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Badger Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
 Ballistic Control System I Blueprint*	8	16	-1	Bp O not(10, 20)	Баллистические вычислители*
+Ballistic Control System I Blueprint*	10	20	197	Bp C upgradable	Баллистические вычислители*
 Bantam Blueprint*	10	20	-1	Bp O (10, 20)	Фрегат*
+Baryon Exotic Plasma M Blueprint*	0	0	5	Bp C not(upgradable)	Заряд экзотической плазмы*
+Berserker I Blueprint*	10	20	195	Bp* Drones	Боевой дрон*
+Boobook Blueprint*	0	0	1	Bp C not(upgradable)	Личный катер*
+Bouncer I Blueprint*	10	20	195	Bp* Drones	Боевой дрон*
+Breacher Blueprint*	0	0	1	Bp C upgradable	Фрегат*
+Breacher Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Breacher Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Breacher Blueprint*	10	20	2	Bp C upgradable	Фрегат*
 Burst Jammer I Blueprint*	8	16	-1	Bp O not(10, 20)	Генератор импульсных помех*
 Caldari Shuttle Blueprint*	10	20	-1	Bp O (10, 20)	Личный катер*
 Cap Booster 100 Blueprint*	1	2	-1	Bp O not(10, 20)	Заряд системы пополнения накопителя*
@@ -31,6 +216,9 @@ Cap Booster 200 Blueprint*	8	18	-1	Bp O not(10, 20)	Заряд системы п
 Cap Booster 200 Blueprint*	8	18	-1	Bp O not(10, 20)	Заряд системы пополнения накопителя*
 Cap Booster 25 Blueprint*	10	20	-1	Bp O (10, 20)	Заряд системы пополнения накопителя*
 Cap Booster 3200 Blueprint*	10	20	-1	Bp O (10, 20)	Заряд системы пополнения накопителя*
+Cap Booster 3200 Blueprint*	10	20	153	Bp C not(upgradable)	Заряд системы пополнения накопителя*
+Cap Booster 3200 Blueprint*	10	20	200	Bp C not(upgradable)	Заряд системы пополнения накопителя*
+Cap Booster 3200 Blueprint*	10	20	200	Bp C not(upgradable)	Заряд системы пополнения накопителя*
 Cap Booster 400 Blueprint*	10	20	-1	Bp O (10, 20)	Заряд системы пополнения накопителя*
 Cap Booster 400 Blueprint*	9	16	-1	Bp O not(10, 20)	Заряд системы пополнения накопителя*
 Cap Booster 50 Blueprint*	10	20	-1	Bp O (10, 20)	Заряд системы пополнения накопителя*
@@ -41,30 +229,104 @@ Cap Booster 800 Blueprint*	10	20	-1	Bp O (10, 20)	Заряд системы по
 Cap Recharger I Blueprint*	8	12	-1	Bp O not(10, 20)	Система подзарядки конденсатора*
 Capacitor Flux Coil I Blueprint*	10	20	-1	Bp O (10, 20)	Ускоритель подзарядки конденсатора*
 Capacitor Power Relay I Blueprint*	10	20	-1	Bp O (10, 20)	Модуль передачи мощности на конденсатор*
+Capital Cargo Bay Blueprint*	10	20	40	Bp C not(upgradable)	Компоненты кораблей большого тоннажа*
+Capital Cargohold Optimization II Blueprint*	0	0	2	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Capital Construction Parts Blueprint*	10	20	40	Bp C not(upgradable)	Компоненты кораблей большого тоннажа*
+Capital Egress Port Maximizer II Blueprint*	0	0	2	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Capital Liquid Cooled Electronics II Blueprint*	0	0	2	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Capital Projectile Metastasis Adjuster II Blueprint*	0	0	2	Bp* Rigs	Тюнинг-модуль — баллистическое оружие*
+Capital Signal Disruption Amplifier II Blueprint*	0	0	2	Bp* Rigs	Тюнинг-модуль — системы электронного противодействия*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	8	16	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	8	16	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	1	Bp C upgradable	Крейсер*
+Caracal Blueprint*	10	20	1	Bp C upgradable	Крейсер*
 Cargo Scanner I Blueprint*	10	20	-1	Bp O (10, 20)	Комплекс для досмотра грузов*
 Catalyst Blueprint*	10	20	-1	Bp O (10, 20)	Эсминец*
+Catalyst Blueprint*	10	20	2	Bp C upgradable	Эсминец*
+Catalyst Blueprint*	10	20	2	Bp C upgradable	Эсминец*
 20 x Civilian Data Analyzer Blueprint*	0	0	-1	Bp O not(10, 20)	Программно-аналитический комплекс*
 Civilian Mining Drone Blueprint*	0	0	-1	Bp* Drones	Буровой дрон*
 Civilian Mining Drone Blueprint*	10	20	-1	Bp* Drones	Буровой дрон*
 Co-Processor I Blueprint*	10	20	-1	Bp O (10, 20)	Модуль апгрейда процессора*
 Coercer Blueprint*	10	20	-1	Bp O (10, 20)	Эсминец*
+Coercer Blueprint*	10	20	2	Bp C upgradable	Эсминец*
 Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	20	Bp C upgradable	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	17	Bp C upgradable	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
 Combat Scanner Probe I Blueprint*	10	20	-1	Bp O (10, 20)	Разведывательный зонд*
+Combat Scanner Probe I Blueprint*	10	20	200	Bp C not(upgradable)	Разведывательный зонд*
 Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	47	Bp C upgradable	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	47	Bp C upgradable	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	47	Bp C upgradable	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	47	Bp C upgradable	Кристалл настройки экстрактора*
+Condor Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Condor Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Conflagration L Blueprint*	5	10	9	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Conflagration L Blueprint*	5	10	9	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Conflagration L Blueprint*	5	10	9	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Conflagration L Blueprint*	4	14	11	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Corax Blueprint*	10	20	2	Bp C upgradable	Эсминец*
+Corax Blueprint*	10	20	2	Bp C upgradable	Эсминец*
+Corax Blueprint*	10	20	2	Bp C upgradable	Эсминец*
 Core Probe Launcher I Blueprint*	8	18	-1	Bp O not(10, 20)	Пусковая установка разведзондов*
 Core Scanner Probe I Blueprint*	10	20	-1	Bp O (10, 20)	Разведывательный зонд*
 Core Scanner Probe I Blueprint*	10	20	-1	Bp O (10, 20)	Разведывательный зонд*
+Core Scanner Probe I Blueprint*	10	20	600	Bp C not(upgradable)	Разведывательный зонд*
+Covetor Blueprint*	10	20	10	Bp C upgradable	Буровой корабль*
+Covetor Blueprint*	10	20	10	Bp C upgradable	Буровой корабль*
 Crucifier Blueprint*	10	18	-1	Bp O not(10, 20)	Фрегат*
 Cruise Missile Launcher I Blueprint*	9	16	-1	Bp* Rockets	Пусковая установка ракет дальнего боя*
+Curator I Blueprint*	10	20	195	Bp* Drones	Боевой дрон*
 Damage Control I Blueprint*	10	20	-1	Bp O (10, 20)	Модуль боевой живучести*
 Damage Control I Blueprint*	10	20	-1	Bp O (10, 20)	Модуль боевой живучести*
+Damage Control I Blueprint*	10	20	75	Bp C upgradable	Модуль боевой живучести*
+Damage Control I Blueprint*	10	20	75	Bp C upgradable	Модуль боевой живучести*
+Damage Control I Blueprint*	10	20	75	Bp C upgradable	Модуль боевой живучести*
+Damavik Blueprint*	0	0	1	Bp C upgradable	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
+Daredevil Blueprint*	0	0	1	Bp Copy Faction	Фрегат*
 Data Analyzer I Blueprint*	10	20	-1	Bp O (10, 20)	Программно-аналитический комплекс*
 Deep Core Mining Laser I Blueprint*	0	0	-1	Bp O not(10, 20)	Буровой лазер*
 Defender Missile I Blueprint*	10	20	-1	Bp O (10, 20)	Противоракеты*
@@ -73,38 +335,79 @@ Drone Link Augmentor I Blueprint*	7	12	-1	Bp O not(10, 20)	Ретранслят�
 Drone Navigation Computer I Blueprint*	6	14	-1	Bp O not(10, 20)	Навигационный компьютер дронов*
 ECCM Script Blueprint*	10	20	-1	Bp O (10, 20)	Прошивка для активного усилителя*
 EM Coating I Blueprint*	8	16	-1	Bp O not(10, 20)	Защитное покрытие брони*
+EM Pulse Generator Blueprint*	10	20	1501	Bp C not(upgradable)	Производственные компоненты*
 Enormous Freight Container Blueprint*	10	20	-1	Bp O (10, 20)	Транспортный контейнер*
+Enormous Freight Container Blueprint*	10	20	100	Bp* Container	Транспортный контейнер*
+Enormous Freight Container Blueprint*	10	20	100	Bp* Container	Транспортный контейнер*
+Enormous Freight Container Blueprint*	10	20	97	Bp* Container	Транспортный контейнер*
+Enormous Freight Container Blueprint*	10	20	98	Bp* Container	Транспортный контейнер*
+Enormous Freight Container Blueprint*	10	20	99	Bp* Container	Транспортный контейнер*
+Entropic Radiation Sink I Blueprint*	0	0	5	Bp C upgradable	Поглотитель энтропического излучения*
+Epithal Blueprint*	10	14	4	Bp C upgradable	Перевозчик*
 Epithal Blueprint*	8	16	-1	Bp O not(10, 20)	Перевозчик*
+Executioner Blueprint*	10	20	2	Bp C upgradable	Фрегат*
 Executioner Blueprint*	10	16	-1	Bp O not(10, 20)	Фрегат*
 Expanded Cargohold I Blueprint*	10	20	-1	Bp O (10, 20)	Расширение грузового отсека*
+Expanded Cargohold I Blueprint*	10	20	145	Bp C upgradable	Расширение грузового отсека*
+Expanded Cargohold I Blueprint*	10	20	145	Bp C upgradable	Расширение грузового отсека*
 Expanded Probe Launcher I Blueprint*	8	14	-1	Bp O not(10, 20)	Пусковая установка разведзондов*
+Expired Enigmatic Warp Matrix Filament Blueprint*	0	0	1	Bp C not(upgradable)	Варп-матричные нити*
 Explosive Coating I Blueprint*	8	16	-1	Bp O not(10, 20)	Защитное покрытие брони*
+Frostline 'Clavicula' Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
 Gallente Shuttle Blueprint*	10	20	-1	Bp O (10, 20)	Личный катер*
 Gamma S Blueprint*	0	0	-1	Bp O not(10, 20)	Частотный кристалл*
+Garde I Blueprint*	10	20	195	Bp* Drones	Боевой дрон*
+Gas Cloud Harvester I Blueprint*	10	20	20	Bp C upgradable	Сборщики газовых облаков*
+Gas Cloud Scoop I Blueprint*	10	20	195	Bp C upgradable	Газочерпатели*
+Gas Cloud Scoop II Blueprint*	1	8	14	Bp Copy T2	Газочерпатели*
+Gatling Pulse Laser I Blueprint*	0	0	1	Bp C upgradable	Лазерное орудие*
 Giant Freight Container Blueprint*	10	20	-1	Bp O (10, 20)	Транспортный контейнер*
+Giant Freight Container Blueprint*	10	20	99	Bp* Container	Транспортный контейнер*
 Giant Secure Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный грузовой контейнер*
+Gila Blueprint*	0	0	1	Bp Copy Faction	Крейсер*
+Graviton Pulse Generator Blueprint*	10	20	2500	Bp C not(upgradable)	Производственные компоненты*
+Griffin Blueprint*	10	20	3	Bp C upgradable	Фрегат*
+Griffin Blueprint*	10	20	3	Bp C upgradable	Фрегат*
 Guidance Disruptor I Blueprint*	10	20	-1	Bp O (10, 20)	Помехопостановщики наводке орудий*
 Gyrostabilizer I Blueprint*	8	0	-1	Bp O not(10, 20)	Гиростабилизатор*
 Hammerhead I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Hammerhead I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Heat Sink I Blueprint*	4	14	-1	Bp O not(10, 20)	Радиатор*
 Heavy Assault Missile Launcher I Blueprint*	8	14	-1	Bp* Rockets	Пусковая установка облегчённых ракет большой мощности*
+Heavy Assault Missile Launcher I Blueprint*	10	20	88	Bp* Rockets	Пусковая установка облегчённых ракет большой мощности*
+Heavy Assault Missile Launcher I Blueprint*	6	0	100	Bp* Rockets	Пусковая установка облегчённых ракет большой мощности*
 Heavy Missile Launcher I Blueprint*	10	20	-1	Bp* Rockets	Пусковая установка ракет большой мощности*
+Heavy Mutadaptive Remote Armor Repairer I Blueprint*	0	0	5	Bp C upgradable	Мутадаптивный модуль дистанционного ремонта брони*
+Heavy Scoped Entropic Disintegrator Blueprint*	0	0	1	Bp C not(upgradable)	Оружие Предтечей*
+Helium Fuel Block Blueprint*	10	20	200	Bp C not(upgradable)	Топливный блок*
 Heron Blueprint*	10	14	-1	Bp O not(10, 20)	Фрегат*
+High-grade Ascendancy Gamma Blueprint*	0	0	1	Bp Copy Faction	Кибернетический имплантат*
 Hobgoblin I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Hobgoblin I Blueprint*	2	0	-1	Bp* Drones	Боевой дрон*
 Hobgoblin SD-300 Blueprint*	10	20	-1	Bp* Drones	Дрон электронного противодействия*
 Hornet EC-300 Blueprint*	10	20	-1	Bp* Drones	Дрон электронного противодействия*
 Hornet I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Hornet I Blueprint*	6	10	-1	Bp* Drones	Боевой дрон*
+Huge Freight Container Blueprint*	10	20	100	Bp* Container	Транспортный контейнер*
 Huge Freight Container Blueprint*	10	20	-1	Bp O (10, 20)	Транспортный контейнер*
 Huge Secure Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный грузовой контейнер*
+Huge Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный грузовой контейнер*
+Huge Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный грузовой контейнер*
+Hydrogen Fuel Block Blueprint*	0	0	200	Bp C not(upgradable)	Топливный блок*
+Ice Harvester I Blueprint*	10	20	75	Bp C upgradable	Буровой лазер валовой выемки*
+Ice Harvester II Blueprint*	3	2	5	Bp Copy T2	Буровой лазер валовой выемки*
 Ice Harvester Upgrade I Blueprint*	10	2	-1	Bp O not(10, 20)	Пакет модернизации экстракторов*
 Ice Mining Laser I Blueprint*	10	2	-1	Bp O not(10, 20)	Буровой лазер*
 Imicus Blueprint*	5	12	-1	Bp O not(10, 20)	Фрегат*
+Incursus Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Incursus Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Incursus Blueprint*	8	16	1	Bp C upgradable	Фрегат*
+Incursus Blueprint*	10	20	2	Bp C upgradable	Фрегат*
 Incursus Blueprint*	5	12	-1	Bp O not(10, 20)	Фрегат*
 Inertial Stabilizers I Blueprint*	10	20	-1	Bp O (10, 20)	Инерционный стабилизатор*
 Inertial Stabilizers I Blueprint*	10	20	-1	Bp O (10, 20)	Инерционный стабилизатор*
+Inertial Stabilizers I Blueprint*	10	20	122	Bp C upgradable	Инерционный стабилизатор*
+Inertial Stabilizers I Blueprint*	10	20	122	Bp C upgradable	Инерционный стабилизатор*
 Inferno Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	Bp* Rockets	Дальнобойная ракета с авто-наведением*
 Inferno Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	Bp* Rockets	Тяжёлая ракета с авто-наведением*
 Inferno Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	Bp* Rockets	Тяжёлая ракета с авто-наведением*
@@ -112,90 +415,275 @@ Inferno Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	Bp* Rockets	Тяжё�
 Inferno Auto-Targeting Light Missile I Blueprint*	10	20	-1	Bp* Rockets	Лёгкая ракета с авто-наведением*
 Inferno Auto-Targeting Light Missile I Blueprint*	1	6	-1	Bp* Rockets	Лёгкая ракета с авто-наведением*
 Inferno Auto-Targeting Light Missile I Blueprint*	1	0	-1	Bp* Rockets	Лёгкая ракета с авто-наведением*
+Inferno Fury Light Missile Blueprint*	3	2	8	Bp* Rockets	Спецракеты малой мощности*
+Inferno Fury Light Missile Blueprint*	3	2	8	Bp* Rockets	Спецракеты малой мощности*
+Inferno Fury Light Missile Blueprint*	5	10	10	Bp* Rockets	Спецракеты малой мощности*
+Inferno Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
+Inferno Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
+Inferno Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
+Inferno Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
 Inferno Heavy Assault Missile Blueprint*	9	18	-1	Bp* Rockets	Облегчённая ракета большой мощности*
 2 x Inferno Heavy Assault Missile Blueprint*	0	0	-1	Bp* Rockets	Облегчённая ракета большой мощности*
 Inferno Heavy Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета большой мощности*
 Inferno Heavy Missile Blueprint*	1	0	-1	Bp* Rockets	Ракета большой мощности*
 Inferno Light Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета малой мощности*
 Inferno Light Missile Blueprint*	1	0	-1	Bp* Rockets	Ракета малой мощности*
+Inferno Rage Torpedo Blueprint*	3	12	12	Bp* Rockets	Спецторпеды*
 Inferno Rocket Blueprint*	10	20	-1	Bp* Rockets	Ракета ближнего боя*
+Inferno Torpedo Blueprint*	0	0	199	Bp* Rockets	Торпеда*
+Inferno Torpedo Blueprint*	0	0	200	Bp* Rockets	Торпеда*
 Inferno Torpedo Blueprint*	10	20	-1	Bp* Rockets	Торпеда*
 Infiltrator I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Infiltrator I Blueprint*	5	10	-1	Bp* Drones	Боевой дрон*
+Infiltrator I Blueprint*	0	0	299	Bp* Drones	Боевой дрон*
 Infrared S Blueprint*	0	0	-1	Bp O not(10, 20)	Частотный кристалл*
 Inquisitor Blueprint*	7	14	-1	Bp O not(10, 20)	Фрегат*
 Interdiction Nullifier I Blueprint*	10	20	-1	Bp O (10, 20)	Нейтрализатор варп-заграждений*
 Iridium Charge M Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
 Iridium Charge S Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
 Iridium Charge S Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	5	Bp C upgradable	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Iridium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
 Iron Charge M Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
 Iron Charge S Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
+Iteron Mark V Blueprint*	10	20	9	Bp C not(upgradable)	Перевозчик*
+Iteron Mark V Blueprint*	10	20	10	Bp C not(upgradable)	Перевозчик*
+Iteron Mark V Blueprint*	10	20	5	Bp C not(upgradable)	Перевозчик*
+Kestrel Blueprint*	8	16	1	Bp C upgradable	Фрегат*
 Kinetic Coating I Blueprint*	7	14	-1	Bp O not(10, 20)	Защитное покрытие брони*
 Kryos Blueprint*	0	0	-1	Bp O not(10, 20)	Перевозчик*
+Large Ancillary Armor Repairer Blueprint*	0	0	3	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Large Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Large Ancillary Armor Repairer Blueprint*	0	0	25	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Large Ancillary Armor Repairer Blueprint*	0	0	50	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Large Ancillary Remote Armor Repairer Blueprint*	0	0	4	Bp C not(upgradable)	Установки дистанционного вспомогательного ремонта брони*
+Large Ancillary Remote Armor Repairer Blueprint*	0	0	20	Bp C not(upgradable)	Установки дистанционного вспомогательного ремонта брони*
+Large Ancillary Remote Shield Booster Blueprint*	0	0	4	Bp C not(upgradable)	Установки дистанционной вспомогательной накачки силового поля*
+Large Ancillary Remote Shield Booster Blueprint*	0	0	20	Bp C not(upgradable)	Установки дистанционной вспомогательной накачки силового поля*
+Large Ancillary Remote Shield Booster Blueprint*	0	0	4	Bp C not(upgradable)	Установки дистанционной вспомогательной накачки силового поля*
+Large Ancillary Remote Shield Booster Blueprint*	0	0	4	Bp C not(upgradable)	Установки дистанционной вспомогательной накачки силового поля*
+Large Ancillary Shield Booster Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательной накачки силового поля*
 Large Armor Repairer I Blueprint*	0	0	-1	Bp O not(10, 20)	Установка ремонта брони*
 Large Audit Log Secure Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Large Audit Log Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный контейнер с контролем доступа*
+Large Audit Log Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный контейнер с контролем доступа*
+Large Audit Log Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный контейнер с контролем доступа*
+Large Cargohold Optimization I Blueprint*	7	20	40	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Large Freight Container Blueprint*	10	20	-1	Bp O (10, 20)	Транспортный контейнер*
+Large Freight Container Blueprint*	10	20	98	Bp* Container	Транспортный контейнер*
+Large Freight Container Blueprint*	10	20	98	Bp* Container	Транспортный контейнер*
+Large Freight Container Blueprint*	10	20	98	Bp* Container	Транспортный контейнер*
 Large Higgs Anchor I Blueprint*	10	20	-1	Bp* Rigs	Якорный тюнинг-модуль*
+Large Micro Jump Drive Blueprint*	0	0	10	Bp C not(upgradable)	Маневровый гипердвигатель*
+Large Micro Jump Drive Blueprint*	0	0	10	Bp C not(upgradable)	Маневровый гипердвигатель*
+Large Micro Jump Drive Blueprint*	0	0	10	Bp C not(upgradable)	Маневровый гипердвигатель*
+Large Micro Jump Drive Blueprint*	0	0	50	Bp C not(upgradable)	Маневровый гипердвигатель*
+Large Micro Jump Drive Blueprint*	0	0	50	Bp C not(upgradable)	Маневровый гипердвигатель*
+Large Salvage Tackle I Blueprint*	0	20	40	Bp* Rigs	Тюнинг-модуль для переработки ресурсов*
 Large Secure Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный грузовой контейнер*
+Large Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный грузовой контейнер*
+Large Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный грузовой контейнер*
+Large Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный грузовой контейнер*
 Large Shield Extender I Blueprint*	0	0	-1	Bp O not(10, 20)	Расширитель щита*
 Large Standard Container Blueprint*	10	20	-1	Bp O (10, 20)	Грузовой контейнер*
+Large Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
+Large Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
+Large Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
+Laser Focusing Crystals Blueprint*	10	20	440	Bp C not(upgradable)	Производственные компоненты*
+Laser Focusing Crystals Blueprint*	10	20	4000	Bp C not(upgradable)	Производственные компоненты*
+Laser Focusing Crystals Blueprint*	10	20	4000	Bp C not(upgradable)	Производственные компоненты*
 Layered Coating I Blueprint*	7	14	-1	Bp O not(10, 20)	Защитное покрытие брони*
 Lead Charge M Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
 Lead Charge S Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
+Lead Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Lead Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Lead Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Lead Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Lead Charge S Blueprint*	10	20	69	Bp C not(upgradable)	Гибридные заряды*
+Lead Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Lead Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Lead Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Lead Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Leshak Blueprint*	0	0	1	Bp C not(upgradable)	Линкор*
+Life Support Backup Unit Blueprint*	10	20	200	Bp C not(upgradable)	Производственные компоненты*
+Ligature Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Ligature Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Ligature Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Ligature Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Ligature Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Ligature Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
 Light Armor Maintenance Bot I Blueprint*	10	20	-1	Bp* Drones	Ремонтный дрон*
+Light Compact Entropic Disintegrator Blueprint*	0	0	1	Bp C not(upgradable)	Оружие Предтечей*
+Light Electron Blaster I Blueprint*	9	18	4	Bp C upgradable	Гибридное орудие*
+Light Entropic Disintegrator I Blueprint*	0	0	5	Bp C upgradable	Оружие Предтечей*
 Light Hull Maintenance Bot I Blueprint*	10	20	-1	Bp* Drones	Ремонтный дрон*
+Light Missile Launcher I Blueprint*	9	18	3	Bp* Rockets	Пусковая установка ракет малой мощности*
 Light Missile Launcher I Blueprint*	8	0	-1	Bp* Rockets	Пусковая установка ракет малой мощности*
+Light Missile Launcher I Blueprint*	10	20	199	Bp* Rockets	Пусковая установка ракет малой мощности*
+Light Scoped Entropic Disintegrator Blueprint*	0	0	1	Bp C not(upgradable)	Оружие Предтечей*
+Light Scoped Entropic Disintegrator Blueprint*	0	0	1	Bp C not(upgradable)	Оружие Предтечей*
 Light Shield Maintenance Bot I Blueprint*	10	20	-1	Bp* Drones	Ремонтный дрон*
 Magnate Blueprint*	10	14	-1	Bp O not(10, 20)	Фрегат*
+Magnetic Field Stabilizer I Blueprint*	10	20	200	Bp C upgradable	Стабилизатор магнитного поля*
 Magnetic Field Stabilizer I Blueprint*	8	0	-1	Bp O not(10, 20)	Стабилизатор магнитного поля*
+Maller Blueprint*	10	20	2	Bp C upgradable	Крейсер*
+Maller Blueprint*	10	20	2	Bp C upgradable	Крейсер*
+Maller Blueprint*	10	20	2	Bp C upgradable	Крейсер*
+Maller Blueprint*	10	20	2	Bp C upgradable	Крейсер*
+Medium Ancillary Armor Repairer Blueprint*	0	0	49	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Medium Ancillary Armor Repairer Blueprint*	0	0	50	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Medium Ancillary Current Router I Blueprint*	10	20	57	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Medium Ancillary Remote Armor Repairer Blueprint*	0	0	2	Bp C not(upgradable)	Установки дистанционного вспомогательного ремонта брони*
+Medium Ancillary Remote Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки дистанционного вспомогательного ремонта брони*
+Medium Ancillary Remote Shield Booster Blueprint*	0	0	20	Bp C not(upgradable)	Установки дистанционной вспомогательной накачки силового поля*
+Medium Ancillary Shield Booster Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательной накачки силового поля*
 Medium Armor Repairer I Blueprint*	10	20	-1	Bp O (10, 20)	Установка ремонта брони*
 Medium Audit Log Secure Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Medium Audit Log Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный контейнер с контролем доступа*
+Medium Audit Log Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный контейнер с контролем доступа*
+Medium Audit Log Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный контейнер с контролем доступа*
+Medium Audit Log Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный контейнер с контролем доступа*
 Medium Auxiliary Nano Pump I Blueprint*	10	16	-1	Bp* Rigs	Тюнинг-модуль — броня*
 Medium Auxiliary Nano Pump I Blueprint*	2	0	-1	Bp* Rigs	Тюнинг-модуль — броня*
+Medium Auxiliary Nano Pump I Blueprint*	0	0	57	Bp* Rigs	Тюнинг-модуль — броня*
+Medium Auxiliary Nano Pump II Blueprint*	3	2	4	Bp* Rigs	Тюнинг-модуль — броня*
+Medium Auxiliary Nano Pump II Blueprint*	3	2	4	Bp* Rigs	Тюнинг-модуль — броня*
+Medium Auxiliary Nano Pump II Blueprint*	3	2	4	Bp* Rigs	Тюнинг-модуль — броня*
 Medium Bay Loading Accelerator I Blueprint*	6	12	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Medium Bay Loading Accelerator I Blueprint*	6	12	60	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Medium Cap Battery I Blueprint*	10	20	-1	Bp O (10, 20)	Батарея конденсатора*
 Medium Cap Battery I Blueprint*	8	16	-1	Bp O not(10, 20)	Батарея конденсатора*
 Medium Capacitor Booster I Blueprint*	7	0	-1	Bp O not(10, 20)	Система подкачки конденсатора*
+Medium Capacitor Control Circuit I Blueprint*	9	0	50	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Medium Capacitor Control Circuit I Blueprint*	9	0	58	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Medium Capacitor Control Circuit II Blueprint*	3	12	3	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Medium Cargohold Optimization I Blueprint*	10	0	52	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Medium Cargohold Optimization I Blueprint*	10	0	59	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Medium Cargohold Optimization II Blueprint*	1	8	4	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Medium Core Defense Capacitor Safeguard I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — щит*
+Medium Core Defense Capacitor Safeguard I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — щит*
 Medium Core Defense Charge Economizer I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — щит*
+Medium Core Defense Charge Economizer I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — щит*
 Medium Core Defense Field Extender I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — щит*
+Medium Core Defense Field Extender I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — щит*
 Medium Core Defense Field Purger I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — щит*
+Medium Core Defense Field Purger I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — щит*
 Medium Core Defense Operational Solidifier I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — щит*
 Medium Drone Control Range Augmentor I Blueprint*	6	0	-1	Bp* Rigs	Тюнинг-модуль — дроны*
+Medium Drone Control Range Augmentor I Blueprint*	6	0	60	Bp* Rigs	Тюнинг-модуль — дроны*
 Medium Drone Durability Enhancer I Blueprint*	6	0	-1	Bp* Rigs	Тюнинг-модуль — дроны*
 Medium Drone Mining Augmentor I Blueprint*	6	10	-1	Bp* Rigs	Тюнинг-модуль — дроны*
+Medium Drone Mining Augmentor I Blueprint*	0	0	20	Bp* Rigs	Тюнинг-модуль — дроны*
+Medium Drone Mining Augmentor I Blueprint*	0	0	20	Bp* Rigs	Тюнинг-модуль — дроны*
+Medium Drone Mining Augmentor I Blueprint*	0	0	20	Bp* Rigs	Тюнинг-модуль — дроны*
 Medium Drone Repair Augmentor I Blueprint*	6	0	-1	Bp* Rigs	Тюнинг-модуль — дроны*
+Medium Drone Repair Augmentor I Blueprint*	6	0	60	Bp* Rigs	Тюнинг-модуль — дроны*
 Medium Drone Scope Chip I Blueprint*	6	0	-1	Bp* Rigs	Тюнинг-модуль — дроны*
+Medium Drone Scope Chip I Blueprint*	6	0	60	Bp* Rigs	Тюнинг-модуль — дроны*
 Medium Drone Speed Augmentor I Blueprint*	0	0	-1	Bp* Rigs	Тюнинг-модуль — дроны*
 Medium EM Shield Reinforcer I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — щит*
+Medium EM Shield Reinforcer I Blueprint*	7	0	59	Bp* Rigs	Тюнинг-модуль — щит*
+Medium EM Shield Reinforcer II Blueprint*	3	12	3	Bp* Rigs	Тюнинг-модуль — щит*
 Medium Emission Scope Sharpener I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль для сканирования*
+Medium Emission Scope Sharpener I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль для сканирования*
 Medium Explosive Shield Reinforcer I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — щит*
+Medium Explosive Shield Reinforcer I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — щит*
 Medium Freight Container Blueprint*	10	20	-1	Bp O (10, 20)	Транспортный контейнер*
 Medium Freight Container Blueprint*	10	20	-1	Bp* Container	Транспортный контейнер*
+Medium Freight Container Blueprint*	10	20	100	Bp* Container	Транспортный контейнер*
+Medium Freight Container Blueprint*	10	20	100	Bp* Container	Транспортный контейнер*
+Medium Freight Container Blueprint*	10	20	100	Bp* Container	Транспортный контейнер*
+Medium Freight Container Blueprint*	10	20	100	Bp* Container	Транспортный контейнер*
 Medium Gravity Capacitor Upgrade I Blueprint*	6	12	-1	Bp* Rigs	Тюнинг-модуль для сканирования*
+Medium Gravity Capacitor Upgrade I Blueprint*	6	12	60	Bp* Rigs	Тюнинг-модуль для сканирования*
 Medium Hydraulic Bay Thrusters I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Medium Hydraulic Bay Thrusters I Blueprint*	0	0	60	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Medium Hyperspatial Velocity Optimizer I Blueprint*	0	0	54	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Medium Hyperspatial Velocity Optimizer II Blueprint*	3	12	3	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Medium Ice Harvester Accelerator I Blueprint*	8	14	-1	Bp O not(10, 20)	Тюнинг-модуль для переработки ресурсов*
 Medium Kinetic Shield Reinforcer I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — щит*
+Medium Kinetic Shield Reinforcer I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — щит*
+Medium Low Friction Nozzle Joints I Blueprint*	0	0	58	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Medium Memetic Algorithm Bank I Blueprint*	6	12	-1	Bp* Rigs	Тюнинг-модуль для сканирования*
 Medium Mercoxit Mining Crystal Optimization I Blueprint*	8	14	-1	Bp O not(10, 20)	Тюнинг-модуль для переработки ресурсов*
+Medium Micro Jump Drive Blueprint*	0	0	10	Bp C not(upgradable)	Маневровый гипердвигатель*
+Medium Micro Jump Drive Blueprint*	0	0	10	Bp C not(upgradable)	Маневровый гипердвигатель*
+Medium Micro Jump Drive Blueprint*	0	0	25	Bp C not(upgradable)	Маневровый гипердвигатель*
+Medium Remote Repair Augmentor II Blueprint*	0	0	2	Bp* Rigs	Тюнинг-модуль — броня*
 Medium Rocket Fuel Cache Partition I Blueprint*	6	0	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Medium Rocket Fuel Cache Partition I Blueprint*	0	0	59	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Medium Rocket Fuel Cache Partition II Blueprint*	3	2	3	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Medium Salvage Tackle I Blueprint*	10	20	60	Bp* Rigs	Тюнинг-модуль для переработки ресурсов*
 Medium Salvage Tackle I Blueprint*	10	0	-1	Bp* Rigs	Тюнинг-модуль для переработки ресурсов*
+Medium Salvage Tackle I Blueprint*	10	20	60	Bp* Rigs	Тюнинг-модуль для переработки ресурсов*
+Medium Salvage Tackle I Blueprint*	10	20	60	Bp* Rigs	Тюнинг-модуль для переработки ресурсов*
+Medium Salvage Tackle II Blueprint*	3	2	4	Bp* Rigs	Тюнинг-модуль для переработки ресурсов*
 Medium Secure Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный грузовой контейнер*
+Medium Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный грузовой контейнер*
+Medium Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный грузовой контейнер*
+Medium Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный грузовой контейнер*
+Medium Secure Container Blueprint*	10	20	100	Bp* Container	Защищенный грузовой контейнер*
+Medium Semiconductor Memory Cell I Blueprint*	10	20	54	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Medium Semiconductor Memory Cell I Blueprint*	10	20	60	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Medium Shield Booster I Blueprint*	8	8	-1	Bp O not(10, 20)	Установка накачки силового поля*
 Medium Shield Extender I Blueprint*	10	20	-1	Bp O (10, 20)	Расширитель щита*
 Medium Signal Focusing Kit I Blueprint*	8	0	-1	Bp* Rigs	Тюнинг-модуль для сканирования*
 Medium Standard Container Blueprint*	10	20	-1	Bp O (10, 20)	Грузовой контейнер*
 Medium Standard Container Blueprint*	10	20	-1	Bp* Container	Грузовой контейнер*
+Medium Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
+Medium Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
+Medium Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
+Medium Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
 Medium Thermal Shield Reinforcer I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — щит*
+Medium Thermal Shield Reinforcer I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — щит*
 Medium Warhead Calefaction Catalyst I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Medium Warhead Calefaction Catalyst I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Medium Warhead Flare Catalyst I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Medium Warhead Flare Catalyst I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Medium Warhead Rigor Catalyst I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Medium Warhead Rigor Catalyst I Blueprint*	7	12	60	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Mercoxit Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора на меркоцит*
+Mercoxit Asteroid Mining Crystal Type A I Blueprint*	10	20	47	Bp C upgradable	Кристалл настройки экстрактора на меркоцит*
+Mercoxit Asteroid Mining Crystal Type A I Blueprint*	10	20	47	Bp C upgradable	Кристалл настройки экстрактора на меркоцит*
+Mercoxit Asteroid Mining Crystal Type A I Blueprint*	10	20	48	Bp C upgradable	Кристалл настройки экстрактора на меркоцит*
+Mercoxit Asteroid Mining Crystal Type A I Blueprint*	10	20	46	Bp C upgradable	Кристалл настройки экстрактора на меркоцит*
+Mercoxit Asteroid Mining Crystal Type A I Blueprint*	10	20	600	Bp C upgradable	Кристалл настройки экстрактора на меркоцит*
+Mercoxit Asteroid Mining Crystal Type A II Blueprint*	3	2	13	Bp Copy T2	Кристалл настройки экстрактора на меркоцит*
+Mercoxit Asteroid Mining Crystal Type A II Blueprint*	3	2	13	Bp Copy T2	Кристалл настройки экстрактора на меркоцит*
 Mercoxit Asteroid Mining Crystal Type B I Blueprint*	10	20	-1	Bp	Кристалл настройки экстрактора на меркоцит*
+Mercoxit Asteroid Mining Crystal Type B I Blueprint*	10	20	583	Bp	Кристалл настройки экстрактора на меркоцит*
+Merlin Blueprint*	0	0	1	Bp C upgradable	Фрегат*
+Meson Exotic Plasma L Blueprint*	0	0	5	Bp C upgradable	Заряд экзотической плазмы*
+Meson Exotic Plasma S Blueprint*	0	0	5	Bp C upgradable	Заряд экзотической плазмы*
+Meson Exotic Plasma XL Blueprint*	0	0	5	Bp C not(upgradable)	Заряд экзотической плазмы*
+Miasmos Blueprint*	10	20	10	Bp C not(upgradable)	Перевозчик*
+Miasmos Blueprint*	10	20	10	Bp C not(upgradable)	Перевозчик*
+Miasmos Blueprint*	10	20	10	Bp C not(upgradable)	Перевозчик*
+Miasmos Blueprint*	10	20	10	Bp C not(upgradable)	Перевозчик*
+Miasmos Blueprint*	10	20	8	Bp C not(upgradable)	Перевозчик*
 Miasmos Blueprint*	0	0	-1	Bp O not(10, 20)	Перевозчик*
 Micro Auxiliary Power Core I Blueprint*	8	16	-1	Bp O not(10, 20)	Вспомогательный реактор*
 Microwave S Blueprint*	0	0	-1	Bp O not(10, 20)	Частотный кристалл*
+Mid-grade Ascendancy Omega Blueprint*	0	0	1	Bp Copy Faction	Кибернетический имплантат*
+Mid-grade Ascendancy Omega Blueprint*	0	0	1	Bp Copy Faction	Кибернетический имплантат*
+Mid-grade Ascendancy Omega Blueprint*	0	0	1	Bp Copy Faction	Кибернетический имплантат*
+Mid-grade Hydra Alpha Blueprint*	0	0	1	Bp Copy Faction	Кибернетический имплантат*
+Mid-grade Hydra Beta Blueprint*	0	0	1	Bp Copy Faction	Кибернетический имплантат*
+Mid-grade Hydra Beta Blueprint*	0	0	1	Bp Copy Faction	Кибернетический имплантат*
+Mid-grade Hydra Delta Blueprint*	0	0	1	Bp Copy Faction	Кибернетический имплантат*
 Miner I Blueprint*	10	16	-1	Bp O not(10, 20)	Буровой лазер*
+Mining Drone I Blueprint*	10	20	493	Bp* Drones	Буровой дрон*
+Mining Drone I Blueprint*	10	20	599	Bp* Drones	Буровой дрон*
+Mining Drone I Blueprint*	10	20	600	Bp* Drones	Буровой дрон*
+Mining Drone I Blueprint*	10	20	600	Bp* Drones	Буровой дрон*
 Mining Laser Upgrade I Blueprint*	10	14	-1	Bp O not(10, 20)	Пакет модернизации экстракторов*
 Minmatar Shuttle Blueprint*	10	20	-1	Bp O (10, 20)	Личный катер*
 Missile Guidance Computer I Blueprint*	7	0	-1	Bp O not(10, 20)	Вычислитель наведения ракет*
@@ -209,22 +697,76 @@ Mjolnir Auto-Targeting Light Missile I Blueprint*	10	20	-1	Bp* Rockets	Лёгк�
 Mjolnir Auto-Targeting Light Missile I Blueprint*	1	6	-1	Bp* Rockets	Лёгкая ракета с авто-наведением*
 Mjolnir Cruise Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета дальнего боя*
 Mjolnir Cruise Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета дальнего боя*
+Mjolnir Cruise Missile Blueprint*	10	20	200	Bp* Rockets	Ракета дальнего боя*
+Mjolnir Cruise Missile Blueprint*	10	20	200	Bp* Rockets	Ракета дальнего боя*
+Mjolnir Fury Cruise Missile Blueprint*	3	2	13	Bp* Rockets	Спецракеты дальнего боя*
+Mjolnir Fury Cruise Missile Blueprint*	5	10	6	Bp* Rockets	Спецракеты дальнего боя*
+Mjolnir Fury Heavy Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты большой мощности*
+Mjolnir Fury Heavy Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты большой мощности*
+Mjolnir Fury Heavy Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты большой мощности*
+Mjolnir Fury Heavy Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты большой мощности*
+Mjolnir Fury Light Missile Blueprint*	3	2	5	Bp* Rockets	Спецракеты малой мощности*
+Mjolnir Fury Light Missile Blueprint*	1	8	14	Bp* Rockets	Спецракеты малой мощности*
+Mjolnir Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
+Mjolnir Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
+Mjolnir Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
+Mjolnir Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
+Mjolnir Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
+Mjolnir Fury Light Missile Blueprint*	2	4	10	Bp* Rockets	Спецракеты малой мощности*
 Mjolnir Heavy Assault Missile Blueprint*	10	20	-1	Bp* Rockets	Облегчённая ракета большой мощности*
 Mjolnir Heavy Assault Missile Blueprint*	10	20	-1	Bp* Rockets	Облегчённая ракета большой мощности*
 Mjolnir Heavy Assault Missile Blueprint*	10	20	-1	Bp O (10, 20)	Облегчённая ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	10	20	289	Bp* Rockets	Облегчённая ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	10	20	297	Bp* Rockets	Облегчённая ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	10	16	297	Bp* Rockets	Облегчённая ракета большой мощности*
 Mjolnir Heavy Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета большой мощности*
 Mjolnir Heavy Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета большой мощности*
 Mjolnir Heavy Missile Blueprint*	1	0	-1	Bp* Rockets	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	0	297	Bp* Rockets	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	20	97	Bp* Rockets	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	20	97	Bp* Rockets	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	20	100	Bp* Rockets	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	20	300	Bp* Rockets	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	0	300	Bp* Rockets	Ракета большой мощности*
+Mjolnir Javelin Heavy Assault Missile Blueprint*	3	12	12	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Mjolnir Javelin Heavy Assault Missile Blueprint*	3	12	10	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Mjolnir Javelin Heavy Assault Missile Blueprint*	3	12	12	Bp* Rockets	Малогабаритные спецракеты большой мощности*
 Mjolnir Light Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета малой мощности*
 Mjolnir Light Missile Blueprint*	1	0	-1	Bp* Rockets	Ракета малой мощности*
+Mjolnir Light Missile Blueprint*	10	20	4	Bp* Rockets	Ракета малой мощности*
+Mjolnir Light Missile Blueprint*	10	20	5	Bp* Rockets	Ракета малой мощности*
+Mjolnir Rage Heavy Assault Missile Blueprint*	5	10	10	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Mjolnir Rage Heavy Assault Missile Blueprint*	5	10	10	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Mjolnir Rage Heavy Assault Missile Blueprint*	5	10	10	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Mjolnir Rage Heavy Assault Missile Blueprint*	5	10	10	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Mjolnir Rage Torpedo Blueprint*	3	12	11	Bp* Rockets	Спецторпеды*
+Mjolnir Rage Torpedo Blueprint*	3	12	11	Bp* Rockets	Спецторпеды*
+Mjolnir Rage Torpedo Blueprint*	3	12	11	Bp* Rockets	Спецторпеды*
 Mjolnir Rocket Blueprint*	10	20	-1	Bp* Rockets	Ракета ближнего боя*
+Mjolnir Rocket Blueprint*	10	20	5	Bp* Rockets	Ракета ближнего боя*
+Mjolnir Torpedo Blueprint*	0	0	200	Bp C upgradable	Торпеда*
+Mjolnir Torpedo Blueprint*	0	0	198	Bp* Rockets	Торпеда*
+Mjolnir Torpedo Blueprint*	0	0	199	Bp* Rockets	Торпеда*
+Mjolnir Torpedo Blueprint*	0	0	198	Bp* Rockets	Торпеда*
 Mjolnir Torpedo Blueprint*	10	20	-1	Bp* Rockets	Торпеда*
+Mobile Sanguine Harvester Blueprint*	0	0	5	Bp C not(upgradable)	Автономный блок сбора трофеев*
+Mobile Sanguine Harvester Blueprint*	0	0	5	Bp C not(upgradable)	Автономный блок сбора трофеев*
+Modulated Deep Core Strip Miner II Blueprint*	3	2	9	Bp Copy T2	Мультичастотный экстрактор*
+Modulated Deep Core Strip Miner II Blueprint*	3	2	3	Bp Copy T2	Мультичастотный экстрактор*
+Modulated Strip Miner II Blueprint*	3	2	1	Bp Copy T2	Мультичастотный экстрактор*
 Multifrequency S Blueprint*	0	0	-1	Bp O not(10, 20)	Частотный кристалл*
 Multispectrum Coating I Blueprint*	9	18	-1	Bp O not(10, 20)	Защитное покрытие брони*
 Multispectrum Shield Hardener I Blueprint*	8	2	-1	Bp O not(10, 20)	Система настройки щита*
 Nanite Repair Paste Blueprint*	10	20	-1	Bp O (10, 20)	Nanite Repair Paste*
+Nanite Repair Paste Blueprint*	10	20	95	Bp C not(upgradable)	Nanite Repair Paste*
+Nanite Repair Paste Blueprint*	10	20	95	Bp C not(upgradable)	Nanite Repair Paste*
+Nanite Repair Paste Blueprint*	10	20	595	Bp C not(upgradable)	Nanite Repair Paste*
 Nanofiber Internal Structure I Blueprint*	10	20	-1	Bp O (10, 20)	Нановолоконная несущая конструкция*
 Nereus Blueprint*	10	20	-1	Bp O (10, 20)	Перевозчик*
+Nereus Blueprint*	10	20	5	Bp C upgradable	Перевозчик*
+Nitrogen Fuel Block Blueprint*	0	0	200	Bp C not(upgradable)	Топливный блок*
+Noctis Blueprint*	10	20	10	Bp C not(upgradable)	Перевозчик*
+Noctis Blueprint*	10	20	1	Bp C not(upgradable)	Перевозчик*
 Nova Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	Bp* Rockets	Дальнобойная ракета с авто-наведением*
 Nova Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	Bp* Rockets	Дальнобойная ракета с авто-наведением*
 Nova Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	Bp* Rockets	Дальнобойная ракета с авто-наведением*
@@ -232,40 +774,118 @@ Nova Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	Bp* Rockets	Тяжёла
 Nova Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	Bp* Rockets	Тяжёлая ракета с авто-наведением*
 Nova Auto-Targeting Light Missile I Blueprint*	10	20	-1	Bp* Rockets	Лёгкая ракета с авто-наведением*
 Nova Auto-Targeting Light Missile I Blueprint*	1	6	-1	Bp* Rockets	Лёгкая ракета с авто-наведением*
+Nova Fury Light Missile Blueprint*	2	4	9	Bp* Rockets	Спецракеты малой мощности*
+Nova Fury Light Missile Blueprint*	2	4	8	Bp* Rockets	Спецракеты малой мощности*
 Nova Heavy Assault Missile Blueprint*	10	20	-1	Bp* Rockets	Облегчённая ракета большой мощности*
 2 x Nova Heavy Assault Missile Blueprint*	0	0	-1	Bp* Rockets	Облегчённая ракета большой мощности*
 Nova Heavy Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета большой мощности*
 Nova Heavy Missile Blueprint*	3	0	-1	Bp* Rockets	Ракета большой мощности*
 Nova Light Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета малой мощности*
 Nova Light Missile Blueprint*	1	0	-1	Bp* Rockets	Ракета малой мощности*
+Nova Light Missile Blueprint*	10	20	5	Bp* Rockets	Ракета малой мощности*
 Nova Rocket Blueprint*	10	20	-1	Bp* Rockets	Ракета ближнего боя*
 Nova Torpedo Blueprint*	10	20	-1	Bp* Rockets	Торпеда*
+Nuclear Pulse Generator Blueprint*	10	20	4000	Bp C not(upgradable)	Производственные компоненты*
 Ogre I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
+Ogre I Blueprint*	10	20	200	Bp* Drones	Боевой дрон*
+Omen Blueprint*	10	20	2	Bp C upgradable	Крейсер*
 Omnidirectional Tracking Enhancer I Blueprint*	0	0	-1	Bp O not(10, 20)	Drone Tracking Enhancer*
 Omnidirectional Tracking Link I Blueprint*	1	2	-1	Bp O not(10, 20)	Усилитель системы слежения дронов*
 Optimal Range Script Blueprint*	10	20	-1	Bp O (10, 20)	Прошивка для систем наводки орудий*
 Overdrive Injector System I Blueprint*	9	16	-1	Bp O not(10, 20)	Система форсирования силовой установки*
 Overdrive Injector System I Blueprint*	8	8	-1	Bp O not(10, 20)	Система форсирования силовой установки*
 Overdrive Injector System I Blueprint*	10	20	-1	Bp O (10, 20)	Система форсирования силовой установки*
+Particle Accelerator Unit Blueprint*	10	20	4000	Bp C not(upgradable)	Производственные компоненты*
+Photon Microprocessor Blueprint*	10	20	8000	Bp C not(upgradable)	Производственные компоненты*
+Photon Microprocessor Blueprint*	10	20	1511	Bp C not(upgradable)	Производственные компоненты*
+Photon Microprocessor Blueprint*	10	20	8000	Bp C not(upgradable)	Производственные компоненты*
+Photon Microprocessor Blueprint*	10	20	8000	Bp C not(upgradable)	Производственные компоненты*
+Plasma Pulse Generator Blueprint*	10	20	4000	Bp C not(upgradable)	Производственные компоненты*
 Plutonium Charge M Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
 Plutonium Charge S Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
+Plutonium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Plutonium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Plutonium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Plutonium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Plutonium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Plutonium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Plutonium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Plutonium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Plutonium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Polarized 800mm Repeating Cannon Blueprint*	0	0	10	Bp Copy T2	Баллистическое орудие*
+Polarized 800mm Repeating Cannon Blueprint*	0	0	1	Bp Copy T2	Баллистическое орудие*
+Porpoise Blueprint*	10	20	9	Bp C not(upgradable)	Флагман буровой флотилии*
 Power Diagnostic System I Blueprint*	10	20	-1	Bp O (10, 20)	Диагностическая система энергосети*
+Praetor I Blueprint*	10	20	149	Bp* Drones	Боевой дрон*
+Procurer Blueprint*	10	20	10	Bp C upgradable	Буровой корабль*
+Procurer Blueprint*	10	20	10	Bp C upgradable	Буровой корабль*
+Proton S Blueprint*	10	20	5	Bp C not(upgradable)	Снаряды*
 Punisher Blueprint*	10	20	-1	Bp O (10, 20)	Фрегат*
+Punisher Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Quantum Microprocessor Blueprint*	10	20	7723	Bp C not(upgradable)	Производственные компоненты*
+Quantum Microprocessor Blueprint*	10	20	8000	Bp C upgradable	Производственные компоненты*
+R-O Trigger Neurolink Conduit Blueprint*	10	20	200	Bp C not(upgradable)	Производственные компоненты*
+R.A.M.- Ammunition Tech Blueprint*	10	20	80	Bp C not(upgradable)	Инструмент*
+R.A.M.- Ammunition Tech Blueprint*	10	20	199	Bp C not(upgradable)	Инструмент*
+R.A.M.- Armor/Hull Tech Blueprint*	10	20	99	Bp C not(upgradable)	Инструмент*
+R.A.M.- Armor/Hull Tech Blueprint*	10	20	200	Bp C not(upgradable)	Инструмент*
+R.A.M.- Electronics Blueprint*	10	0	100	Bp C not(upgradable)	Инструмент*
+R.A.M.- Electronics Blueprint*	10	0	199	Bp C not(upgradable)	Инструмент*
+R.A.M.- Energy Tech Blueprint*	10	20	99	Bp C not(upgradable)	Инструмент*
+R.A.M.- Energy Tech Blueprint*	10	20	199	Bp C not(upgradable)	Инструмент*
+R.A.M.- Robotics Blueprint*	10	20	98	Bp C not(upgradable)	Инструмент*
+R.A.M.- Robotics Blueprint*	10	20	96	Bp C not(upgradable)	Инструмент*
+R.A.M.- Shield Tech Blueprint*	10	20	199	Bp C not(upgradable)	Инструмент*
+R.A.M.- Shield Tech Blueprint*	10	20	200	Bp C not(upgradable)	Инструмент*
+R.A.M.- Starship Tech Blueprint*	10	20	200	Bp C not(upgradable)	Инструмент*
+R.A.M.- Starship Tech Blueprint*	10	20	197	Bp C not(upgradable)	Инструмент*
+R.A.M.- Starship Tech Blueprint*	10	20	200	Bp C not(upgradable)	Инструмент*
+R.A.M.- Weapon Tech Blueprint*	10	20	198	Bp C not(upgradable)	Инструмент*
+R.A.M.- Weapon Tech Blueprint*	10	20	200	Bp C not(upgradable)	Инструмент*
+R.A.M.- Weapon Tech Blueprint*	10	20	200	Bp C not(upgradable)	Инструмент*
 Radio S Blueprint*	0	0	-1	Bp O not(10, 20)	Частотный кристалл*
 Rapid Heavy Missile Launcher I Blueprint*	10	20	-1	Bp* Rockets	Скорострельная ПУ ракет большой мощности*
 Rapid Light Missile Launcher I Blueprint*	10	20	-1	Bp* Rockets	Скорострельная ПУ ракет малой мощности*
+Raven Blueprint*	10	20	1	Bp C upgradable	Линкор*
+Raven Blueprint*	10	20	10	Bp C upgradable	Линкор*
 Reactor Control Unit I Blueprint*	10	20	-1	Bp O (10, 20)	Блок управления реактором*
 Reactor Control Unit I Blueprint*	10	20	-1	Bp O (10, 20)	Блок управления реактором*
 Reinforced Bulkheads I Blueprint*	10	20	-1	Bp O (10, 20)	Усиленная переборка*
 Relic Analyzer I Blueprint*	10	20	-1	Bp O (10, 20)	Программно-аналитический комплекс*
 Remote Sensor Dampener I Blueprint*	1	2	-1	Bp O not(10, 20)	Передатчик помех системам обнаружения целей*
+Retriever Blueprint*	10	20	9	Bp C upgradable	Буровой корабль*
+Retriever Blueprint*	10	20	9	Bp C upgradable	Буровой корабль*
+Rifter Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Rifter Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Rifter Blueprint*	10	20	2	Bp C upgradable	Фрегат*
 Rocket Launcher I Blueprint*	10	20	-1	Bp* Rockets	Пусковая установка ракет ближнего боя*
+S-R Trigger Neurolink Conduit Blueprint*	10	20	200	Bp C not(upgradable)	Производственные компоненты*
 Salvage Drone I Blueprint*	10	20	-1	Bp* Drones	Дрон-демонтажник*
+Salvage Drone I Blueprint*	10	20	150	Bp* Drones	Дрон-демонтажник*
+Salvage Drone I Blueprint*	10	20	150	Bp* Drones	Дрон-демонтажник*
+Salvage Drone I Blueprint*	10	20	150	Bp* Drones	Дрон-демонтажник*
+Salvage Drone I Blueprint*	10	20	150	Bp* Drones	Дрон-демонтажник*
 Salvager I Blueprint*	10	20	-1	Bp O (10, 20)	Демонтажная установка*
+Salvager I Blueprint*	10	20	34	Bp C upgradable	Демонтажная установка*
+Salvager I Blueprint*	10	20	60	Bp C upgradable	Демонтажная установка*
+Salvager II Blueprint*	5	10	10	Bp Copy T2	Демонтажная установка*
 Scan Acquisition Array I Blueprint*	10	20	-1	Bp O (10, 20)	Сокращение времени сканирования*
+Scan Acquisition Array I Blueprint*	10	20	20	Bp C upgradable	Сокращение времени сканирования*
+Scan Acquisition Array I Blueprint*	10	20	20	Bp C upgradable	Сокращение времени сканирования*
 Scan Pinpointing Array I Blueprint*	10	20	-1	Bp O (10, 20)	Пакет модернизации для систем сканирования*
+Scan Pinpointing Array I Blueprint*	10	20	18	Bp C upgradable	Пакет модернизации для систем сканирования*
+Scan Pinpointing Array I Blueprint*	10	20	18	Bp C upgradable	Пакет модернизации для систем сканирования*
 Scan Rangefinding Array I Blueprint*	10	20	-1	Bp O (10, 20)	Пакет модернизации для систем сканирования*
+Scan Rangefinding Array I Blueprint*	10	20	20	Bp C upgradable	Пакет модернизации для систем сканирования*
+Scan Rangefinding Array I Blueprint*	10	20	20	Bp C upgradable	Пакет модернизации для систем сканирования*
 Scan Resolution Script Blueprint*	10	20	-1	Bp O (10, 20)	Прошивка для активного усилителя*
+Scorch L Blueprint*	5	10	10	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Scorch L Blueprint*	5	10	10	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Scorch L Blueprint*	5	10	10	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Scorch L Blueprint*	5	10	10	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Scorch L Blueprint*	5	10	10	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Scorch L Blueprint*	5	10	10	Bp Copy T2	Спецкристаллы для импульсных лазеров*
+Scorch L Blueprint*	5	10	10	Bp Copy T2	Спецкристаллы для импульсных лазеров*
 Scourge Auto-Targeting Cruise Missile I Blueprint*	10	20	-1	Bp* Rockets	Дальнобойная ракета с авто-наведением*
 Scourge Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	Bp* Rockets	Тяжёлая ракета с авто-наведением*
 Scourge Auto-Targeting Heavy Missile I Blueprint*	10	20	-1	Bp* Rockets	Тяжёлая ракета с авто-наведением*
@@ -274,11 +894,25 @@ Scourge Auto-Targeting Light Missile I Blueprint*	1	4	-1	Bp* Rockets	Лёгка�
 Scourge Heavy Assault Missile Blueprint*	8	18	-1	Bp* Rockets	Облегчённая ракета большой мощности*
 Scourge Heavy Assault Missile Blueprint*	1	0	-1	Bp* Rockets	Облегчённая ракета большой мощности*
 Scourge Heavy Assault Missile Blueprint*	10	0	-1	Bp* Rockets	Облегчённая ракета большой мощности*
+Scourge Heavy Assault Missile Blueprint*	8	18	286	Bp* Rockets	Облегчённая ракета большой мощности*
+Scourge Heavy Assault Missile Blueprint*	8	18	289	Bp* Rockets	Облегчённая ракета большой мощности*
+Scourge Heavy Assault Missile Blueprint*	8	18	300	Bp* Rockets	Облегчённая ракета большой мощности*
 Scourge Heavy Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета большой мощности*
 Scourge Heavy Missile Blueprint*	1	0	-1	Bp* Rockets	Ракета большой мощности*
+Scourge Javelin Heavy Assault Missile Blueprint*	5	10	10	Bp* Rockets	Малогабаритные спецракеты большой мощности*
 Scourge Light Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета малой мощности*
+Scourge Light Missile Blueprint*	10	20	94	Bp* Rockets	Ракета малой мощности*
 Scourge Light Missile Blueprint*	1	0	-1	Bp* Rockets	Ракета малой мощности*
+Scourge Light Missile Blueprint*	10	20	2	Bp* Rockets	Ракета малой мощности*
+Scourge Light Missile Blueprint*	10	20	2	Bp* Rockets	Ракета малой мощности*
 Scourge Light Missile Blueprint*	10	20	-1	Bp* Rockets	Ракета малой мощности*
+Scourge Precision Light Missile Blueprint*	3	12	4	Bp* Rockets	Спецракеты малой мощности*
+Scourge Precision Light Missile Blueprint*	4	14	9	Bp* Rockets	Спецракеты малой мощности*
+Scourge Rage Heavy Assault Missile Blueprint*	0	6	18	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Scourge Rage Heavy Assault Missile Blueprint*	5	10	10	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Scourge Rage Heavy Assault Missile Blueprint*	5	10	10	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Scourge Rage Heavy Assault Missile Blueprint*	5	10	10	Bp* Rockets	Малогабаритные спецракеты большой мощности*
+Scourge Rage Heavy Assault Missile Blueprint*	0	6	19	Bp* Rockets	Малогабаритные спецракеты большой мощности*
 Scourge Rocket Blueprint*	10	20	-1	Bp* Rockets	Ракета ближнего боя*
 Scourge Torpedo Blueprint*	10	20	-1	Bp* Rockets	Торпеда*
 Sensor Booster I Blueprint*	7	0	-1	Bp O not(10, 20)	Активный усилитель для систем обнаружения целей*
@@ -289,24 +923,74 @@ Shield Recharger I Blueprint*	10	20	-1	Bp O (10, 20)	Система подзар
 Ship Scanner I Blueprint*	10	20	-1	Bp O (10, 20)	Сканер кораблей*
 Ship Scanner I Blueprint*	7	6	-1	Bp O not(10, 20)	Сканер кораблей*
 Signal Amplifier I Blueprint*	1	2	-1	Bp O not(10, 20)	Усилитель сигнала*
+Signature Radius Suppressor I Blueprint*	0	0	5	Bp C not(upgradable)	Подавитель сигнатуры*
+Signature Radius Suppressor I Blueprint*	0	0	50	Bp C not(upgradable)	Подавитель сигнатуры*
+Signature Radius Suppressor I Blueprint*	0	0	50	Bp C not(upgradable)	Подавитель сигнатуры*
+Signature Radius Suppressor I Blueprint*	0	0	50	Station Container*	Подавитель сигнатуры*
 Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	18	Bp C upgradable	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	19	Bp C upgradable	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
 Slasher Blueprint*	10	16	-1	Bp O not(10, 20)	Фрегат*
 Small Algid Energy Administrations Unit I Blueprint*	9	0	-1	Bp* Rigs	Тюнинг-модуль — лазерное оружие*
 Small Algid Hybrid Administrations Unit I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — гибридное оружие*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	50	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	25	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	25	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	25	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	25	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	50	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	25	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	50	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	10	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	50	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
+Small Ancillary Armor Repairer Blueprint*	0	0	50	Bp C not(upgradable)	Установки вспомогательного ремонта брони*
 Small Ancillary Current Router I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Small Ancillary Remote Armor Repairer Blueprint*	0	0	3	Bp C not(upgradable)	Установки дистанционного вспомогательного ремонта брони*
+Small Ancillary Remote Armor Repairer Blueprint*	0	0	20	Bp C not(upgradable)	Установки дистанционного вспомогательного ремонта брони*
+Small Ancillary Remote Armor Repairer Blueprint*	0	0	20	Bp C not(upgradable)	Установки дистанционного вспомогательного ремонта брони*
+Small Ancillary Remote Shield Booster Blueprint*	0	0	4	Bp C not(upgradable)	Установки дистанционной вспомогательной накачки силового поля*
+Small Ancillary Remote Shield Booster Blueprint*	0	0	4	Bp C not(upgradable)	Установки дистанционной вспомогательной накачки силового поля*
+Small Ancillary Remote Shield Booster Blueprint*	0	0	20	Bp C not(upgradable)	Установки дистанционной вспомогательной накачки силового поля*
+Small Ancillary Shield Booster Blueprint*	0	0	49	Bp C not(upgradable)	Установки вспомогательной накачки силового поля*
 Small Armor Repairer I Blueprint*	8	16	-1	Bp O not(10, 20)	Установка ремонта брони*
 Small Audit Log Secure Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Small Audit Log Secure Container Blueprint*	10	20	15	Bp* Container	Защищенный контейнер с контролем доступа*
+Small Audit Log Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный контейнер с контролем доступа*
+Small Audit Log Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный контейнер с контролем доступа*
+Small Audit Log Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный контейнер с контролем доступа*
+Small Audit Log Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный контейнер с контролем доступа*
+Small Audit Log Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный контейнер с контролем доступа*
 Small Auxiliary Nano Pump I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — броня*
 Small Auxiliary Thrusters I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Auxiliary Thrusters I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Small Bay Loading Accelerator I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Small Bay Loading Accelerator I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Small Cap Battery I Blueprint*	10	20	-1	Bp O (10, 20)	Батарея конденсатора*
 Small Capacitor Booster I Blueprint*	10	20	-1	Bp O (10, 20)	Система подкачки конденсатора*
 Small Capacitor Control Circuit I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Small Cargohold Optimization I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Cargohold Optimization I Blueprint*	10	20	71	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Cargohold Optimization I Blueprint*	10	20	75	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Cargohold Optimization II Blueprint*	3	12	3	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Small Command Processor I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Small Core Defense Capacitor Safeguard I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — щит*
 Small Core Defense Capacitor Safeguard I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — щит*
@@ -321,11 +1005,13 @@ Small Drone Repair Augmentor I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-мод�
 Small Drone Scope Chip I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — дроны*
 Small Drone Speed Augmentor I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — дроны*
 Small Dynamic Fuel Valve I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Dynamic Fuel Valve I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Small EM Armor Reinforcer I Blueprint*	7	14	-1	Bp* Rigs	Тюнинг-модуль — броня*
 Small EM Shield Reinforcer I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — щит*
 Small Egress Port Maximizer I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Small Emission Scope Sharpener I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль для сканирования*
 Small Energy Ambit Extension I Blueprint*	7	0	-1	Bp* Rigs	Тюнинг-модуль — лазерное оружие*
+Small Energy Ambit Extension II Blueprint*	0	0	2	Bp* Rigs	Тюнинг-модуль — лазерное оружие*
 Small Energy Burst Aerator I Blueprint*	10	18	-1	Bp* Rigs	Тюнинг-модуль — лазерное оружие*
 Small Energy Collision Accelerator I Blueprint*	6	0	-1	Bp* Rigs	Тюнинг-модуль — лазерное оружие*
 Small Energy Discharge Elutriation I Blueprint*	7	0	-1	Bp* Rigs	Тюнинг-модуль — лазерное оружие*
@@ -333,12 +1019,28 @@ Small Energy Locus Coordinator I Blueprint*	9	14	-1	Bp* Rigs	Тюнинг-мод
 Small Energy Metastasis Adjuster I Blueprint*	7	14	-1	Bp* Rigs	Тюнинг-модуль — лазерное оружие*
 Small Energy Neutralizer I Blueprint*	8	0	-1	Bp O not(10, 20)	Дистанционные нейтрализаторы заряда*
 Small Engine Thermal Shielding I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Engine Thermal Shielding I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Small Explosive Armor Reinforcer I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — броня*
 Small Explosive Shield Reinforcer I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — щит*
+Small Focused Beam Laser I Blueprint*	9	18	4	Bp C upgradable	Лазерное орудие*
 Small Freight Container Blueprint*	10	20	-1	Bp O (10, 20)	Транспортный контейнер*
 Small Freight Container Blueprint*	10	20	-1	Bp* Container	Транспортный контейнер*
+Small Freight Container Blueprint*	10	20	150	Bp* Container	Транспортный контейнер*
+Small Freight Container Blueprint*	10	20	150	Bp* Container	Транспортный контейнер*
+Small Freight Container Blueprint*	10	20	150	Bp* Container	Транспортный контейнер*
+Small Freight Container Blueprint*	10	20	150	Bp* Container	Транспортный контейнер*
+Small Freight Container Blueprint*	10	20	150	Bp* Container	Транспортный контейнер*
 Small Graviton Smartbomb I Blueprint*	0	0	-1	Bp O not(10, 20)	Импульсный излучатель*
 Small Gravity Capacitor Upgrade I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль для сканирования*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль для сканирования*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль для сканирования*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль для сканирования*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	64	Bp* Rigs	Тюнинг-модуль для сканирования*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль для сканирования*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль для сканирования*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль для сканирования*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль для сканирования*
+Small Gravity Capacitor Upgrade I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль для сканирования*
 Small Higgs Anchor I Blueprint*	8	18	-1	Bp* Rigs	Якорный тюнинг-модуль*
 Small Hull Repairer I Blueprint*	10	20	-1	Bp O (10, 20)	Система ремонта корпуса*
 Small Hybrid Ambit Extension I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — гибридное оружие*
@@ -348,21 +1050,33 @@ Small Hybrid Discharge Elutriation I Blueprint*	6	14	-1	Bp* Rigs	Тюнинг-м
 Small Hybrid Locus Coordinator I Blueprint*	7	2	-1	Bp* Rigs	Тюнинг-модуль — гибридное оружие*
 Small Hybrid Metastasis Adjuster I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — гибридное оружие*
 Small Hydraulic Bay Thrusters I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Small Hydraulic Bay Thrusters I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Small Hyperspatial Velocity Optimizer I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Hyperspatial Velocity Optimizer I Blueprint*	10	20	93	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Hyperspatial Velocity Optimizer I Blueprint*	10	20	50	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Hyperspatial Velocity Optimizer I Blueprint*	10	20	50	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Hyperspatial Velocity Optimizer II Blueprint*	3	2	4	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Hyperspatial Velocity Optimizer II Blueprint*	3	2	4	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Small Inverted Signal Field Projector I Blueprint*	7	14	-1	Bp* Rigs	Тюнинг-модуль — системы электронного противодействия*
 Small Ionic Field Projector I Blueprint*	9	16	-1	Bp* Rigs	Тюнинг-модуль для целеуказания*
 Small Kinetic Armor Reinforcer I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — броня*
 Small Kinetic Shield Reinforcer I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — щит*
 Small Kinetic Shield Reinforcer I Blueprint*	6	2	-1	Bp* Rigs	Тюнинг-модуль — щит*
 Small Liquid Cooled Electronics I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Small Liquid Cooled Electronics I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Small Low Friction Nozzle Joints I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Low Friction Nozzle Joints I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Small Memetic Algorithm Bank I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль для сканирования*
 Small Nanobot Accelerator I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — броня*
 Small Particle Dispersion Augmentor I Blueprint*	7	14	-1	Bp* Rigs	Тюнинг-модуль — системы электронного противодействия*
 Small Particle Dispersion Projector I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — системы электронного противодействия*
 Small Polycarbon Engine Housing I Blueprint*	10	16	-1	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Polycarbon Engine Housing I Blueprint*	10	16	100	Bp O not(10, 20)	Тюнинг-модуль — астронавигация*
+Small Polycarbon Engine Housing I Blueprint*	10	16	100	Bp* Rigs	Тюнинг-модуль — астронавигация*
 Small Powergrid Subroutine Maximizer I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Small Powergrid Subroutine Maximizer I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Small Processor Overclocking Unit I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Small Processor Overclocking Unit I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Small Projectile Ambit Extension I Blueprint*	8	14	-1	Bp* Rigs	Тюнинг-модуль — баллистическое оружие*
 Small Projectile Burst Aerator I Blueprint*	8	14	-1	Bp* Rigs	Тюнинг-модуль — баллистическое оружие*
 Small Projectile Collision Accelerator I Blueprint*	8	14	-1	Bp* Rigs	Тюнинг-модуль — баллистическое оружие*
@@ -371,12 +1085,21 @@ Small Projectile Metastasis Adjuster I Blueprint*	8	14	-1	Bp* Rigs	Тюнинг-
 Small Remote Capacitor Transmitter I Blueprint*	8	14	-1	Bp O not(10, 20)	Установка дистанционного энергоснабжения*
 Small Remote Repair Augmentor I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — броня*
 Small Rocket Fuel Cache Partition I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Small Rocket Fuel Cache Partition I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Small Rocket Fuel Cache Partition I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Small Salvage Tackle I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль для переработки ресурсов*
+Small Salvage Tackle I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль для переработки ресурсов*
 Small Secure Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный грузовой контейнер*
 Small Secure Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный грузовой контейнер*
+Small Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный грузовой контейнер*
+Small Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный грузовой контейнер*
+Small Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный грузовой контейнер*
+Small Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный грузовой контейнер*
+Small Secure Container Blueprint*	10	20	150	Bp* Container	Защищенный грузовой контейнер*
 Small Semiconductor Memory Cell I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Small Semiconductor Memory Cell I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Small Semiconductor Memory Cell I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — энергосеть*
+Small Semiconductor Memory Cell I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — энергосеть*
 Small Sentry Damage Augmentor I Blueprint*	8	14	-1	Bp* Rigs	Тюнинг-модуль — дроны*
 Small Shield Booster I Blueprint*	1	2	-1	Bp O not(10, 20)	Установка накачки силового поля*
 Small Shield Extender I Blueprint*	10	20	-1	Bp O (10, 20)	Расширитель щита*
@@ -384,8 +1107,15 @@ Small Signal Disruption Amplifier I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-м
 Small Signal Focusing Kit I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль для сканирования*
 Small Standard Container Blueprint*	10	20	-1	Bp O (10, 20)	Грузовой контейнер*
 Small Standard Container Blueprint*	10	20	-1	Bp* Container	Грузовой контейнер*
+Small Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
+Small Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
+Small Standard Container Blueprint*	10	20	100	Bp* Container	Грузовой контейнер*
+Small Standard Container Blueprint*	10	20	90	Bp* Container	Грузовой контейнер*
+Small Standard Container Blueprint*	10	20	90	Bp* Container	Грузовой контейнер*
 Small Stasis Drone Augmentor I Blueprint*	7	14	-1	Bp* Rigs	Тюнинг-модуль — дроны*
 Small Targeting System Subcontroller I Blueprint*	7	14	-1	Bp* Rigs	Тюнинг-модуль для целеуказания*
+Small Targeting System Subcontroller I Blueprint*	7	14	100	Bp* Rigs	Тюнинг-модуль для целеуказания*
+Small Targeting System Subcontroller II Blueprint*	4	14	2	Bp* Rigs	Тюнинг-модуль для целеуказания*
 Small Targeting Systems Stabilizer I Blueprint*	7	12	-1	Bp* Rigs	Тюнинг-модуль — системы электронного противодействия*
 Small Thermal Armor Reinforcer I Blueprint*	9	18	-1	Bp* Rigs	Тюнинг-модуль — броня*
 Small Thermal Shield Reinforcer I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — щит*
@@ -394,57 +1124,654 @@ Small Tractor Beam I Blueprint*	10	20	-1	Bp O (10, 20)	Гравизахват*
 Small Tractor Beam I Blueprint*	10	20	-1	Bp O (10, 20)	Гравизахват*
 Small Transverse Bulkhead I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — броня*
 Small Trimark Armor Pump I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — броня*
+Small Trimark Armor Pump I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — броня*
 Small Warhead Calefaction Catalyst I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Small Warhead Calefaction Catalyst I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Small Warhead Flare Catalyst I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Small Warhead Flare Catalyst I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Small Warhead Rigor Catalyst I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
+Small Warhead Rigor Catalyst I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — ракетное оружие*
 Small Warp Core Optimizer I Blueprint*	10	20	-1	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Small Warp Core Optimizer I Blueprint*	10	20	100	Bp* Rigs	Тюнинг-модуль — астронавигация*
+Stabber Blueprint*	10	20	2	Bp C upgradable	Крейсер*
+Stabber Blueprint*	10	20	2	Bp C upgradable	Крейсер*
+Stabber Blueprint*	10	20	2	Bp C upgradable	Крейсер*
 Standard S Blueprint*	0	0	-1	Bp O not(10, 20)	Частотный кристалл*
 Stasis Webification Probe Blueprint*	10	20	-1	Bp O (10, 20)	Заградительные импульсные зонды*
+Stasis Webification Probe Blueprint*	10	20	200	Bp C not(upgradable)	Заградительные импульсные зонды*
+Stasis Webification Probe Blueprint*	10	20	200	Bp C not(upgradable)	Заградительные импульсные зонды*
 Stasis Webifier I Blueprint*	10	20	-1	Bp O (10, 20)	Генератор стазис-поля*
 Stasis Webifier I Blueprint*	1	0	-1	Bp O not(10, 20)	Генератор стазис-поля*
 Stasis Webifier I Blueprint*	1	0	-1	Bp O not(10, 20)	Генератор стазис-поля*
 Station Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Station Container Blueprint*	10	20	45	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Container Blueprint*	10	20	38	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Container Blueprint*	10	20	38	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Container Blueprint*	10	20	50	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Container Blueprint*	10	20	38	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Container Blueprint*	10	20	5	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Container Blueprint*	10	20	33	Bp* Container	Защищенный контейнер с контролем доступа*
 Station Vault Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
 Station Vault Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Station Vault Container Blueprint*	10	20	50	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Vault Container Blueprint*	10	20	50	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Vault Container Blueprint*	10	20	50	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Vault Container Blueprint*	10	20	50	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Vault Container Blueprint*	10	20	50	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Vault Container Blueprint*	10	20	50	Bp* Container	Защищенный контейнер с контролем доступа*
 Station Warehouse Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Station Warehouse Container Blueprint*	10	18	5	Bp* Container	Защищенный контейнер с контролем доступа*
 Station Warehouse Container Blueprint*	10	20	-1	Bp O (10, 20)	Защищенный контейнер с контролем доступа*
+Station Warehouse Container Blueprint*	10	20	50	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Warehouse Container Blueprint*	10	20	49	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Warehouse Container Blueprint*	10	20	49	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Warehouse Container Blueprint*	10	20	49	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Warehouse Container Blueprint*	10	20	49	Bp* Container	Защищенный контейнер с контролем доступа*
+Station Warehouse Container Blueprint*	10	20	49	Bp* Container	Защищенный контейнер с контролем доступа*
+Strip Miner I Blueprint*	10	20	66	Bp C upgradable	Буровой лазер валовой выемки*
+Strip Miner I Blueprint*	10	20	80	Bp C upgradable	Буровой лазер валовой выемки*
+Strip Miner I Blueprint*	10	20	80	Bp C upgradable	Буровой лазер валовой выемки*
+Supratidal Entropic Disintegrator I Blueprint*	0	0	5	Bp C upgradable	Оружие Предтечей*
+Supratidal Scoped Entropic Disintegrator Blueprint*	0	0	1	Bp C not(upgradable)	Оружие Предтечей*
 Survey Probe Launcher I Blueprint*	9	16	-1	Bp O not(10, 20)	Пусковая установка лунных зондов*
 Survey Scanner I Blueprint*	10	20	-1	Bp O (10, 20)	Комплекс для оценки размеров залежей*
 Target Painter I Blueprint*	10	20	-1	Bp O (10, 20)	Система подсветки целей*
 Targeting Range Script Blueprint*	10	20	-1	Bp O (10, 20)	Прошивка для активного усилителя*
+Tayra Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Tayra Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Tayra Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Tayra Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Tayra Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Tayra Blueprint*	10	20	10	Bp C upgradable	Перевозчик*
+Tetryon Exotic Plasma L Blueprint*	0	0	5	Bp C upgradable	Заряд экзотической плазмы*
+Tetryon Exotic Plasma S Blueprint*	0	0	5	Bp C upgradable	Заряд экзотической плазмы*
+Tetryon Exotic Plasma S Blueprint*	0	0	5	Bp C upgradable	Заряд экзотической плазмы*
 Thermal Coating I Blueprint*	10	20	-1	Bp O (10, 20)	Защитное покрытие брони*
+Thermonuclear Trigger Unit Blueprint*	10	20	17	Bp C not(upgradable)	Производственные компоненты*
+Thermonuclear Trigger Unit Blueprint*	10	20	4000	Bp C not(upgradable)	Производственные компоненты*
+Thorax Blueprint*	10	20	2	Bp C upgradable	Крейсер*
 Thorium Charge M Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
 Thorium Charge S Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	70	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	5	Bp C upgradable	Гибридные заряды*
+Thorium Charge S Blueprint*	10	20	5	Bp C upgradable	Гибридные заряды*
 Thrasher Blueprint*	5	10	-1	Bp O not(10, 20)	Эсминец*
+Thrasher Blueprint*	10	20	2	Bp C upgradable	Эсминец*
+Thrasher Blueprint*	10	20	2	Bp C upgradable	Эсминец*
+Thrasher Blueprint*	10	20	20	Bp C upgradable	Эсминец*
 Tormentor Blueprint*	10	18	-1	Bp O not(10, 20)	Фрегат*
+Torpedo Launcher I Blueprint*	10	20	47	Bp* Rockets	Торпедный аппарат*
 Tracking Disruptor I Blueprint*	10	20	-1	Bp O (10, 20)	Помехопостановщики наводке орудий*
 Tracking Enhancer I Blueprint*	10	20	-1	Bp O (10, 20)	Приводы наводки орудий*
 Tracking Speed Script Blueprint*	10	20	-1	Bp O (10, 20)	Прошивка для систем наводки орудий*
+Tristan Blueprint*	10	20	2	Bp C upgradable	Фрегат*
+Tristan Blueprint*	8	16	1	Bp C upgradable	Фрегат*
 Tungsten Charge M Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
 Tungsten Charge S Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
+Tungsten Charge S Blueprint*	10	20	68	Bp C not(upgradable)	Гибридные заряды*
+U-C Trigger Neurolink Conduit Blueprint*	10	20	200	Bp C not(upgradable)	Производственные компоненты*
 Ultraviolet L Blueprint*	10	20	-1	Bp O (10, 20)	Частотный кристалл*
+Ultraviolet L Blueprint*	7	0	178	Bp C upgradable	Частотный кристалл*
+Ultraviolet L Blueprint*	7	0	188	Bp C upgradable	Частотный кристалл*
+Ultraviolet L Blueprint*	7	0	184	Bp C upgradable	Частотный кристалл*
+Ultraviolet L Blueprint*	10	20	200	Bp C upgradable	Частотный кристалл*
+Ultraviolet L Blueprint*	10	20	200	Bp C upgradable	Частотный кристалл*
+Ultraviolet L Blueprint*	10	20	200	Bp C upgradable	Частотный кристалл*
 Ultraviolet M Blueprint*	0	0	-1	Bp O not(10, 20)	Частотный кристалл*
 Ultraviolet S Blueprint*	0	0	-1	Bp O not(10, 20)	Частотный кристалл*
 Uranium Charge M Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
 Uranium Charge S Blueprint*	10	20	-1	Bp O (10, 20)	Гибридные заряды*
+Uranium Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Uranium Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Uranium Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Uranium Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Uranium Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Uranium Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Uranium Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Uranium Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
+Uranium Charge S Blueprint*	10	20	70	Bp C not(upgradable)	Гибридные заряды*
 Valkyrie I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Valkyrie I Blueprint*	5	10	-1	Bp* Drones	Боевой дрон*
+Valkyrie I Blueprint*	10	20	260	Bp* Drones	Боевой дрон*
+Valkyrie I Blueprint*	0	0	261	Bp* Drones	Боевой дрон*
 Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
 Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Bp O (10, 20)	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	50	Bp C upgradable	Кристалл настройки экстрактора*
+Vedmak Blueprint*	0	0	1	Bp C upgradable	Крейсер*
 Venture Blueprint*	10	20	-1	Bp O (10, 20)	Фрегат*
+Venture Blueprint*	10	20	29	Bp C upgradable	Фрегат*
+Venture Blueprint*	10	20	25	Bp C upgradable	Фрегат*
+Venture Blueprint*	10	20	25	Bp C upgradable	Фрегат*
+Venture Blueprint*	10	20	1	Bp C upgradable	Фрегат*
+Venture Blueprint*	10	20	1	Bp C upgradable	Фрегат*
+Venture Blueprint*	10	20	1	Bp C upgradable	Фрегат*
+Venture Blueprint*	10	20	1	Bp C upgradable	Фрегат*
+Venture Blueprint*	10	20	1	Bp C upgradable	Фрегат*
+Vespa EC-600 Blueprint*	10	20	300	Bp C upgradable	Дрон электронного противодействия*
 Vespa I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Vespa I Blueprint*	5	10	-1	Bp* Drones	Боевой дрон*
 Vespa I Blueprint*	4	10	-1	Bp* Drones	Боевой дрон*
+Vexor Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	9	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	10	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	2	Bp C upgradable	Крейсер*
+Vexor Blueprint*	10	20	2	Bp C upgradable	Крейсер*
+Vigilant Blueprint*	0	0	1	Bp Copy Faction	Крейсер*
+Void S Blueprint*	4	14	11	Bp Copy T2	Спецбоеприпасы для бластеров*
+Void S Blueprint*	4	14	11	Bp Copy T2	Спецбоеприпасы для бластеров*
+Warden I Blueprint*	10	20	195	Bp* Drones	Боевой дрон*
 Warp Core Stabilizer I Blueprint*	10	20	-1	Bp O (10, 20)	Стабилизатор квантового ядра*
 Warp Disrupt Probe Blueprint*	10	20	-1	Bp O (10, 20)	Зонд-генератор варп-помех*
+Warp Disrupt Probe Blueprint*	10	20	192	Bp C not(upgradable)	Зонд-генератор варп-помех*
+Warp Disrupt Probe Blueprint*	10	20	199	Bp C not(upgradable)	Зонд-генератор варп-помех*
 Warp Disruptor I Blueprint*	10	20	-1	Bp O (10, 20)	Варп-глушитель*
 Warp Scrambler I Blueprint*	10	20	-1	Bp O (10, 20)	Варп-глушитель*
 Warrior I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
 Warrior I Blueprint*	10	20	-1	Bp* Drones	Боевой дрон*
+Warrior I Blueprint*	0	0	10	Bp* Drones	Боевой дрон*
+Warrior I Blueprint*	0	0	4	Bp* Drones	Боевой дрон*
+Warrior I Blueprint*	0	0	7	Bp* Drones	Боевой дрон*
+Warrior I Blueprint*	0	0	4	Bp* Drones	Боевой дрон*
+Warrior I Blueprint*	10	20	517	Bp* Drones	Боевой дрон*
+Warrior I Blueprint*	10	20	516	Bp* Drones	Боевой дрон*
 Warrior SW-300 Blueprint*	10	20	-1	Bp* Drones	Дрон постановки стазис-сети*
 Warrior TP-300 Blueprint*	10	20	-1	Bp* Drones	Дрон электронного противодействия*
+Wasp I Blueprint*	10	20	179	Bp* Drones	Боевой дрон*
 Wreathe Blueprint*	7	14	-1	Bp O not(10, 20)	Перевозчик*
 Xray L Blueprint*	10	20	-1	Bp O (10, 20)	Частотный кристалл*
+Xray L Blueprint*	7	0	197	Bp C upgradable	Частотный кристалл*
+Xray L Blueprint*	7	0	200	Bp C upgradable	Частотный кристалл*
+Xray L Blueprint*	8	14	200	Bp C upgradable	Частотный кристалл*
 Xray M Blueprint*	0	0	-1	Bp O not(10, 20)	Частотный кристалл*
 Xray S Blueprint*	9	0	-1	Bp O not(10, 20)	Частотный кристалл*
+Zeugma Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Zeugma Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Zeugma Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Zeugma Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Zeugma Integrated Analyzer Blueprint*	0	0	3	Bp Copy Faction	Программно-аналитический комплекс*
+Axosomatic Neurolink Enhancer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+2 x C3-FTM Acid Reaction Formula*	0	0	-1	Гибридные полимеры*
+4 x Caesarium Cadmide Reaction Formula*	0	0	-1	Полуфабрикаты*
+Caesarium Cadmide Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Carbon-86 Epoxy Resin Reaction Formula*	0	0	-1	Гибридные полимеры*
+9 x Ceramic Powder Reaction Formula*	0	0	-1	Полуфабрикаты*
+Ceramic Powder Reaction Formula*	0	0	-1	Полуфабрикаты*
+Cogni-Emotive Neurolink Enhancer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Crystalline Carbonide Reaction Formula*	0	0	-1	Композитные вещества*
+2 x Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Fullerene Intercalated Graphite Reaction Formula*	0	0	-1	Гибридные полимеры*
+Fulleride Reaction Formula*	0	0	-1	Композитные вещества*
+Fulleride Reaction Formula*	0	0	-1	Композитные вещества*
+Fulleroferrocene Reaction Formula*	0	0	-1	Гибридные полимеры*
+2 x Graphene Nanoribbons Reaction Formula*	0	0	-1	Гибридные полимеры*
+5 x Hexite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Hypnagogic Neurolink Enhancer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Alpha-3 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Alpha-3 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Alpha-3 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Beta-6 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Beta-6 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Beta-6 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Gamma-9 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Gamma-9 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Gamma-9 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Lanthanum Metallofullerene Reaction Formula*	0	0	-1	Гибридные полимеры*
+Meta-Operant Neurolink Enhancer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Methanofullerene Reaction Formula*	0	0	-1	Гибридные полимеры*
+Nanotransistors Reaction Formula*	0	0	-1	Композитные вещества*
+2 x Neo Mercurite Reaction Formula*	0	0	-1	Полуфабрикаты*
+4 x Oxy-Organic Solvents Reaction Formula*	0	0	-1	Полуфабрикаты*
+Oxy-Organic Solvents Reaction Formula*	0	0	-1	Полуфабрикаты*
+PPD Fullerene Fibers Reaction Formula*	0	0	-1	Гибридные полимеры*
+Phenolic Composites Reaction Formula*	0	0	-1	Композитные вещества*
+4 x Photonic Metamaterials Reaction Formula*	0	0	-1	Композитные вещества*
+Photonic Metamaterials Reaction Formula*	0	0	-1	Композитные вещества*
+Platinum Technite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Platinum Technite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Pressurized Oxidizers Reaction Formula*	0	0	-1	Композитные вещества*
+Reaction-Orienting Neurolink Stabilizer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Reinforced Carbon Fiber Reaction Formula*	0	0	-1	Композитные вещества*
+Reinforced Carbon Fiber Reaction Formula*	0	0	-1	Композитные вещества*
+Reinforced Carbon Fiber Reaction Formula*	0	0	-1	Композитные вещества*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Scandium Metallofullerene Reaction Formula*	0	0	-1	Гибридные полимеры*
+4 x Silicon Diborite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Silicon Diborite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Stress-Responding Neurolink Stabilizer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+5 x Sylramic Fibers Reaction Formula*	0	0	-1	Композитные вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+2 x Thermosetting Polymer Reaction Formula*	0	0	-1	Полуфабрикаты*
+Thermosetting Polymer Reaction Formula*	0	0	-1	Полуфабрикаты*
+Thermosetting Polymer Reaction Formula*	0	0	-1	Полуфабрикаты*
+Thermosetting Polymer Reaction Formula*	0	0	-1	Полуфабрикаты*
+5 x Thulium Hafnite Reaction Formula*	0	0	-1	Полуфабрикаты*
+4 x Titanium Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Titanium Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+9 x Titanium Chromide Reaction Formula*	0	0	-1	Полуфабрикаты*
+Titanium Chromide Reaction Formula*	0	0	-1	Полуфабрикаты*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Ultradian-Cycling Neurolink Stabilizer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Vanadium Hafnite Reaction Formula*	0	0	-1	Полуфабрикаты*
+1MN Afterburner I Blueprint*	0	0	-1	Движительные модули*
+1MN Afterburner I Blueprint*	0	0	-1	Движительные модули*
+5MN Microwarpdrive I Blueprint*	10	20	-1	Движительные модули*
+Acolyte I Blueprint*	10	20	-1	Боевой дрон*
+Algos Blueprint*	10	20	-1	Эсминец*
+Antimatter Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Antimatter Charge M Blueprint*	0	0	-1	Гибридные заряды*
+Antimatter Charge M Blueprint*	0	0	-1	Гибридные заряды*
+Antimatter Charge M Blueprint*	10	20	-1	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	-1	Гибридные заряды*
+Antimatter Charge S Blueprint*	0	0	-1	Гибридные заряды*
+Atron Blueprint*	0	0	-1	Фрегат*
+Auto-Integrity Preservation Seal Blueprint*	10	14	-1	Производственные компоненты*
+Ballistic Control System I Blueprint*	10	20	-1	Баллистические вычислители*
+Blackbird Blueprint*	10	18	-1	Крейсер*
+Caldari Shuttle Blueprint*	10	20	-1	Личный катер*
+Cap Booster 150 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 200 Blueprint*	0	0	-1	Заряд системы пополнения накопителя*
+Cap Booster 25 Blueprint*	0	0	-1	Заряд системы пополнения накопителя*
+Cap Booster 400 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 400 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 50 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 800 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 800 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Recharger I Blueprint*	10	20	-1	Система подзарядки конденсатора*
+Capital Cargo Bay Blueprint*	10	20	-1	Компоненты кораблей большого тоннажа*
+Capital Construction Parts Blueprint*	10	20	-1	Компоненты кораблей большого тоннажа*
+Caracal Blueprint*	10	20	-1	Крейсер*
+Catalyst Blueprint*	10	20	-1	Эсминец*
+5 x Civilian Data Analyzer Blueprint*	0	0	-1	Программно-аналитический комплекс*
+Civilian Mining Drone Blueprint*	0	0	-1	Буровой дрон*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+4 x Coherent Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Condor Blueprint*	0	0	-1	Фрегат*
+Condor Blueprint*	10	20	-1	Фрегат*
+Corax Blueprint*	10	20	-1	Эсминец*
+Core Temperature Regulator Blueprint*	9	16	-1	Производственные компоненты*
+Cormorant Blueprint*	10	20	-1	Эсминец*
+Cormorant Blueprint*	0	0	-1	Эсминец*
+Cruise Missile Launcher I Blueprint*	10	20	-1	Пусковая установка ракет дальнего боя*
+Crystalline Carbonide Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Crystalline Carbonide Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Damage Control I Blueprint*	10	20	-1	Модуль боевой живучести*
+Deep Core Mining Laser I Blueprint*	10	20	-1	Буровой лазер*
+Deep Core Mining Laser I Blueprint*	10	20	-1	Буровой лазер*
+Defender Missile I Blueprint*	0	0	-1	Противоракеты*
+Deflection Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Depleted Uranium L Blueprint*	10	20	-1	Снаряды*
+Dragoon Blueprint*	8	0	-1	Эсминец*
+Dragoon Blueprint*	10	20	-1	Эсминец*
+Drake Blueprint*	10	0	-1	Линейный крейсер общего назначения*
+EM Pulse Generator Blueprint*	10	20	-1	Производственные компоненты*
+EM Shield Amplifier I Blueprint*	0	0	-1	Энергонезависимые модуляторы сопротивляемости полей*
+EM Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+EMP M Blueprint*	10	20	-1	Снаряды*
+EMP M Blueprint*	10	20	-1	Снаряды*
+Electromechanical Interface Nexus Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Emergent Neurovisual Interface Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Epithal Blueprint*	0	20	-1	Перевозчик*
+Epithal Blueprint*	0	0	-1	Перевозчик*
+Expanded Cargohold I Blueprint*	0	0	-1	Расширение грузового отсека*
+Explosive Shield Amplifier I Blueprint*	0	0	-1	Энергонезависимые модуляторы сопротивляемости полей*
+Explosive Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+Ferox Blueprint*	10	0	-1	Линейный крейсер общего назначения*
+Fullerene Intercalated Sheets Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Fulleroferrocene Power Conduits Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Fusion L Blueprint*	10	20	-1	Снаряды*
+Fusion M Blueprint*	10	20	-1	Снаряды*
+Fusion Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Fusion Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Fusion Thruster Blueprint*	10	20	-1	Производственные компоненты*
+Gallente Shuttle Blueprint*	0	0	-1	Личный катер*
+Garde I Blueprint*	10	20	-1	Боевой дрон*
+Gravimetric Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+Gravimetric Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+Graviton Pulse Generator Blueprint*	10	0	-1	Производственные компоненты*
+Graviton Pulse Generator Blueprint*	10	20	-1	Производственные компоненты*
+Graviton Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Graviton Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Graviton Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Griffin Blueprint*	10	20	-1	Фрегат*
+Hammerhead I Blueprint*	10	20	-1	Боевой дрон*
+Hammerhead I Blueprint*	10	20	-1	Боевой дрон*
+Heavy Assault Missile Launcher I Blueprint*	10	20	-1	Пусковая установка облегчённых ракет большой мощности*
+Heavy Missile Launcher I Blueprint*	10	20	-1	Пусковая установка ракет большой мощности*
+Helium Fuel Block Blueprint*	10	20	-1	Топливный блок*
+Helium Fuel Block Blueprint*	0	0	-1	Топливный блок*
+Heron Blueprint*	0	10	-1	Фрегат*
+Heron Blueprint*	10	20	-1	Фрегат*
+Heron Blueprint*	0	0	-1	Фрегат*
+Hobgoblin I Blueprint*	10	20	-1	Боевой дрон*
+Hobgoblin I Blueprint*	0	20	-1	Боевой дрон*
+Hobgoblin I Blueprint*	0	0	-1	Боевой дрон*
+Hobgoblin I Blueprint*	0	20	-1	Боевой дрон*
+Hornet EC-300 Blueprint*	10	20	-1	Дрон электронного противодействия*
+Hornet I Blueprint*	10	20	-1	Боевой дрон*
+Hydrogen Fuel Block Blueprint*	0	0	-1	Топливный блок*
+Ice Harvester I Blueprint*	10	20	-1	Буровой лазер валовой выемки*
+Ice Harvester I Blueprint*	10	20	-1	Буровой лазер валовой выемки*
+Ice Harvester Upgrade I Blueprint*	10	20	-1	Пакет модернизации экстракторов*
+Imicus Blueprint*	0	0	-1	Фрегат*
+Imicus Blueprint*	7	14	-1	Фрегат*
+Incursus Blueprint*	0	0	-1	Фрегат*
+Inferno Auto-Targeting Light Missile I Blueprint*	0	0	-1	Лёгкая ракета с авто-наведением*
+Inferno Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Inferno Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Inferno Cruise Missile Blueprint*	0	0	-1	Ракета дальнего боя*
+Inferno Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Inferno Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Inferno Heavy Assault Missile Blueprint*	10	20	-1	Облегчённая ракета большой мощности*
+Inferno Heavy Assault Missile Blueprint*	10	20	-1	Облегчённая ракета большой мощности*
+Inferno Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Inferno Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Inferno Light Missile Blueprint*	10	20	-1	Ракета малой мощности*
+Inferno Rocket Blueprint*	0	0	-1	Ракета ближнего боя*
+Inferno Rocket Blueprint*	0	0	-1	Ракета ближнего боя*
+Inferno Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Inferno Torpedo Blueprint*	0	0	-1	Торпеда*
+Inferno Torpedo Blueprint*	0	0	-1	Торпеда*
+Ion Thruster Blueprint*	10	20	-1	Производственные компоненты*
+Ion Thruster Blueprint*	10	20	-1	Производственные компоненты*
+Iron Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Iron Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Iron Charge M Blueprint*	10	20	-1	Гибридные заряды*
+Iron Charge M Blueprint*	10	0	-1	Гибридные заряды*
+Iron Charge M Blueprint*	10	20	-1	Гибридные заряды*
+Iteron Mark V Blueprint*	10	20	-1	Перевозчик*
+Iteron Mark V Blueprint*	0	0	-1	Перевозчик*
+Kestrel Blueprint*	10	20	-1	Фрегат*
+Kinetic Shield Amplifier I Blueprint*	0	0	-1	Энергонезависимые модуляторы сопротивляемости полей*
+Kinetic Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+Kryos Blueprint*	0	0	-1	Перевозчик*
+Large Cargohold Optimization I Blueprint*	7	20	-1	Тюнинг-модуль — астронавигация*
+Large Cargohold Optimization I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Large Core Defense Field Extender I Blueprint*	10	20	-1	Тюнинг-модуль — щит*
+Large Drone Scope Chip I Blueprint*	10	0	-1	Тюнинг-модуль — дроны*
+Large Salvage Tackle I Blueprint*	0	20	-1	Тюнинг-модуль для переработки ресурсов*
+Large Shield Booster I Blueprint*	10	20	-1	Установка накачки силового поля*
+Large Shield Extender I Blueprint*	10	20	-1	Расширитель щита*
+Large Shield Extender I Blueprint*	0	0	-1	Расширитель щита*
+Laser Focusing Crystals Blueprint*	10	20	-1	Производственные компоненты*
+Laser Focusing Crystals Blueprint*	10	20	-1	Производственные компоненты*
+Lead Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Lead Charge S Blueprint*	0	0	-1	Гибридные заряды*
+Life Support Backup Unit Blueprint*	10	20	-1	Производственные компоненты*
+Light Missile Launcher I Blueprint*	10	20	-1	Пусковая установка ракет малой мощности*
+Linear Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Linear Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Magnetometric Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+Magnetometric Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+Magpulse Thruster Blueprint*	10	20	-1	Производственные компоненты*
+Maulus Blueprint*	0	0	-1	Фрегат*
+Medium Ancillary Current Router I Blueprint*	10	20	-1	Тюнинг-модуль — энергосеть*
+Medium Ancillary Current Router I Blueprint*	10	20	-1	Тюнинг-модуль — энергосеть*
+Medium Ancillary Current Router I Blueprint*	0	0	-1	Тюнинг-модуль — энергосеть*
+Medium Capacitor Control Circuit I Blueprint*	9	0	-1	Тюнинг-модуль — энергосеть*
+Medium Cargohold Optimization I Blueprint*	10	0	-1	Тюнинг-модуль — астронавигация*
+Medium Cargohold Optimization I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Medium Core Defense Field Extender I Blueprint*	10	0	-1	Тюнинг-модуль — щит*
+Medium Core Defense Field Extender I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Medium Core Defense Field Extender I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Medium EM Shield Reinforcer I Blueprint*	10	0	-1	Тюнинг-модуль — щит*
+Medium Hydraulic Bay Thrusters I Blueprint*	0	0	-1	Тюнинг-модуль — ракетное оружие*
+Medium Hyperspatial Velocity Optimizer I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Medium Low Friction Nozzle Joints I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Medium Salvage Tackle I Blueprint*	10	20	-1	Тюнинг-модуль для переработки ресурсов*
+Medium Semiconductor Memory Cell I Blueprint*	10	20	-1	Тюнинг-модуль — энергосеть*
+Medium Shield Booster I Blueprint*	0	0	-1	Установка накачки силового поля*
+Medium Shield Extender I Blueprint*	10	20	-1	Расширитель щита*
+Medium Thermal Shield Reinforcer I Blueprint*	10	0	-1	Тюнинг-модуль — щит*
+Mercoxit Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора на меркоцит*
+Merlin Blueprint*	10	20	-1	Фрегат*
+Merlin Blueprint*	7	20	-1	Фрегат*
+Metallofullerene Plating Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Miasmos Blueprint*	0	0	-1	Перевозчик*
+Mining Drone I Blueprint*	10	20	-1	Буровой дрон*
+Mining Laser Upgrade I Blueprint*	10	20	-1	Пакет модернизации экстракторов*
+Mining Laser Upgrade I Blueprint*	10	20	-1	Пакет модернизации экстракторов*
+Mjolnir Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Mjolnir Cruise Missile Blueprint*	0	0	-1	Ракета дальнего боя*
+Mjolnir Cruise Missile Blueprint*	7	0	-1	Ракета дальнего боя*
+Mjolnir Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	10	20	-1	Облегчённая ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	0	-1	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Mjolnir Light Missile Blueprint*	0	0	-1	Ракета малой мощности*
+Mjolnir Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Mjolnir Rocket Blueprint*	0	0	-1	Ракета ближнего боя*
+Mjolnir Torpedo Blueprint*	0	0	-1	Торпеда*
+Mjolnir Torpedo Blueprint*	0	0	-1	Торпеда*
+Moa Blueprint*	0	0	-1	Крейсер*
+Mobile Tractor Unit Blueprint*	10	20	28	Автономный блок сбора трофеев*
+Multispectrum Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+Nanite Repair Paste Blueprint*	10	20	-1	Nanite Repair Paste*
+Nanoelectrical Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+Nanofiber Internal Structure I Blueprint*	0	0	-1	Нановолоконная несущая конструкция*
+Nanowire Composites Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Neurovisual Output Analyzer Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Nitrogen Fuel Block Blueprint*	0	0	-1	Топливный блок*
+Nova Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Nova Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Nova Cruise Missile Blueprint*	0	0	-1	Ракета дальнего боя*
+Nova Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Nova Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Nova Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Nova Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Nova Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Nova Rocket Blueprint*	0	0	-1	Ракета ближнего боя*
+Nova Torpedo Blueprint*	0	0	-1	Торпеда*
+Nova Torpedo Blueprint*	0	0	-1	Торпеда*
+Nuclear Pulse Generator Blueprint*	10	20	-1	Производственные компоненты*
+Ogre I Blueprint*	10	20	-1	Боевой дрон*
+Optimized Nano-Engines Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Oscillator Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Oscillator Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Osprey Blueprint*	10	20	-1	Крейсер*
+Oxygen Fuel Block Blueprint*	10	20	-1	Топливный блок*
+Oxygen Fuel Block Blueprint*	10	20	-1	Топливный блок*
+Oxygen Fuel Block Blueprint*	10	20	-1	Топливный блок*
+Particle Accelerator Unit Blueprint*	10	20	-1	Производственные компоненты*
+Particle Accelerator Unit Blueprint*	10	20	-1	Производственные компоненты*
+Phased Plasma L Blueprint*	10	20	-1	Снаряды*
+Phased Plasma M Blueprint*	10	20	-1	Снаряды*
+Phased Plasma M Blueprint*	0	0	-1	Снаряды*
+Phased Plasma S Blueprint*	10	20	-1	Снаряды*
+Photon Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+Photon Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+Plasma Pulse Generator Blueprint*	10	20	-1	Производственные компоненты*
+Plutonium Charge S Blueprint*	0	0	-1	Гибридные заряды*
+Proton L Blueprint*	10	20	-1	Снаряды*
+Pulse Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Pulse Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Quantum Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+Quantum Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+R-O Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+R-O Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+R.A.M.- Ammunition Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Ammunition Tech Blueprint*	9	14	-1	Инструмент*
+R.A.M.- Armor/Hull Tech Blueprint*	0	0	-1	Инструмент*
+R.A.M.- Armor/Hull Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Electronics Blueprint*	10	0	-1	Инструмент*
+R.A.M.- Electronics Blueprint*	9	0	-1	Инструмент*
+R.A.M.- Energy Tech Blueprint*	0	0	-1	Инструмент*
+R.A.M.- Energy Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Robotics Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Robotics Blueprint*	0	0	-1	Инструмент*
+R.A.M.- Robotics Blueprint*	9	16	-1	Инструмент*
+R.A.M.- Shield Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Starship Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Starship Tech Blueprint*	10	14	-1	Инструмент*
+R.A.M.- Weapon Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Weapon Tech Blueprint*	10	14	-1	Инструмент*
+R.Db - Core Complexion Blueprint*	0	0	-1	Инструмент*
+2 x R.Db - CreoDron Blueprint*	0	0	-1	Инструмент*
+R.Db - Duvolle Labs Blueprint*	0	0	-1	Инструмент*
+R.Db - Kaalakiota Blueprint*	0	0	-1	Инструмент*
+R.Db - Lai Dai Blueprint*	0	0	-1	Инструмент*
+R.Db - Thukker Mix Blueprint*	0	0	-1	Инструмент*
+R.Db - Viziam Blueprint*	0	0	-1	Инструмент*
+Radar Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+Rapid Heavy Missile Launcher I Blueprint*	0	0	-1	Скорострельная ПУ ракет большой мощности*
+Rapid Heavy Missile Launcher I Blueprint*	10	20	-1	Скорострельная ПУ ракет большой мощности*
+Rapid Heavy Missile Launcher I Blueprint*	0	0	-1	Скорострельная ПУ ракет большой мощности*
+Rapid Heavy Missile Launcher I Blueprint*	0	0	-1	Скорострельная ПУ ракет большой мощности*
+Rapid Light Missile Launcher I Blueprint*	10	20	-1	Скорострельная ПУ ракет малой мощности*
+Reconfigured Subspace Calibrator Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Reinforced Metallofullerene Alloys Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Retriever Blueprint*	10	18	-1	Буровой корабль*
+Rocket Launcher I Blueprint*	10	20	-1	Пусковая установка ракет ближнего боя*
+S-R Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+S-R Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+Salvage Drone I Blueprint*	10	20	-1	Дрон-демонтажник*
+Scalar Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Scalar Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Scourge Auto-Targeting Cruise Missile I Blueprint*	0	0	-1	Дальнобойная ракета с авто-наведением*
+Scourge Auto-Targeting Heavy Missile I Blueprint*	0	0	-1	Тяжёлая ракета с авто-наведением*
+Scourge Auto-Targeting Light Missile I Blueprint*	0	0	-1	Лёгкая ракета с авто-наведением*
+Scourge Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Scourge Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Scourge Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Scourge Heavy Assault Missile Blueprint*	10	20	-1	Облегчённая ракета большой мощности*
+Scourge Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Scourge Heavy Missile Blueprint*	10	20	-1	Ракета большой мощности*
+Scourge Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Scourge Heavy Missile Blueprint*	10	20	-1	Ракета большой мощности*
+Scourge Light Missile Blueprint*	10	20	-1	Ракета малой мощности*
+Scourge Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Scourge Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Scourge Rocket Blueprint*	0	0	-1	Ракета ближнего боя*
+Scourge Torpedo Blueprint*	10	20	-1	Торпеда*
+Scourge Torpedo Blueprint*	0	0	-1	Торпеда*
+Shield Boost Amplifier I Blueprint*	10	20	-1	Усилитель накачки щита*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Small Capacitor Control Circuit I Blueprint*	10	20	-1	Тюнинг-модуль — энергосеть*
+Small Cargohold Optimization I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Small Core Defense Field Extender I Blueprint*	10	18	-1	Тюнинг-модуль — щит*
+Small EM Shield Reinforcer I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Small EM Shield Reinforcer I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Small Polycarbon Engine Housing I Blueprint*	10	20	-1	Тюнинг-модуль — астронавигация*
+Small Salvage Tackle I Blueprint*	0	0	-1	Тюнинг-модуль для переработки ресурсов*
+2 x Small Shield Booster I Blueprint*	0	0	-1	Установка накачки силового поля*
+Small Shield Extender I Blueprint*	10	20	-1	Расширитель щита*
+Small Thermal Shield Reinforcer I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Small Thermal Shield Reinforcer I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Small Tractor Beam I Blueprint*	10	20	-1	Гравизахват*
+Small Tractor Beam I Blueprint*	0	0	-1	Гравизахват*
+Small Tractor Beam I Blueprint*	0	0	-1	Гравизахват*
+Small Tractor Beam I Blueprint*	0	0	-1	Гравизахват*
+Standup M-Set Blueprint Copy Accelerator I Blueprint*	0	0	-1	Промышленный модификатор средних сооружений - ускорение копирования чертежей*
+Stasis Webifier I Blueprint*	10	20	-1	Генератор стазис-поля*
+Station Vault Container Blueprint*	0	0	-1	Защищенный контейнер с контролем доступа*
+Strip Miner I Blueprint*	10	20	-1	Буровой лазер валовой выемки*
+Strip Miner I Blueprint*	10	20	-1	Буровой лазер валовой выемки*
+Sustained Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Sustained Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Talwar Blueprint*	10	20	-1	Эсминец*
+Tayra Blueprint*	10	20	-1	Перевозчик*
+Tayra Blueprint*	0	0	-1	Перевозчик*
+Tesseract Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Thermal Shield Amplifier I Blueprint*	0	0	-1	Энергонезависимые модуляторы сопротивляемости полей*
+Thermal Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+Thermonuclear Trigger Unit Blueprint*	10	20	-1	Производственные компоненты*
+Thermonuclear Trigger Unit Blueprint*	10	20	-1	Производственные компоненты*
+Thrasher Blueprint*	10	20	-1	Эсминец*
+Titanium Diborite Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Titanium Diborite Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Torpedo Launcher I Blueprint*	10	20	-1	Торпедный аппарат*
+Torpedo Launcher I Blueprint*	10	20	-1	Торпедный аппарат*
+Tristan Blueprint*	0	0	-1	Фрегат*
+Tungsten Carbide Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Tungsten Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Tungsten Charge S Blueprint*	0	0	-1	Гибридные заряды*
+U-C Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+U-C Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Venture Blueprint*	10	20	-1	Фрегат*
+Venture Blueprint*	7	14	-1	Фрегат*
+Vespa EC-600 Blueprint*	10	20	-1	Дрон электронного противодействия*
+Vespa I Blueprint*	10	20	-1	Боевой дрон*
+Warden I Blueprint*	10	20	-1	Боевой дрон*
+Warfare Computation Core Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Warp Core Stabilizer I Blueprint*	8	20	-1	Стабилизатор квантового ядра*
+Warp Disruptor I Blueprint*	10	20	-1	Варп-глушитель*
+Warrior I Blueprint*	10	20	-1	Боевой дрон*
+Wasp I Blueprint*	0	0	-1	Боевой дрон*
