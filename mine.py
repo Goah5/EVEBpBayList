@@ -22,11 +22,11 @@ def get_MyBpList() -> set:
 
 
 def gen_BayBpList(BpList: list, MyBpList: set) -> list:
-    # ic(BpList, MyBpList)
     for i in MyBpList:
         for j in BpList:
             if i == j[j.index(' ')+1:-1]:
                 BpList.remove(j)
+                
     return BpList
 
 
@@ -34,22 +34,24 @@ def out_BayBpList(BpList: list):
     with open("BayBpList.txt", "w", encoding="utf8") as f:
         for i in BpList:
             f.write(i)
+
     return None
 
 def clearBpList_logic(BpList: list[str],id) -> list[str]:
     empty = None
-    # ic(id,BpList[id],BpList[id+1],BpList[id-1])
+
     for i in BpList[id+1:]:
         bpLlen = len(BpList[id][:BpList[id].index(" ")])
         ilen = len(i[:i.index(" ")])
+
         if i.startswith("+"):
-            # ic(i, BpList[id])
             if ilen == bpLlen: # ++ ++
                 empty = True
                 break
-            elif ilen-1 == bpLlen: #ПопПопка + ++
+            elif ilen-1 == bpLlen: #ПодПопка + ++
                 empty = False
                 break
+        
         elif i.startswith("-"):
             if ilen == bpLlen: # ++ --
                 empty = False
@@ -61,23 +63,18 @@ def clearBpList_logic(BpList: list[str],id) -> list[str]:
                 empty = True
                 break
 
-        
-
-                
     return empty
 
 
 
 def clearBpList(BpList: list[str]) -> list[str]:
-    # ic.disable()
     outBpList = BpList.copy()
 
     for id, j in enumerate(BpList[:-1]):
         empty = False
+
         if j.startswith("+"):
-            empty = clearBpList_logic(BpList, id)
-            # ic(id, j, empty)
-                        
+            empty = clearBpList_logic(BpList, id)                       
         
         if empty:
             # print(i,j,outBpList[i])
@@ -95,6 +92,6 @@ def mine():
     temp = clearBpList(temp)
     out_BayBpList(temp)
 
-# ic.disable()
+ic.disable()
 if __name__ == "__main__":
     mine()
