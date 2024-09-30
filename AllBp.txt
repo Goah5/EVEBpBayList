@@ -1,45 +1,37 @@
 + Чертежи и реакции
 ++ Cооружения
++++ FLEX Structures
+++++ Mining Structures
+---- Metenox Moon Drill Blueprint
+++++ Навигационные сооружения
+---- Ansiblex Jump Gate Blueprint
+---- Pharolux Cyno Beacon Blueprint
+---- Tenebrex Cyno Jammer Blueprint
 +++ Инфраструктура и владение космосом
+++++ Orbital Skyhooks
+---- Orbital Skyhook Blueprint
 ++++ Блоки воздействия на суверенитет
----- Infrastructure Hub Blueprint
----- Territorial Claim Unit Blueprint
+---- Sovereignty Hub Blueprint
 ++++ Военные расширения
----- Entrapment Array 1 Blueprint
----- Entrapment Array 2 Blueprint
----- Entrapment Array 3 Blueprint
----- Entrapment Array 4 Blueprint
----- Entrapment Array 5 Blueprint
----- Pirate Detection Array 1 Blueprint
----- Pirate Detection Array 2 Blueprint
----- Pirate Detection Array 3 Blueprint
----- Pirate Detection Array 4 Blueprint
----- Pirate Detection Array 5 Blueprint
----- Quantum Flux Generator 1 Blueprint
----- Quantum Flux Generator 2 Blueprint
----- Quantum Flux Generator 3 Blueprint
----- Quantum Flux Generator 4 Blueprint
----- Quantum Flux Generator 5 Blueprint
+---- Major Threat Detection Array 1 Blueprint
+---- Major Threat Detection Array 2 Blueprint
+---- Major Threat Detection Array 3 Blueprint
+---- Minor Threat Detection Array 1 Blueprint
+---- Minor Threat Detection Array 2 Blueprint
+---- Minor Threat Detection Array 3 Blueprint
 ++++ Промышленные расширения
----- Ore Prospecting Array 1 Blueprint
----- Ore Prospecting Array 2 Blueprint
----- Ore Prospecting Array 3 Blueprint
----- Ore Prospecting Array 4 Blueprint
----- Ore Prospecting Array 5 Blueprint
----- Survey Networks 1 Blueprint
----- Survey Networks 2 Blueprint
----- Survey Networks 3 Blueprint
----- Survey Networks 4 Blueprint
----- Survey Networks 5 Blueprint
+---- Isogen Prospecting Array 1 Blueprint
+---- Megacyte Prospecting Array 1 Blueprint
+---- Mexallon Prospecting Array 1 Blueprint
+---- Nocxium Prospecting Array 1 Blueprint
+---- Pyerite Prospecting Array 1 Blueprint
+---- Tritanium Prospecting Array 1 Blueprint
+---- Zydrine Prospecting Array 1 Blueprint
 ++++ Стратегические расширения
 ---- Advanced Logistics Network Blueprint
 ---- Cynosural Navigation Blueprint
 ---- Cynosural Suppression Blueprint
 ---- Supercapital Construction Facilities Blueprint
-+++ Навигационные сооружения
---- Ansiblex Jump Gate Blueprint
---- Pharolux Cyno Beacon Blueprint
---- Tenebrex Cyno Jammer Blueprint
 +++ Передвижные орбитальные станции
 ++++ Ангарные блоки
 ---- Ship Maintenance Array Blueprint
@@ -720,6 +712,8 @@
 ++++ Амаррские
 ---- Bestower Blueprint
 ---- Sigil Blueprint
+++++ Апвелл
+---- Squall Blueprint
 ++++ Галлентские
 ---- Epithal Blueprint
 ---- Iteron Mark V Blueprint
@@ -770,6 +764,8 @@
 ++++ Калдарские
 ---- Bustard Blueprint
 ---- Crane Blueprint
+---- Deluge Blueprint
+---- Torrent Blueprint
 ++++ Минматарские
 ---- Mastodon Blueprint
 ---- Prowler Blueprint
@@ -842,6 +838,8 @@
 +++ Фрейтеры
 ++++ Амаррские
 ---- Providence Blueprint
+++++ Апвелл
+---- Avalanche Blueprint
 ++++ Галлентские
 ---- Obelisk Blueprint
 ++++ Калдарские
@@ -2034,6 +2032,14 @@
 ----- Tesseract Capacitor Unit Blueprint
 ----- Tungsten Carbide Armor Plate Blueprint
 ----- U-C Trigger Neurolink Conduit Blueprint
++++++ Апвелл
+----- Electromechanical Microprocessor Blueprint
+----- Fission Reactor Unit Blueprint
+----- Fission Thruster Blueprint
+----- Hyperconductive Gravimetric Sensor Cluster Blueprint
+----- Metaprismatic Armor Plate Blueprint
+----- Pentachoron Capacitor Unit Blueprint
+----- Repelling Shield Emitter Blueprint
 +++++ Галлентские
 ----- Crystalline Carbonide Armor Plate Blueprint
 ----- Fusion Reactor Unit Blueprint

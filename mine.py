@@ -8,7 +8,7 @@ def get_AllBpList() -> list:
     return AllBp
 
 
-def get_MyBpList() -> set:
+def get_MyBpList() -> list:
     with open("MyBpList.txt", "r", encoding="utf8") as f:
         MyBpList = f.readlines()
     MyBpList = set(l[0:l.index("*")] for l in MyBpList)
