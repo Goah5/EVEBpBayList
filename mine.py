@@ -2,7 +2,7 @@ from icecream import ic
 
 
 class Blueprint:
-    def __init__(self, neme: str, me: int, te: int, runs: int, type_group: str, corp : bool = False ):
+    def __init__(self, neme: str, me: int, te: int, runs: int, type_group: str, corp: bool = False):
         """
         :param neme: Name blueprint
         :param me: Material Efficiency
@@ -59,7 +59,7 @@ class BlueprintDataBase:
         temp = self.get_blueprints(name)
 
         flag = False
-        for bruns, bcorp in [(b.runs,b.corp ) for b in temp]:
+        for bruns, bcorp in [(b.runs, b.corp) for b in temp]:
             if bruns == -1 and not bcorp:
                 return -1
             elif bruns == -1 and bcorp:
@@ -67,8 +67,41 @@ class BlueprintDataBase:
         if flag:
             return -2
 
-
         return sum([b.runs for b in temp])
+
+    def get_blueprint_my_corp(self, name: str) -> dict[list[Blueprint]]:
+        """
+        myBp,
+        myOrig,
+        myCopy,
+
+        corpBP,
+        corpOrig,
+        corpCopy,
+        """
+        ret = {"myBp": [], "corpBP": [], "myOrig": [],
+               "myCopy": [], "corpOrig": [], "corpCopy": []}
+
+        if not (name in self.blueprints.keys()):
+            return ret
+
+        temp = self.get_blueprints(name)
+
+        for bruns, bcorp, b in [(b.runs, b.corp, b) for b in temp]:
+            match bruns, bcorp:
+                case -1, False:
+                    ret["myBp"].append(b)
+                    ret["myOrig"].append(b)
+                case _, False:
+                    ret["myBp"].append(b)
+                    ret["myCopy"].append(b)
+                case -1, True:
+                    ret["corpBP"].append(b)
+                    ret["corpOrig"].append(b)
+                case _, True:
+                    ret["corpBP"].append(b)
+                    ret["corpCopy"].append(b)
+        return ret
 
 
 def get_MyBpList() -> BlueprintDataBase:
@@ -89,7 +122,8 @@ def get_MyBpList() -> BlueprintDataBase:
     # ic(temp)
     return (temp)
 
-def get_CorpBpList()-> BlueprintDataBase:
+
+def get_CorpBpList() -> BlueprintDataBase:
     with open("#CorpBpList.txt", "r", encoding="utf8") as f:
         MyBpList = f.readlines()
     temp = []
@@ -103,7 +137,7 @@ def get_CorpBpList()-> BlueprintDataBase:
         # ic(b)
         for _ in range(t):
             temp.append(Blueprint(b[0], int(b[1]),
-                        int(b[2]), int(b[3]), b[-1], corp= True))
+                        int(b[2]), int(b[3]), b[-1], corp=True))
     # ic(temp)
     return (temp)
 
@@ -112,8 +146,6 @@ def get_AllBpList() -> list:
     with open("#AllBp.txt", "r", encoding="utf8") as f:
         AllBp = f.readlines()
     return AllBp
-
-
 
 
 def removeEmptyBpList(BpList):
@@ -154,30 +186,54 @@ def out_BayBpList(BpList: list):
     return None
 
 
-def main():
-    BpDB = BlueprintDataBase(get_MyBpList(),get_CorpBpList())
+def main(mode="bay"):
+    BpDB = BlueprintDataBase(get_MyBpList(), get_CorpBpList())
     BpList = get_AllBpList()
-    for id, s in enumerate(BpList):
-        if s[0] == "+":
-            continue
-        t = BpDB.get_blueprint_run(s[s.index(' ')+1:-1])
-        match t:
-            case -1:
-                BpList[id] = ""
-            case -2:
-                BpList[id] = f"{BpList[id][:-1]} [Corp]\n"
-            case 0:
-                pass
-                # print(0)
-            case _:
-                BpList[id] = f"{BpList[id][:-1]} [{t}]\n"
 
-    out_BayBpList(removeEmptyBpList(BpList))
+    if mode == "bay":
+        for id, s in enumerate(BpList):
+            if s[0] == "+":
+                continue
+            t = BpDB.get_blueprint_run(s[s.index(' ')+1:-1])
+            match t:
+                case -1:
+                    BpList[id] = ""
+                case -2:
+                    BpList[id] = f"{BpList[id][:-1]} [Corp]\n"
+                case 0:
+                    pass
+                    # print(0)
+                case _:
+                    BpList[id] = f"{BpList[id][:-1]} [{t}]\n"
+
+        out_BayBpList(removeEmptyBpList(BpList))
+
+    elif mode == "copy":
+
+        for id, s in enumerate(BpList):
+            if s[0] == "+":
+                continue
+            t = BpDB.get_blueprint_my_corp(s[s.index(' ')+1:-1])
+            tLen = {y: len(t[y]) for y in t}
+            match tLen:
+                case {"myOrig": 0, "corpOrig": 0, "myCopy": 0}:
+                    BpList[id] = ""
+                case {"myOrig": 0, "corpOrig": 0, "myCopy": int}:
+                    BpList[id] = f"{BpList[id][:-1]} [{sum((i.runs for i in t["myCopy"]))}_runs]\n"
+                case {"myOrig": 0, "corpOrig": int}:
+                    BpList[id] = f"{BpList[id][:-1]} [{sum((i.runs for i in t["myCopy"]))}runs_CorpOrig]\n"
+                    if sum((i.runs for i in t["myCopy"])) < 5:
+                        if "Reaction Formula" not in BpList[id][:-1]:
+                            print(BpList[id][:-1])
+                case {"myOrig": int}:
+                    BpList[id] = ""
+                case _:
+                    ic(444, tLen)
+        out_BayBpList(removeEmptyBpList(BpList))
+
 
 # BpDB = BlueprintDataBase(get_MyBpList())
 # ic(BpDB.blueprints["Civilian Data Analyzer Blueprint"])
-
-
 if __name__ == "__main__":
 
-    main()
+    main("copy")
