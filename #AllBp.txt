@@ -21,12 +21,19 @@
 ---- Minor Threat Detection Array 3 Blueprint
 ++++ Промышленные расширения
 ---- Isogen Prospecting Array 1 Blueprint
+---- Isogen Prospecting Array 2 Blueprint
 ---- Megacyte Prospecting Array 1 Blueprint
+---- Megacyte Prospecting Array 2 Blueprint
 ---- Mexallon Prospecting Array 1 Blueprint
+---- Mexallon Prospecting Array 2 Blueprint
 ---- Nocxium Prospecting Array 1 Blueprint
+---- Nocxium Prospecting Array 2 Blueprint
 ---- Pyerite Prospecting Array 1 Blueprint
+---- Pyerite Prospecting Array 2 Blueprint
 ---- Tritanium Prospecting Array 1 Blueprint
+---- Tritanium Prospecting Array 2 Blueprint
 ---- Zydrine Prospecting Array 1 Blueprint
+---- Zydrine Prospecting Array 2 Blueprint
 ++++ Стратегические расширения
 ---- Advanced Logistics Network Blueprint
 ---- Cynosural Navigation Blueprint

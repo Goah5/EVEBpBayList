@@ -1,0 +1,530 @@
+Wasp I Blueprint*	0	0	-1	Боевой дрон*
+Warrior I Blueprint*	10	20	-1	Боевой дрон*
+Warp Disruptor I Blueprint*	10	20	-1	Варп-глушитель*
+Warp Core Stabilizer I Blueprint*	8	20	-1	Стабилизатор квантового ядра*
+Warfare Computation Core Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Warden I Blueprint*	10	20	-1	Боевой дрон*
+Vespa I Blueprint*	10	20	-1	Боевой дрон*
+Vespa EC-600 Blueprint*	10	20	-1	Дрон электронного противодействия*
+Venture Blueprint*	7	14	-1	Фрегат*
+Venture Blueprint*	10	20	-1	Фрегат*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Variegated Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+U-C Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+U-C Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+Tungsten Charge S Blueprint*	0	0	-1	Гибридные заряды*
+Tungsten Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Tungsten Carbide Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Tristan Blueprint*	0	0	-1	Фрегат*
+Torpedo Launcher I Blueprint*	10	20	-1	Торпедный аппарат*
+Torpedo Launcher I Blueprint*	10	20	-1	Торпедный аппарат*
+Titanium Diborite Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Titanium Diborite Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Thrasher Blueprint*	10	20	-1	Эсминец*
+Thermonuclear Trigger Unit Blueprint*	10	20	-1	Производственные компоненты*
+Thermonuclear Trigger Unit Blueprint*	10	20	-1	Производственные компоненты*
+Thermal Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+Thermal Shield Amplifier I Blueprint*	0	0	-1	Энергонезависимые модуляторы сопротивляемости полей*
+Tesseract Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Tayra Blueprint*	0	0	-1	Перевозчик*
+Tayra Blueprint*	10	20	-1	Перевозчик*
+Talwar Blueprint*	10	20	-1	Эсминец*
+Sustained Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Sustained Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Strip Miner I Blueprint*	10	20	-1	Буровой лазер валовой выемки*
+Strip Miner I Blueprint*	10	20	-1	Буровой лазер валовой выемки*
+Station Vault Container Blueprint*	0	0	-1	Защищенный контейнер с контролем доступа*
+Stasis Webifier I Blueprint*	10	20	-1	Генератор стазис-поля*
+Standup M-Set Blueprint Copy Accelerator I Blueprint*	0	0	-1	Промышленный модификатор средних сооружений - ускорение копирования чертежей*
+Small Tractor Beam I Blueprint*	0	0	-1	Гравизахват*
+Small Tractor Beam I Blueprint*	0	0	-1	Гравизахват*
+Small Tractor Beam I Blueprint*	0	0	-1	Гравизахват*
+Small Tractor Beam I Blueprint*	10	20	-1	Гравизахват*
+Small Thermal Shield Reinforcer I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Small Thermal Shield Reinforcer I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Small Shield Extender I Blueprint*	10	20	-1	Расширитель щита*
+2 x Small Shield Booster I Blueprint*	0	0	-1	Установка накачки силового поля*
+Small Salvage Tackle I Blueprint*	0	0	-1	Тюнинг-модуль для переработки ресурсов*
+Small Polycarbon Engine Housing I Blueprint*	10	20	-1	Тюнинг-модуль — астронавигация*
+Small EM Shield Reinforcer I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Small EM Shield Reinforcer I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Small Core Defense Field Extender I Blueprint*	10	18	-1	Тюнинг-модуль — щит*
+Small Cargohold Optimization I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Small Capacitor Control Circuit I Blueprint*	10	20	-1	Тюнинг-модуль — энергосеть*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Simple Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Shield Boost Amplifier I Blueprint*	10	20	-1	Усилитель накачки щита*
+Scourge Torpedo Blueprint*	0	0	-1	Торпеда*
+Scourge Torpedo Blueprint*	10	20	-1	Торпеда*
+Scourge Rocket Blueprint*	0	0	-1	Ракета ближнего боя*
+Scourge Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Scourge Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Scourge Light Missile Blueprint*	10	20	-1	Ракета малой мощности*
+Scourge Heavy Missile Blueprint*	10	20	-1	Ракета большой мощности*
+Scourge Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Scourge Heavy Missile Blueprint*	10	20	-1	Ракета большой мощности*
+Scourge Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Scourge Heavy Assault Missile Blueprint*	10	20	-1	Облегчённая ракета большой мощности*
+Scourge Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Scourge Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Scourge Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Scourge Auto-Targeting Light Missile I Blueprint*	0	0	-1	Лёгкая ракета с авто-наведением*
+Scourge Auto-Targeting Heavy Missile I Blueprint*	0	0	-1	Тяжёлая ракета с авто-наведением*
+Scourge Auto-Targeting Cruise Missile I Blueprint*	0	0	-1	Дальнобойная ракета с авто-наведением*
+Scalar Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Scalar Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Salvage Drone I Blueprint*	10	20	-1	Дрон-демонтажник*
+S-R Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+S-R Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+Rocket Launcher I Blueprint*	10	20	-1	Пусковая установка ракет ближнего боя*
+Retriever Blueprint*	10	18	-1	Буровой корабль*
+Reinforced Metallofullerene Alloys Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Reconfigured Subspace Calibrator Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Rapid Light Missile Launcher I Blueprint*	10	20	-1	Скорострельная ПУ ракет малой мощности*
+Rapid Heavy Missile Launcher I Blueprint*	0	0	-1	Скорострельная ПУ ракет большой мощности*
+Rapid Heavy Missile Launcher I Blueprint*	0	0	-1	Скорострельная ПУ ракет большой мощности*
+Rapid Heavy Missile Launcher I Blueprint*	10	20	-1	Скорострельная ПУ ракет большой мощности*
+Rapid Heavy Missile Launcher I Blueprint*	0	0	-1	Скорострельная ПУ ракет большой мощности*
+Radar Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+R.Db - Viziam Blueprint*	0	0	-1	Инструмент*
+R.Db - Thukker Mix Blueprint*	0	0	-1	Инструмент*
+R.Db - Lai Dai Blueprint*	0	0	-1	Инструмент*
+R.Db - Kaalakiota Blueprint*	0	0	-1	Инструмент*
+R.Db - Duvolle Labs Blueprint*	0	0	-1	Инструмент*
+2 x R.Db - CreoDron Blueprint*	0	0	-1	Инструмент*
+R.Db - Core Complexion Blueprint*	0	0	-1	Инструмент*
+R.A.M.- Weapon Tech Blueprint*	10	14	-1	Инструмент*
+R.A.M.- Weapon Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Starship Tech Blueprint*	10	14	-1	Инструмент*
+R.A.M.- Starship Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Shield Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Robotics Blueprint*	9	16	-1	Инструмент*
+R.A.M.- Robotics Blueprint*	0	0	-1	Инструмент*
+R.A.M.- Robotics Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Energy Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Energy Tech Blueprint*	0	0	-1	Инструмент*
+R.A.M.- Electronics Blueprint*	9	0	-1	Инструмент*
+R.A.M.- Electronics Blueprint*	10	0	-1	Инструмент*
+R.A.M.- Armor/Hull Tech Blueprint*	10	20	-1	Инструмент*
+R.A.M.- Armor/Hull Tech Blueprint*	0	0	-1	Инструмент*
+R.A.M.- Ammunition Tech Blueprint*	9	14	-1	Инструмент*
+R.A.M.- Ammunition Tech Blueprint*	10	20	-1	Инструмент*
+R-O Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+R-O Trigger Neurolink Conduit Blueprint*	10	20	-1	Производственные компоненты*
+Quantum Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+Quantum Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+Pulse Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Pulse Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Proton L Blueprint*	10	20	-1	Снаряды*
+Plutonium Charge S Blueprint*	0	0	-1	Гибридные заряды*
+Plasma Pulse Generator Blueprint*	10	20	-1	Производственные компоненты*
+Photon Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+Photon Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+Phased Plasma S Blueprint*	10	20	-1	Снаряды*
+Phased Plasma M Blueprint*	0	0	-1	Снаряды*
+Phased Plasma M Blueprint*	10	20	-1	Снаряды*
+Phased Plasma L Blueprint*	10	20	-1	Снаряды*
+Particle Accelerator Unit Blueprint*	10	20	-1	Производственные компоненты*
+Particle Accelerator Unit Blueprint*	10	20	-1	Производственные компоненты*
+Oxygen Fuel Block Blueprint*	10	20	-1	Топливный блок*
+Oxygen Fuel Block Blueprint*	10	20	-1	Топливный блок*
+Osprey Blueprint*	10	20	-1	Крейсер*
+Oscillator Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Oscillator Capacitor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Optimized Nano-Engines Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Ogre I Blueprint*	10	20	-1	Боевой дрон*
+Nuclear Pulse Generator Blueprint*	10	20	-1	Производственные компоненты*
+Nova Torpedo Blueprint*	0	0	-1	Торпеда*
+Nova Torpedo Blueprint*	0	0	-1	Торпеда*
+Nova Rocket Blueprint*	0	0	-1	Ракета ближнего боя*
+Nova Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Nova Light Missile Blueprint*	2	2	-1	Ракета малой мощности*
+Nova Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Nova Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Nova Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Nova Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Nova Cruise Missile Blueprint*	0	0	-1	Ракета дальнего боя*
+Nova Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Nova Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Nitrogen Fuel Block Blueprint*	0	0	-1	Топливный блок*
+Neurovisual Output Analyzer Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Nanowire Composites Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Nanofiber Internal Structure I Blueprint*	0	0	-1	Нановолоконная несущая конструкция*
+Nanoelectrical Microprocessor Blueprint*	10	20	-1	Производственные компоненты*
+Nanite Repair Paste Blueprint*	10	20	-1	Nanite Repair Paste*
+Multispectrum Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+Multispectrum Energized Membrane I Blueprint*	10	20	-1	Подзаряжающаяся мембрана брони*
+Mobile Tractor Unit Blueprint*	10	20	23	Автономный блок сбора трофеев*
+Moa Blueprint*	0	0	-1	Крейсер*
+Mjolnir Torpedo Blueprint*	0	0	-1	Торпеда*
+Mjolnir Torpedo Blueprint*	0	0	-1	Торпеда*
+Mjolnir Rocket Blueprint*	0	0	-1	Ракета ближнего боя*
+Mjolnir Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Mjolnir Light Missile Blueprint*	0	0	-1	Ракета малой мощности*
+Mjolnir Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Mjolnir Heavy Missile Blueprint*	10	0	-1	Ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	10	20	-1	Облегчённая ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Mjolnir Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Mjolnir Cruise Missile Blueprint*	7	0	-1	Ракета дальнего боя*
+Mjolnir Cruise Missile Blueprint*	0	0	-1	Ракета дальнего боя*
+Mjolnir Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Mining Laser Upgrade I Blueprint*	10	20	-1	Пакет модернизации экстракторов*
+Mining Laser Upgrade I Blueprint*	10	20	-1	Пакет модернизации экстракторов*
+Mining Drone I Blueprint*	10	20	-1	Буровой дрон*
+Miasmos Blueprint*	0	0	-1	Перевозчик*
+Metallofullerene Plating Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Merlin Blueprint*	7	20	-1	Фрегат*
+Merlin Blueprint*	10	20	-1	Фрегат*
+Mercoxit Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора на меркоцит*
+Medium Thermal Shield Reinforcer I Blueprint*	10	0	-1	Тюнинг-модуль — щит*
+Medium Shield Extender I Blueprint*	10	20	-1	Расширитель щита*
+Medium Shield Booster I Blueprint*	0	0	-1	Установка накачки силового поля*
+Medium Semiconductor Memory Cell I Blueprint*	10	20	-1	Тюнинг-модуль — энергосеть*
+Medium Salvage Tackle I Blueprint*	10	20	-1	Тюнинг-модуль для переработки ресурсов*
+Medium Low Friction Nozzle Joints I Blueprint*	0	0	60	Тюнинг-модуль — астронавигация*
+Medium Low Friction Nozzle Joints I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Medium Hyperspatial Velocity Optimizer I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Medium Hydraulic Bay Thrusters I Blueprint*	0	0	-1	Тюнинг-модуль — ракетное оружие*
+Medium EM Shield Reinforcer I Blueprint*	10	0	-1	Тюнинг-модуль — щит*
+Medium Core Defense Field Extender I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Medium Core Defense Field Extender I Blueprint*	0	0	-1	Тюнинг-модуль — щит*
+Medium Core Defense Field Extender I Blueprint*	10	0	-1	Тюнинг-модуль — щит*
+Medium Cargohold Optimization I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Medium Cargohold Optimization I Blueprint*	10	0	-1	Тюнинг-модуль — астронавигация*
+Medium Capacitor Control Circuit I Blueprint*	9	0	-1	Тюнинг-модуль — энергосеть*
+Medium Ancillary Current Router I Blueprint*	0	0	-1	Тюнинг-модуль — энергосеть*
+Medium Ancillary Current Router I Blueprint*	10	20	-1	Тюнинг-модуль — энергосеть*
+Medium Ancillary Current Router I Blueprint*	10	20	-1	Тюнинг-модуль — энергосеть*
+Maulus Blueprint*	0	0	-1	Фрегат*
+Magpulse Thruster Blueprint*	10	20	-1	Производственные компоненты*
+Magnetometric Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+Magnetometric Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+Linear Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Linear Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Light Missile Launcher I Blueprint*	10	20	-1	Пусковая установка ракет малой мощности*
+Life Support Backup Unit Blueprint*	10	20	-1	Производственные компоненты*
+Lead Charge S Blueprint*	0	0	-1	Гибридные заряды*
+Lead Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Laser Focusing Crystals Blueprint*	10	20	-1	Производственные компоненты*
+Laser Focusing Crystals Blueprint*	10	20	-1	Производственные компоненты*
+Large Shield Extender I Blueprint*	0	0	-1	Расширитель щита*
+Large Shield Extender I Blueprint*	10	20	-1	Расширитель щита*
+Large Shield Booster I Blueprint*	10	20	-1	Установка накачки силового поля*
+Large Salvage Tackle I Blueprint*	0	20	-1	Тюнинг-модуль для переработки ресурсов*
+Large Drone Scope Chip I Blueprint*	10	0	-1	Тюнинг-модуль — дроны*
+Large Core Defense Field Extender I Blueprint*	10	20	-1	Тюнинг-модуль — щит*
+Large Cargohold Optimization I Blueprint*	0	0	-1	Тюнинг-модуль — астронавигация*
+Large Cargohold Optimization I Blueprint*	7	20	-1	Тюнинг-модуль — астронавигация*
+Kryos Blueprint*	0	0	-1	Перевозчик*
+Kinetic Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+Kinetic Shield Amplifier I Blueprint*	0	0	-1	Энергонезависимые модуляторы сопротивляемости полей*
+Kestrel Blueprint*	10	20	-1	Фрегат*
+Iteron Mark V Blueprint*	0	0	-1	Перевозчик*
+Iteron Mark V Blueprint*	10	20	-1	Перевозчик*
+Iron Charge M Blueprint*	10	20	-1	Гибридные заряды*
+Iron Charge M Blueprint*	10	0	-1	Гибридные заряды*
+Iron Charge M Blueprint*	10	20	-1	Гибридные заряды*
+Iron Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Iron Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Ion Thruster Blueprint*	10	20	-1	Производственные компоненты*
+Ion Thruster Blueprint*	10	20	-1	Производственные компоненты*
+Inferno Torpedo Blueprint*	0	0	-1	Торпеда*
+Inferno Torpedo Blueprint*	0	0	-1	Торпеда*
+Inferno Rocket Blueprint*	10	20	-1	Ракета ближнего боя*
+Inferno Rocket Blueprint*	3	6	-1	Ракета ближнего боя*
+Inferno Rocket Blueprint*	0	0	-1	Ракета ближнего боя*
+Inferno Light Missile Blueprint*	10	20	-1	Ракета малой мощности*
+Inferno Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Inferno Heavy Missile Blueprint*	0	0	-1	Ракета большой мощности*
+Inferno Heavy Assault Missile Blueprint*	10	20	-1	Облегчённая ракета большой мощности*
+Inferno Heavy Assault Missile Blueprint*	10	20	-1	Облегчённая ракета большой мощности*
+Inferno Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Inferno Heavy Assault Missile Blueprint*	0	0	-1	Облегчённая ракета большой мощности*
+Inferno Cruise Missile Blueprint*	0	0	-1	Ракета дальнего боя*
+Inferno Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Inferno Cruise Missile Blueprint*	10	20	-1	Ракета дальнего боя*
+Inferno Auto-Targeting Light Missile I Blueprint*	1	0	-1	Лёгкая ракета с авто-наведением*
+Inferno Auto-Targeting Light Missile I Blueprint*	1	0	-1	Лёгкая ракета с авто-наведением*
+Incursus Blueprint*	0	0	-1	Фрегат*
+Imicus Blueprint*	7	14	-1	Фрегат*
+Imicus Blueprint*	0	0	-1	Фрегат*
+Ice Harvester Upgrade I Blueprint*	10	20	-1	Пакет модернизации экстракторов*
+Ice Harvester I Blueprint*	10	20	-1	Буровой лазер валовой выемки*
+Ice Harvester I Blueprint*	10	20	-1	Буровой лазер валовой выемки*
+Hydrogen Fuel Block Blueprint*	0	0	-1	Топливный блок*
+Hornet I Blueprint*	10	20	-1	Боевой дрон*
+Hornet EC-300 Blueprint*	10	20	-1	Дрон электронного противодействия*
+Hobgoblin I Blueprint*	0	20	-1	Боевой дрон*
+Hobgoblin I Blueprint*	0	0	-1	Боевой дрон*
+Hobgoblin I Blueprint*	0	20	-1	Боевой дрон*
+Hobgoblin I Blueprint*	10	20	-1	Боевой дрон*
+Heron Blueprint*	0	0	-1	Фрегат*
+Heron Blueprint*	10	20	-1	Фрегат*
+Heron Blueprint*	0	10	-1	Фрегат*
+Helium Fuel Block Blueprint*	0	0	-1	Топливный блок*
+Helium Fuel Block Blueprint*	10	20	-1	Топливный блок*
+Heavy Missile Launcher I Blueprint*	10	20	-1	Пусковая установка ракет большой мощности*
+Heavy Assault Missile Launcher I Blueprint*	10	20	-1	Пусковая установка облегчённых ракет большой мощности*
+Hammerhead I Blueprint*	10	20	-1	Боевой дрон*
+Hammerhead I Blueprint*	10	20	-1	Боевой дрон*
+Griffin Blueprint*	10	20	-1	Фрегат*
+Graviton Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Graviton Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Graviton Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Graviton Pulse Generator Blueprint*	10	20	-1	Производственные компоненты*
+Graviton Pulse Generator Blueprint*	10	0	-1	Производственные компоненты*
+Gravimetric Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+Gravimetric Sensor Cluster Blueprint*	10	20	-1	Производственные компоненты*
+Garde I Blueprint*	10	20	-1	Боевой дрон*
+Gallente Shuttle Blueprint*	0	0	-1	Личный катер*
+Fusion Thruster Blueprint*	10	20	-1	Производственные компоненты*
+Fusion Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Fusion Reactor Unit Blueprint*	10	20	-1	Производственные компоненты*
+Fusion M Blueprint*	10	20	-1	Снаряды*
+Fusion L Blueprint*	10	20	-1	Снаряды*
+Fulleroferrocene Power Conduits Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Fullerene Intercalated Sheets Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Ferox Blueprint*	10	0	-1	Линейный крейсер общего назначения*
+Explosive Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+Explosive Shield Amplifier I Blueprint*	0	0	-1	Энергонезависимые модуляторы сопротивляемости полей*
+Expanded Cargohold I Blueprint*	0	0	-1	Расширение грузового отсека*
+Epithal Blueprint*	0	0	-1	Перевозчик*
+Epithal Blueprint*	0	20	-1	Перевозчик*
+EMP M Blueprint*	10	20	-1	Снаряды*
+EMP M Blueprint*	10	20	-1	Снаряды*
+Emergent Neurovisual Interface Blueprint*	0	0	-1	Компоненты гибридных технологий*
+EM Shield Hardener I Blueprint*	10	20	-1	Система настройки щита*
+EM Shield Amplifier I Blueprint*	0	0	-1	Энергонезависимые модуляторы сопротивляемости полей*
+EM Pulse Generator Blueprint*	10	20	-1	Производственные компоненты*
+Electromechanical Interface Nexus Blueprint*	0	0	-1	Компоненты гибридных технологий*
+Drake Blueprint*	10	0	-1	Линейный крейсер общего назначения*
+Dragoon Blueprint*	10	20	-1	Эсминец*
+Dragoon Blueprint*	8	0	-1	Эсминец*
+Depleted Uranium L Blueprint*	10	20	-1	Снаряды*
+Deflection Shield Emitter Blueprint*	10	20	-1	Производственные компоненты*
+Defender Missile I Blueprint*	0	0	-1	Противоракеты*
+Deep Core Mining Laser I Blueprint*	10	20	-1	Буровой лазер*
+Deep Core Mining Laser I Blueprint*	10	20	-1	Буровой лазер*
+Damage Control I Blueprint*	10	20	-1	Модуль боевой живучести*
+Crystalline Carbonide Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Crystalline Carbonide Armor Plate Blueprint*	10	20	-1	Производственные компоненты*
+Cruise Missile Launcher I Blueprint*	9	18	-1	Пусковая установка ракет дальнего боя*
+Cruise Missile Launcher I Blueprint*	10	20	-1	Пусковая установка ракет дальнего боя*
+Cormorant Blueprint*	0	0	-1	Эсминец*
+Cormorant Blueprint*	10	20	-1	Эсминец*
+Core Temperature Regulator Blueprint*	9	16	-1	Производственные компоненты*
+Corax Blueprint*	10	20	-1	Эсминец*
+Condor Blueprint*	10	20	-1	Фрегат*
+Condor Blueprint*	0	0	-1	Фрегат*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Complex Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+4 x Coherent Asteroid Mining Crystal Type A I Blueprint*	0	0	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Coherent Asteroid Mining Crystal Type A I Blueprint*	10	20	-1	Кристалл настройки экстрактора*
+Civilian Mining Drone Blueprint*	0	0	-1	Буровой дрон*
+15 x Civilian Data Analyzer Blueprint*	0	0	-1	Программно-аналитический комплекс*
+Catalyst Blueprint*	10	20	-1	Эсминец*
+Caracal Blueprint*	10	20	-1	Крейсер*
+Capital Construction Parts Blueprint*	10	20	-1	Компоненты кораблей большого тоннажа*
+Capital Cargo Bay Blueprint*	10	20	-1	Компоненты кораблей большого тоннажа*
+Cap Recharger I Blueprint*	10	20	-1	Система подзарядки конденсатора*
+Cap Booster 800 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 800 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 50 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 400 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 400 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Cap Booster 25 Blueprint*	0	0	-1	Заряд системы пополнения накопителя*
+Cap Booster 200 Blueprint*	0	0	-1	Заряд системы пополнения накопителя*
+Cap Booster 150 Blueprint*	10	20	-1	Заряд системы пополнения накопителя*
+Caldari Shuttle Blueprint*	10	20	-1	Личный катер*
+Blackbird Blueprint*	10	18	-1	Крейсер*
+Ballistic Control System I Blueprint*	10	20	-1	Баллистические вычислители*
+Auto-Integrity Preservation Seal Blueprint*	10	14	-1	Производственные компоненты*
+Atron Blueprint*	0	0	-1	Фрегат*
+Antimatter Charge S Blueprint*	0	0	-1	Гибридные заряды*
+Antimatter Charge S Blueprint*	10	20	-1	Гибридные заряды*
+Antimatter Charge M Blueprint*	10	20	-1	Гибридные заряды*
+Antimatter Charge M Blueprint*	0	0	-1	Гибридные заряды*
+Antimatter Charge M Blueprint*	0	0	-1	Гибридные заряды*
+Antimatter Charge L Blueprint*	10	20	-1	Гибридные заряды*
+Algos Blueprint*	10	20	-1	Эсминец*
+Acolyte I Blueprint*	10	20	-1	Боевой дрон*
+5MN Microwarpdrive I Blueprint*	10	20	-1	Движительные модули*
+1MN Afterburner I Blueprint*	0	0	-1	Движительные модули*
+1MN Afterburner I Blueprint*	0	0	-1	Движительные модули*
+Vanadium Hafnite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Vanadium Hafnite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Titanium Chromide Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Thulium Hafnite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Solerium Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Prometium Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Promethium Mercurite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Platinum Technite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Neo Mercurite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Hyperflurite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Hexite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Fluxed Condensates Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Ferrofluid Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Fernite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Dysporite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Unrefined Caesarium Cadmide Reaction Formula*	0	0	-1	Полуфабрикаты*
+Ultradian-Cycling Neurolink Stabilizer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Tungsten Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Titanium Chromide Reaction Formula*	0	0	-1	Полуфабрикаты*
+Titanium Chromide Reaction Formula*	0	0	-1	Полуфабрикаты*
+8 x Titanium Chromide Reaction Formula*	0	0	-1	Полуфабрикаты*
+Titanium Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+4 x Titanium Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+Thulium Hafnite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Thulium Hafnite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Thulium Hafnite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Thulium Hafnite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Thermosetting Polymer Reaction Formula*	0	0	-1	Полуфабрикаты*
+Thermosetting Polymer Reaction Formula*	0	0	-1	Полуфабрикаты*
+Thermosetting Polymer Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Thermosetting Polymer Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Terahertz Metamaterials Reaction Formula*	0	0	-1	Композитные вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+Synth Blue Pill Booster Reaction Formula*	0	0	-1	Биохимические вещества*
+Sylramic Fibers Reaction Formula*	0	0	-1	Композитные вещества*
+Sylramic Fibers Reaction Formula*	0	0	-1	Композитные вещества*
+Sylramic Fibers Reaction Formula*	0	0	-1	Композитные вещества*
+2 x Sylramic Fibers Reaction Formula*	0	0	-1	Композитные вещества*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Sulfuric Acid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Stress-Responding Neurolink Stabilizer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Solerium Reaction Formula*	0	0	-1	Полуфабрикаты*
+Solerium Reaction Formula*	0	0	-1	Полуфабрикаты*
+Silicon Diborite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Silicon Diborite Reaction Formula*	0	0	-1	Полуфабрикаты*
+3 x Silicon Diborite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Sense-Heuristic Neurolink Enhancer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Scandium Metallofullerene Reaction Formula*	0	0	-1	Гибридные полимеры*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Rolled Tungsten Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Reinforced Carbon Fiber Reaction Formula*	0	0	-1	Композитные вещества*
+Reinforced Carbon Fiber Reaction Formula*	0	0	-1	Композитные вещества*
+Reinforced Carbon Fiber Reaction Formula*	0	0	-1	Композитные вещества*
+Reaction-Orienting Neurolink Stabilizer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Prometium Reaction Formula*	0	0	-1	Полуфабрикаты*
+Prometium Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Promethium Mercurite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Pressurized Oxidizers Reaction Formula*	0	0	-1	Композитные вещества*
+PPD Fullerene Fibers Reaction Formula*	0	0	-1	Гибридные полимеры*
+Platinum Technite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Platinum Technite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Plasmonic Metamaterials Reaction Formula*	0	0	-1	Композитные вещества*
+Photonic Metamaterials Reaction Formula*	0	0	-1	Композитные вещества*
+Photonic Metamaterials Reaction Formula*	0	0	-1	Композитные вещества*
+Photonic Metamaterials Reaction Formula*	0	0	-1	Композитные вещества*
+2 x Photonic Metamaterials Reaction Formula*	0	0	-1	Композитные вещества*
+Phenolic Composites Reaction Formula*	0	0	-1	Композитные вещества*
+Oxy-Organic Solvents Reaction Formula*	0	0	-1	Полуфабрикаты*
+4 x Oxy-Organic Solvents Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Nonlinear Metamaterials Reaction Formula*	0	0	-1	Композитные вещества*
+Neo Mercurite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Neo Mercurite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Nanotransistors Reaction Formula*	0	0	-1	Композитные вещества*
+Methanofullerene Reaction Formula*	0	0	-1	Гибридные полимеры*
+Meta-Operant Neurolink Enhancer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Lanthanum Metallofullerene Reaction Formula*	0	0	-1	Гибридные полимеры*
+Isotropic Neofullerene Gamma-9 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Gamma-9 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Gamma-9 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Beta-6 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Beta-6 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Beta-6 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Alpha-3 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Alpha-3 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Isotropic Neofullerene Alpha-3 Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Hypnagogic Neurolink Enhancer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Hypersynaptic Fibers Reaction Formula*	0	0	-1	Композитные вещества*
+Hypersynaptic Fibers Reaction Formula*	0	0	-1	Композитные вещества*
+Hyperflurite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Hyperflurite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Hexite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Hexite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Hexite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Hexite Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Graphene Nanoribbons Reaction Formula*	0	0	-1	Гибридные полимеры*
+2 x Goal-Orienting Neurolink Stabilizer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Fulleroferrocene Reaction Formula*	0	0	-1	Гибридные полимеры*
+Fulleride Reaction Formula*	0	0	-1	Композитные вещества*
+Fulleride Reaction Formula*	0	0	-1	Композитные вещества*
+Fullerene Intercalated Graphite Reaction Formula*	0	0	-1	Гибридные полимеры*
+2 x Fluxed Condensates Reaction Formula*	0	0	-1	Полуфабрикаты*
+Ferrogel Reaction Formula*	0	0	-1	Композитные вещества*
+Ferrogel Reaction Formula*	0	0	-1	Композитные вещества*
+Ferrofluid Reaction Formula*	0	0	-1	Полуфабрикаты*
+Ferrofluid Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Fernite Carbide Reaction Formula*	0	0	-1	Композитные вещества*
+2 x Fernite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Fermionic Condensates Reaction Formula*	0	0	-1	Композитные вещества*
+Dysporite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Dysporite Reaction Formula*	0	0	-1	Полуфабрикаты*
+Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Crystallite Alloy Reaction Formula*	0	0	-1	Полуфабрикаты*
+Crystalline Carbonide Reaction Formula*	0	0	-1	Композитные вещества*
+Crystalline Carbonide Reaction Formula*	0	0	-1	Композитные вещества*
+Cogni-Emotive Neurolink Enhancer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*
+Ceramic Powder Reaction Formula*	0	0	-1	Полуфабрикаты*
+Ceramic Powder Reaction Formula*	0	0	-1	Полуфабрикаты*
+Ceramic Powder Reaction Formula*	0	0	-1	Полуфабрикаты*
+7 x Ceramic Powder Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x Carbon-86 Epoxy Resin Reaction Formula*	0	0	-1	Гибридные полимеры*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Polymers Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+Carbon Fiber Reaction Formula*	0	0	-1	Полуфабрикаты*
+Caesarium Cadmide Reaction Formula*	0	0	-1	Полуфабрикаты*
+4 x Caesarium Cadmide Reaction Formula*	0	0	-1	Полуфабрикаты*
+2 x C3-FTM Acid Reaction Formula*	0	0	-1	Гибридные полимеры*
+Axosomatic Neurolink Enhancer Reaction Formula*	0	0	-1	Молекулярно модифицированные материалы*

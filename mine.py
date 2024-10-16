@@ -1,149 +1,183 @@
-from icecream import *
 from icecream import ic
 
 
+class Blueprint:
+    def __init__(self, neme: str, me: int, te: int, runs: int, type_group: str, corp : bool = False ):
+        """
+        :param neme: Name blueprint
+        :param me: Material Efficiency
+        :param me: Time Efficiency
+        :param runs: Number of runs
+        :param storage: Storage
+        :param type_group: Type group
+        """
+        self.name = neme
+        self.me = me
+        self.te = te
+        self.runs = runs
+        self.orig = (runs == -1)
+        self.type_group = type_group
+        self.corp = corp
+
+
+class BlueprintDataBase:
+    def __init__(self, *blueprints: list[Blueprint]):
+        temp = {}
+        temp2 = []
+        for b in [b for b in sum(blueprints, [])]:
+            if b.name in temp.keys():
+                temp[b.name].append(b)
+            else:
+                temp[b.name] = [b,]
+        self.blueprints = temp
+
+    def get_blueprints(self, name: str, BpO=True, BpC=True) -> list[Blueprint]:
+        temp = []
+        if (BpO == BpC):
+            return self.blueprints[name]
+        elif BpO == True:
+            for i in self.blueprints[name]:
+                if i.orig:
+                    temp.append(i)
+        elif BpC == True:
+            for i in self.blueprints[name]:
+                if not i.orig:
+                    temp.append(i)
+
+        return temp
+
+    def get_blueprint_run(self, name: str) -> int:
+        """
+        0 if not found,
+        -1 if orig, 
+        -2 if corp orig,
+        else sum runs
+        """
+        if not (name in self.blueprints.keys()):
+            return 0
+
+        temp = self.get_blueprints(name)
+
+        flag = False
+        for bruns, bcorp in [(b.runs,b.corp ) for b in temp]:
+            if bruns == -1 and not bcorp:
+                return -1
+            elif bruns == -1 and bcorp:
+                flag = True
+        if flag:
+            return -2
+
+
+        return sum([b.runs for b in temp])
+
+
+def get_MyBpList() -> BlueprintDataBase:
+    with open("#MyBpList.txt", "r", encoding="utf8") as f:
+        MyBpList = f.readlines()
+    temp = []
+    for s in MyBpList:
+        if (t := s.split(' ')[0]).isdigit():
+            t = int(t)
+            s = s[s.index(" ")+3:]
+        else:
+            t = 1
+        b = s.replace("\n", "").replace("*", "").split("	")
+        # ic(b)
+        for _ in range(t):
+            temp.append(Blueprint(b[0], int(b[1]),
+                        int(b[2]), int(b[3]), b[-1]))
+    # ic(temp)
+    return (temp)
+
+def get_CorpBpList()-> BlueprintDataBase:
+    with open("#CorpBpList.txt", "r", encoding="utf8") as f:
+        MyBpList = f.readlines()
+    temp = []
+    for s in MyBpList:
+        if (t := s.split(' ')[0]).isdigit():
+            t = int(t)
+            s = s[s.index(" ")+3:]
+        else:
+            t = 1
+        b = s.replace("\n", "").replace("*", "").split("	")
+        # ic(b)
+        for _ in range(t):
+            temp.append(Blueprint(b[0], int(b[1]),
+                        int(b[2]), int(b[3]), b[-1], corp= True))
+    # ic(temp)
+    return (temp)
+
+
 def get_AllBpList() -> list:
-    with open("AllBp.txt", "r", encoding="utf8") as f:
+    with open("#AllBp.txt", "r", encoding="utf8") as f:
         AllBp = f.readlines()
     return AllBp
 
 
-def get_MyBpList() -> list:
-    with open("MyBpList.txt", "r", encoding="utf8") as f:
-        MyBpList = f.readlines()
-    MyBpList = set(l[0:l.index("*")] for l in MyBpList)
-    l = []
-    for s in MyBpList:
-        if s[s.index(" "):s.index(" ")+3] == " x ":
-            l.append(s[s.index(" ")+3:])
-        else:
-            l.append(s)
-    return l
 
 
-def gen_BayBpList(BpList: list, MyBpList: set) -> list:
-    for i in MyBpList:
-        for j in BpList:
-            if i == j[j.index(' ')+1:-1]:
-                BpList.remove(j)
+def removeEmptyBpList(BpList):
+    prevhash = 0
+    while hash(str(BpList)) != prevhash:
+        prevhash = hash(str(BpList))
+        for s in BpList:
+            if s == "":
+                BpList.remove(s)
+        for id, s in enumerate(BpList):
+            empty = True
+            if s.startswith("-"):
+                continue
+            elif s == "":
+                break
+            deep = len(s[:s.index(' ')])
+            for ss in BpList[id+1:]:
+                # ic(ss)
+                if ss == "":
+                    break
+                elif ss.startswith("-"):
+                    empty = False
+                    break
+                elif len(ss[:ss.index(' ')]) <= deep:
+                    break
+
+            if empty:
+                BpList[id] = ""
 
     return BpList
 
 
 def out_BayBpList(BpList: list):
-    with open("BayBpList.txt", "w", encoding="utf8") as f:
+    with open("#BayBpList.txt", "w", encoding="utf8") as f:
         for i in BpList:
             f.write(i)
 
     return None
 
 
-def clearBpList_logic(BpList: list[str], id, deep=1, startDeep=0) -> list[str]:
-    empty = None
-
-    if BpList[id] == BpList[-1]:
-        empty = True
-        return empty
-
-    for i in BpList[id+1:]:
-        ilen = len(i[:i.index(" ")])
-        if i.startswith("+"):
-            if ilen == startDeep:  # ++ ++
-                empty = True
-                break
-            elif ilen-1 == deep:  # ПодПопка + ++
-                deep += 1
-            elif ilen < deep:  # ++ +
-                deep -= 1
-
-        elif i.startswith("-"):
-            if ilen == startDeep:  # ++ --
-                empty = False
-                break
-            elif ilen > startDeep:  # ++ ---
-                empty = False
-                break
-            elif ilen < deep:  # ++ -
-                if startDeep < ilen:
-                    empty = False
-                    break
-
-    return empty
-
-
-def removeEmptyBpList(BpList: list[str]) -> list[str]:
-    outBpList = BpList.copy()
-
-    for id, i in enumerate(BpList):
-        empty = False
-
-        if i.startswith("+"):
-            empty = clearBpList_logic(BpList, id, deep := len(
-                BpList[id][:BpList[id].index(" ")]), deep)
-
-        if empty:
-            # print(i,j,outBpList[i])
-            outBpList[id] = ""
-
-    return outBpList
-
-
-def clearXBp(BpList: list[str], keys: set[str]) -> list[str]:
-    if not keys:
-        return BpList
-    
-    outBpList = BpList.copy()
-    for id, i in enumerate(BpList):
-        for j in keys:
-            if j in i:
-                outBpList[id] = ""
-                
-    for id, s in enumerate(outBpList[::-1]):
-        if s == "":
-            outBpList.remove(s)
-
-    return outBpList
-
-
-def gen_remKeys(setting) -> set[str]:
-    keys = set()
-    if setting.remXL:
-        keys.add(" XL ")
-        keys.add("Capital ")
-        keys.add("0000MN")
-    if setting.remStandup:
-        keys.add("Standup ")
-    if setting.remCivilian:
-        keys.add("Civilian ")
-    return keys
-
-
-def mine(settings):
-    # experimental
-    settings.remOn = False    # On/Off
-
-    settings.remXL = True    # XL/Capital/0000MN
-    settings.remStandup = True    # Standup
-    settings.remCivilian = True    # Civilian
-
+def main():
+    BpDB = BlueprintDataBase(get_MyBpList(),get_CorpBpList())
     BpList = get_AllBpList()
-    MyBpList = get_MyBpList()
-    temp = gen_BayBpList(BpList, MyBpList)
-    if settings.remOn:
-        keys = gen_remKeys(settings)
-        temp = clearXBp(temp, keys)
-    temp = removeEmptyBpList(temp)
-    out_BayBpList(temp)
+    for id, s in enumerate(BpList):
+        if s[0] == "+":
+            continue
+        t = BpDB.get_blueprint_run(s[s.index(' ')+1:-1])
+        match t:
+            case -1:
+                BpList[id] = ""
+            case -2:
+                BpList[id] = f"{BpList[id][:-1]} [Corp]\n"
+            case 0:
+                pass
+                # print(0)
+            case _:
+                BpList[id] = f"{BpList[id][:-1]} [{t}]\n"
+
+    out_BayBpList(removeEmptyBpList(BpList))
+
+# BpDB = BlueprintDataBase(get_MyBpList())
+# ic(BpDB.blueprints["Civilian Data Analyzer Blueprint"])
 
 
-class Settings:
-    def __init__(self):
-        self.remOn = False
-        self.remXL = False
-        self.remStandup = False
-        self.remCivilian = False
-
-
-ic.disable()
 if __name__ == "__main__":
-    mine(Settings())
+
+    main()
